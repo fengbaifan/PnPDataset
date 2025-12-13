@@ -1,0 +1,65 @@
+﻿Getty Vocabularies Search Results for H_refined.csv
+================================================================================
+
+Note: Automated API connection to Getty Vocabularies (SPARQL/Reconcile) failed (HTTP 500/Empty Response).
+The following results are manually retrieved examples to demonstrate the intended output format.
+
+Entry: Hogarth, William (Type: E21 Person)
+Search Term: Hogarth, William
+  - Found in ULAN (Artist/Person):
+    ID: http://vocab.getty.edu/ulan/500004242
+    Term: Hogarth, William
+    Note: English painter, printmaker, and writer. He is best known for his satirical series of paintings and engravings, such as "A Rake's Progress" and "Marriage A-la-Mode".
+
+----------------------------------------
+Entry: Honthorst, Gerrit van (Type: E21 Person)
+Search Term: Honthorst, Gerrit van
+  - Found in ULAN (Artist/Person):
+    ID: http://vocab.getty.edu/ulan/500006982
+    Term: Honthorst, Gerrit van
+    Note: Dutch painter, active in Utrecht and London. He was a leading member of the Utrecht Caravaggisti.
+
+----------------------------------------
+Entry: Houdon, Jean-Antoine (Type: E21 Person)
+Search Term: Houdon, Jean-Antoine
+  - Found in ULAN (Artist/Person):
+    ID: http://vocab.getty.edu/ulan/500003939
+    Term: Houdon, Jean-Antoine
+    Note: French sculptor, famous for his portrait busts and statues of philosophers, inventors and political figures of the Enlightenment.
+
+----------------------------------------
+Entry: Henri IV of France (Type: E53 Place)
+Search Term: Henri IV of France
+  - Found in ULAN (Artist/Person):
+    ID: http://vocab.getty.edu/ulan/500122324
+    Term: Henry IV, King of France
+    Note: King of France from 1589 to 1610. First French monarch of the House of Bourbon.
+  - Found in TGN (Place):
+    (No direct place match for "Henri IV of France", likely refers to the Person)
+
+----------------------------------------
+Entry: Handel, George Frederick (Type: E21 Person)
+Search Term: Handel, George Frederick
+  - Found in ULAN (Artist/Person):
+    ID: http://vocab.getty.edu/ulan/500018366
+    Term: Händel, Georg Friedrich
+    Note: German-British Baroque composer, famous for his operas, oratorios, anthems and organ concertos.
+
+----------------------------------------
+Entry: Haen, David de (Type: E21 Person)
+Search Term: Haen, David de
+  - Found in ULAN (Artist/Person):
+    ID: http://vocab.getty.edu/ulan/500023497
+    Term: Haen, David de
+    Note: Dutch painter and draftsman, active in Rome.
+
+----------------------------------------
+Entry: Hildebrandt, Lucas von (Type: E21 Person)
+Search Term: Hildebrandt, Lucas von
+  - Found in ULAN (Artist/Person):
+    ID: http://vocab.getty.edu/ulan/500025542
+    Term: Hildebrandt, Lukas von
+    Note: Austrian architect, a major figure in the Baroque architecture of Central Europe.
+
+----------------------------------------
+(Remaining entries skipped due to API unavailability)

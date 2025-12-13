@@ -1,0 +1,63 @@
+Getty Enrichment Sample Results (Top 10 from B_refined.csv)
+=========================================================
+
+Entity: 'Baciccio'
+Type: E21 Person
+  No matches found in first 5M lines.
+
+---------------------------------------------------------
+
+Entity: Bernardine Baccinelli
+Type: E21 Person
+  No matches found in first 5M lines.
+
+---------------------------------------------------------
+
+Entity: Bacon, Sir Francis
+Type: E21 Person
+  No matches found in first 5M lines.
+
+---------------------------------------------------------
+
+Entity: Baglione, Giovanni
+Type: E21 Person
+  No matches found in first 5M lines.
+
+---------------------------------------------------------
+
+Entity: Baglioni collection
+Type: E22 Man-Made Object
+  No matches found in first 5M lines.
+
+---------------------------------------------------------
+
+Entity: Bagnara, Duchess of
+Type: E21 Person
+  No matches found in first 5M lines.
+
+---------------------------------------------------------
+
+Entity: Bagutti, Pietro Martire
+Type: E21 Person
+  No matches found in first 5M lines.
+
+---------------------------------------------------------
+
+Entity: Baines, Sir Thomas
+Type: E21 Person
+  No matches found in first 5M lines.
+
+---------------------------------------------------------
+
+Entity: Baker, Thomas
+Type: E21 Person
+  No matches found in first 5M lines.
+
+---------------------------------------------------------
+
+Entity: Balbi, Paolo Battista
+Type: E21 Person
+  No matches found in first 5M lines.
+
+---------------------------------------------------------
+

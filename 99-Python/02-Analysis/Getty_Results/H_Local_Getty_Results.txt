@@ -1,0 +1,139 @@
+Local Getty ULAN Search Results for H_refined.csv
+================================================================================
+
+Entry: Haen, David de
+  Found 8 matching triples:
+    <http://vocab.getty.edu/ulan/500001364> <http://www.w3.org/2000/01/rdf-schema#label> "Haen, David de" .
+    <http://vocab.getty.edu/ulan/500001364> <http://www.w3.org/2004/02/skos/core#altLabel> "Haen, David de" .
+    <http://vocab.getty.edu/ulan/term/1500003729> <http://vocab.getty.edu/ontology#term> "Haen, David de" .
+    <http://vocab.getty.edu/ulan/term/1500003729> <http://www.w3.org/2008/05/skos-xl#literalForm> "Haen, David de" .
+    <http://vocab.getty.edu/ulan/500143437> <http://www.w3.org/2000/01/rdf-schema#label> "Haen, David de" .
+    <http://vocab.getty.edu/ulan/500143437> <http://www.w3.org/2004/02/skos/core#altLabel> "Haen, David de" .
+    <http://vocab.getty.edu/ulan/term/1500376802> <http://vocab.getty.edu/ontology#term> "Haen, David de" .
+    <http://vocab.getty.edu/ulan/term/1500376802> <http://www.w3.org/2008/05/skos-xl#literalForm> "Haen, David de" .
+  Potential IDs: <http://vocab.getty.edu/ulan/500143437>, <http://vocab.getty.edu/ulan/term/1500376802>, <http://vocab.getty.edu/ulan/500001364>, <http://vocab.getty.edu/ulan/term/1500003729>
+----------------------------------------
+Entry: Halifax, Earl of
+  No matches found in ULAN.
+----------------------------------------
+Entry: Hamen, Juan van der
+  Found 6 matching triples:
+    <http://vocab.getty.edu/ulan/500022257> <http://www.w3.org/2000/01/rdf-schema#label> "Hamen, Juan van der" .
+    <http://vocab.getty.edu/ulan/500022257> <http://www.w3.org/2004/02/skos/core#altLabel> "Hamen, Juan van der" .
+    <http://vocab.getty.edu/ulan/term/1500061690> <http://vocab.getty.edu/ontology#term> "Hamen, Juan van der" .
+    <http://vocab.getty.edu/ulan/term/1500061690> <http://www.w3.org/2008/05/skos-xl#literalForm> "Hamen, Juan van der" .
+    <http://vocab.getty.edu/ulan/500402217> <http://www.w3.org/2000/01/rdf-schema#label> "Hamen, Juan van der" .
+    <http://vocab.getty.edu/ulan/500402217> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hamen, Juan van der" .
+  Potential IDs: <http://vocab.getty.edu/ulan/500022257>, <http://vocab.getty.edu/ulan/term/1500061690>, <http://vocab.getty.edu/ulan/500402217>
+----------------------------------------
+Entry: Handel, George Frederick
+  Found 4 matching triples:
+    <http://vocab.getty.edu/ulan/500449411> <http://www.w3.org/2000/01/rdf-schema#label> "Handel, George Frederick" .
+    <http://vocab.getty.edu/ulan/500449411> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handel, George Frederick" .
+    <http://vocab.getty.edu/ulan/term/1501137812> <http://vocab.getty.edu/ontology#term> "Handel, George Frederick" .
+    <http://vocab.getty.edu/ulan/term/1501137812> <http://www.w3.org/2008/05/skos-xl#literalForm> "Handel, George Frederick" .
+  Potential IDs: <http://vocab.getty.edu/ulan/term/1501137812>, <http://vocab.getty.edu/ulan/500449411>
+----------------------------------------
+Entry: Hapsburg collections from Prague
+  No matches found in ULAN.
+----------------------------------------
+Entry: Hapsburg patronage of Venetian artists
+  No matches found in ULAN.
+----------------------------------------
+Entry: Harley, Robert
+  No matches found in ULAN.
+----------------------------------------
+Entry: Harrach, Count
+  No matches found in ULAN.
+----------------------------------------
+Entry: Harris, Enriqueta
+  No matches found in ULAN.
+----------------------------------------
+Entry: Helmbrecker, Theodor
+  No matches found in ULAN.
+----------------------------------------
+Entry: Henri III of France
+  No matches found in ULAN.
+----------------------------------------
+Entry: Henri IV of France
+  No matches found in ULAN.
+----------------------------------------
+Entry: Henrietta Maria, Queen of England
+  No matches found in ULAN.
+----------------------------------------
+Entry: Hervey, Lord
+  No matches found in ULAN.
+----------------------------------------
+Entry: Hervey, Sir Robert
+  No matches found in ULAN.
+----------------------------------------
+Entry: Hildebrandt, Lucas von
+  No matches found in ULAN.
+----------------------------------------
+Entry: Hill, Samuel
+  Found 4 matching triples:
+    <http://vocab.getty.edu/ulan/500009163> <http://www.w3.org/2000/01/rdf-schema#label> "Hill, Samuel" .
+    <http://vocab.getty.edu/ulan/500009163> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hill, Samuel" .
+    <http://vocab.getty.edu/ulan/term/1500025429> <http://vocab.getty.edu/ontology#term> "Hill, Samuel" .
+    <http://vocab.getty.edu/ulan/term/1500025429> <http://www.w3.org/2008/05/skos-xl#literalForm> "Hill, Samuel" .
+  Potential IDs: <http://vocab.getty.edu/ulan/term/1500025429>, <http://vocab.getty.edu/ulan/500009163>
+----------------------------------------
+Entry: Hogarth, William
+  Found 14 matching triples:
+    <http://vocab.getty.edu/ulan/500004242> <http://www.w3.org/2000/01/rdf-schema#label> "Hogarth, William"@en .
+    <http://vocab.getty.edu/ulan/500004242> <http://www.w3.org/2000/01/rdf-schema#label> "Hogarth, William"@nl .
+    <http://vocab.getty.edu/ulan/500004242> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hogarth, William"@en .
+    <http://vocab.getty.edu/ulan/500004242> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hogarth, William"@nl .
+    <http://vocab.getty.edu/ulan/term/1500011469-nl> <http://vocab.getty.edu/ontology#term> "Hogarth, William"@nl .
+    <http://vocab.getty.edu/ulan/term/1500011469-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Hogarth, William"@nl .
+    <http://vocab.getty.edu/ulan/term/1500011469-en> <http://vocab.getty.edu/ontology#term> "Hogarth, William"@en .
+    <http://vocab.getty.edu/ulan/term/1500011469-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Hogarth, William"@en .
+    <http://vocab.getty.edu/ulan/500006820> <http://www.w3.org/2000/01/rdf-schema#label> "Hogarth, William" .
+    <http://vocab.getty.edu/ulan/500006820> <http://www.w3.org/2004/02/skos/core#altLabel> "Hogarth, William" .
+    <http://vocab.getty.edu/ulan/term/1500321195> <http://vocab.getty.edu/ontology#term> "Hogarth, William" .
+    <http://vocab.getty.edu/ulan/term/1500321195> <http://www.w3.org/2008/05/skos-xl#literalForm> "Hogarth, William" .
+    <http://vocab.getty.edu/ulan/500377518> <http://www.w3.org/2000/01/rdf-schema#label> "Hogarth, William" .
+    <http://vocab.getty.edu/ulan/500377518> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hogarth, William" .
+  Potential IDs: <http://vocab.getty.edu/ulan/term/1500321195>, <http://vocab.getty.edu/ulan/term/1500011469-en>, <http://vocab.getty.edu/ulan/term/1500011469-nl>, <http://vocab.getty.edu/ulan/500006820>, <http://vocab.getty.edu/ulan/500377518>, <http://vocab.getty.edu/ulan/500004242>
+----------------------------------------
+Entry: Honthorst, Gerrit van
+  Found 8 matching triples:
+    <http://vocab.getty.edu/ulan/500051681> <http://www.w3.org/2000/01/rdf-schema#label> "Honthorst, Gerrit van"@en .
+    <http://vocab.getty.edu/ulan/500051681> <http://www.w3.org/2004/02/skos/core#prefLabel> "Honthorst, Gerrit van"@en .
+    <http://vocab.getty.edu/ulan/term/1500072457-en> <http://vocab.getty.edu/ontology#term> "Honthorst, Gerrit van"@en .
+    <http://vocab.getty.edu/ulan/term/1500072457-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Honthorst, Gerrit van"@en .
+    <http://vocab.getty.edu/ulan/500115494> <http://www.w3.org/2000/01/rdf-schema#label> "Honthorst, Gerrit van" .
+    <http://vocab.getty.edu/ulan/500115494> <http://www.w3.org/2004/02/skos/core#prefLabel> "Honthorst, Gerrit van" .
+    <http://vocab.getty.edu/ulan/500455037> <http://www.w3.org/2000/01/rdf-schema#label> "Honthorst, Gerrit van" .
+    <http://vocab.getty.edu/ulan/500455037> <http://www.w3.org/2004/02/skos/core#prefLabel> "Honthorst, Gerrit van" .
+  Potential IDs: <http://vocab.getty.edu/ulan/500115494>, <http://vocab.getty.edu/ulan/500051681>, <http://vocab.getty.edu/ulan/500455037>, <http://vocab.getty.edu/ulan/term/1500072457-en>
+----------------------------------------
+Entry: Horace
+  Found 4 matching triples:
+    <http://vocab.getty.edu/ulan/500404135> <http://www.w3.org/2000/01/rdf-schema#label> "Horace" .
+    <http://vocab.getty.edu/ulan/500404135> <http://www.w3.org/2004/02/skos/core#prefLabel> "Horace" .
+    <http://vocab.getty.edu/ulan/term/1500932706> <http://vocab.getty.edu/ontology#term> "Horace" .
+    <http://vocab.getty.edu/ulan/term/1500932706> <http://www.w3.org/2008/05/skos-xl#literalForm> "Horace" .
+  Potential IDs: <http://vocab.getty.edu/ulan/term/1500932706>, <http://vocab.getty.edu/ulan/500404135>
+----------------------------------------
+Entry: Houdon, Jean-Antoine
+  Found 6 matching triples:
+    <http://vocab.getty.edu/ulan/500003939> <http://www.w3.org/2000/01/rdf-schema#label> "Houdon, Jean-Antoine" .
+    <http://vocab.getty.edu/ulan/500003939> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houdon, Jean-Antoine" .
+    <http://vocab.getty.edu/ulan/term/1500010564> <http://vocab.getty.edu/ontology#term> "Houdon, Jean-Antoine" .
+    <http://vocab.getty.edu/ulan/term/1500010564> <http://www.w3.org/2008/05/skos-xl#literalForm> "Houdon, Jean-Antoine" .
+    <http://vocab.getty.edu/ulan/500398989> <http://www.w3.org/2000/01/rdf-schema#label> "Houdon, Jean-Antoine" .
+    <http://vocab.getty.edu/ulan/500398989> <http://www.w3.org/2004/02/skos/core#prefLabel> "Houdon, Jean-Antoine" .
+  Potential IDs: <http://vocab.getty.edu/ulan/500398989>, <http://vocab.getty.edu/ulan/500003939>, <http://vocab.getty.edu/ulan/term/1500010564>
+----------------------------------------
+Entry: Huber, Jean
+  Found 4 matching triples:
+    <http://vocab.getty.edu/ulan/500004498> <http://www.w3.org/2000/01/rdf-schema#label> "Huber, Jean"@nl .
+    <http://vocab.getty.edu/ulan/500004498> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huber, Jean"@nl .
+    <http://vocab.getty.edu/ulan/term/1500012264-nl> <http://vocab.getty.edu/ontology#term> "Huber, Jean"@nl .
+    <http://vocab.getty.edu/ulan/term/1500012264-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Huber, Jean"@nl .
+  Potential IDs: <http://vocab.getty.edu/ulan/term/1500012264-nl>, <http://vocab.getty.edu/ulan/500004498>
+----------------------------------------
+Entry: Hume, A.
+  No matches found in ULAN.
+----------------------------------------

@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Getty Sample",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"c:\\Users\\001\\Desktop\\Github-Project\\PnPDataset\\99-Python\\02-Analysis\\11_Query_Getty_B_Sample.py"
+			],
+			"isBackground": false,
+			"group": "test"
+		}
+	]
+}
