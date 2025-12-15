@@ -2,23 +2,13 @@ Getty Datasets Search Results for B_refined.csv
 ================================================================================
 
 Entry: Baciccio (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500002262>, <http://vocab.getty.edu/ulan/500000833>
-    [ULAN] <http://vocab.getty.edu/ulan/500000833> <http://www.w3.org/2000/01/rdf-schema#label> "Baciccio" .
-    [ULAN] <http://vocab.getty.edu/ulan/500000833> <http://www.w3.org/2004/02/skos/core#altLabel> "Baciccio" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500002262> <http://vocab.getty.edu/ontology#term> "Baciccio" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500002262> <http://www.w3.org/2008/05/skos-xl#literalForm> "Baciccio" .
+  No matches found.
 ----------------------------------------
 Entry: Bacon, Sir Francis (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Baglione, Giovanni (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500034134-nl>, <http://vocab.getty.edu/ulan/500012161>
-    [ULAN] <http://vocab.getty.edu/ulan/500012161> <http://www.w3.org/2000/01/rdf-schema#label> "Baglione, Giovanni"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500012161> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baglione, Giovanni"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500034134-nl> <http://vocab.getty.edu/ontology#term> "Baglione, Giovanni"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500034134-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Baglione, Giovanni"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Baglioni collection (Object/Concept (AAT Target))
   No matches found.
@@ -33,59 +23,22 @@ Entry: Baines, Sir Thomas (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Baker, Thomas (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500033601-nl>, <http://vocab.getty.edu/ulan/500011979>
-    [ULAN] <http://vocab.getty.edu/ulan/500011979> <http://www.w3.org/2000/01/rdf-schema#label> "Baker, Thomas"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500011979> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baker, Thomas"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500033601-nl> <http://vocab.getty.edu/ontology#term> "Baker, Thomas"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500033601-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Baker, Thomas"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Balbi, Paolo Battista (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Baldi, Lazzaro (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500084773-nl>, <http://vocab.getty.edu/ulan/term/1500084773-en>, <http://vocab.getty.edu/ulan/500030757>
-    [ULAN] <http://vocab.getty.edu/ulan/500030757> <http://www.w3.org/2000/01/rdf-schema#label> "Baldi, Lazzaro"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500030757> <http://www.w3.org/2000/01/rdf-schema#label> "Baldi, Lazzaro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500030757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baldi, Lazzaro"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500030757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baldi, Lazzaro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500084773-nl> <http://vocab.getty.edu/ontology#term> "Baldi, Lazzaro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500084773-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Baldi, Lazzaro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500084773-en> <http://vocab.getty.edu/ontology#term> "Baldi, Lazzaro"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500084773-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Baldi, Lazzaro"@en .
+  No matches found.
 ----------------------------------------
 Entry: Baldinucci, Filippo (Person/Group (ULAN Target))
-  Found 12 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500032339-en>, <http://vocab.getty.edu/ulan/500011508>, <http://vocab.getty.edu/ulan/500406466>, <http://vocab.getty.edu/ulan/500457904>, <http://vocab.getty.edu/ulan/term/1500032339-nl>
-    [ULAN] <http://vocab.getty.edu/ulan/500457904> <http://www.w3.org/2000/01/rdf-schema#label> "Baldinucci, Filippo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500457904> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baldinucci, Filippo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500011508> <http://www.w3.org/2000/01/rdf-schema#label> "Baldinucci, Filippo"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500011508> <http://www.w3.org/2000/01/rdf-schema#label> "Baldinucci, Filippo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500011508> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baldinucci, Filippo"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500011508> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baldinucci, Filippo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500032339-nl> <http://vocab.getty.edu/ontology#term> "Baldinucci, Filippo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500032339-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Baldinucci, Filippo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500032339-en> <http://vocab.getty.edu/ontology#term> "Baldinucci, Filippo"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500032339-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Baldinucci, Filippo"@en .
-    ... and 2 more lines.
+  No matches found.
 ----------------------------------------
 Entry: Baldoini, Giovanni Gasparo (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Balestra, Antonio (Person/Group (ULAN Target))
-  Found 10 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500005640-nl>, <http://vocab.getty.edu/ulan/500454444>, <http://vocab.getty.edu/ulan/term/1500005640-en>, <http://vocab.getty.edu/ulan/500002089>
-    [ULAN] <http://vocab.getty.edu/ulan/500454444> <http://www.w3.org/2000/01/rdf-schema#label> "Balestra, Antonio" .
-    [ULAN] <http://vocab.getty.edu/ulan/500454444> <http://www.w3.org/2004/02/skos/core#prefLabel> "Balestra, Antonio" .
-    [ULAN] <http://vocab.getty.edu/ulan/500002089> <http://www.w3.org/2000/01/rdf-schema#label> "Balestra, Antonio"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500002089> <http://www.w3.org/2000/01/rdf-schema#label> "Balestra, Antonio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500002089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Balestra, Antonio"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500002089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Balestra, Antonio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500005640-nl> <http://vocab.getty.edu/ontology#term> "Balestra, Antonio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500005640-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Balestra, Antonio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500005640-en> <http://vocab.getty.edu/ontology#term> "Balestra, Antonio"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500005640-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Balestra, Antonio"@en .
+  No matches found.
 ----------------------------------------
 Entry: Balestrieri, Gabriele (Person/Group (ULAN Target))
   No matches found.
@@ -94,30 +47,10 @@ Entry: Bambini, Niccolò (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Bamboccianti (Person/Group (ULAN Target))
-  Found 10 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500356891>, <http://vocab.getty.edu/ulan/term/1500809273-en>, <http://vocab.getty.edu/ulan/500355249>, <http://vocab.getty.edu/ulan/term/1500809273-it>
-    [ULAN] <http://vocab.getty.edu/ulan/500356891> <http://www.w3.org/2000/01/rdf-schema#label> "Bamboccianti" .
-    [ULAN] <http://vocab.getty.edu/ulan/500356891> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bamboccianti" .
-    [ULAN] <http://vocab.getty.edu/ulan/500355249> <http://www.w3.org/2000/01/rdf-schema#label> "Bamboccianti"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500355249> <http://www.w3.org/2000/01/rdf-schema#label> "Bamboccianti"@it .
-    [ULAN] <http://vocab.getty.edu/ulan/500355249> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bamboccianti"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500355249> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bamboccianti"@it .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500809273-en> <http://vocab.getty.edu/ontology#term> "Bamboccianti"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500809273-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bamboccianti"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500809273-it> <http://vocab.getty.edu/ontology#term> "Bamboccianti"@it .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500809273-it> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bamboccianti"@it .
+  No matches found.
 ----------------------------------------
 Entry: Bandinelli, Baccio (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500023208-it>, <http://vocab.getty.edu/ulan/500008366>, <http://vocab.getty.edu/ulan/term/1500023208-en>
-    [ULAN] <http://vocab.getty.edu/ulan/500008366> <http://www.w3.org/2000/01/rdf-schema#label> "Bandinelli, Baccio"@it .
-    [ULAN] <http://vocab.getty.edu/ulan/500008366> <http://www.w3.org/2000/01/rdf-schema#label> "Bandinelli, Baccio"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500008366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bandinelli, Baccio"@it .
-    [ULAN] <http://vocab.getty.edu/ulan/500008366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bandinelli, Baccio"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500023208-en> <http://vocab.getty.edu/ontology#term> "Bandinelli, Baccio"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500023208-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bandinelli, Baccio"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500023208-it> <http://vocab.getty.edu/ontology#term> "Bandinelli, Baccio"@it .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500023208-it> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bandinelli, Baccio"@it .
+  No matches found.
 ----------------------------------------
 Entry: Bandino, Cardinal (Person/Group (ULAN Target))
   No matches found.
@@ -132,24 +65,10 @@ Entry: Barbarigo, Pietro (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Barbaro, Antonio (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500337209>, <http://vocab.getty.edu/ulan/500128026>
-    [ULAN] <http://vocab.getty.edu/ulan/500128026> <http://www.w3.org/2000/01/rdf-schema#label> "Barbaro, Antonio" .
-    [ULAN] <http://vocab.getty.edu/ulan/500128026> <http://www.w3.org/2004/02/skos/core#altLabel> "Barbaro, Antonio" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500337209> <http://vocab.getty.edu/ontology#term> "Barbaro, Antonio" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500337209> <http://www.w3.org/2008/05/skos-xl#literalForm> "Barbaro, Antonio" .
+  No matches found.
 ----------------------------------------
 Entry: Barberini family (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500434158>, <http://vocab.getty.edu/ulan/term/1501110517>, <http://vocab.getty.edu/ulan/term/1500781175>, <http://vocab.getty.edu/ulan/500346083>
-    [ULAN] <http://vocab.getty.edu/ulan/500346083> <http://www.w3.org/2000/01/rdf-schema#label> "Barberini family" .
-    [ULAN] <http://vocab.getty.edu/ulan/500346083> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barberini family" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500781175> <http://vocab.getty.edu/ontology#term> "Barberini family" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500781175> <http://www.w3.org/2008/05/skos-xl#literalForm> "Barberini family" .
-    [ULAN] <http://vocab.getty.edu/ulan/500434158> <http://www.w3.org/2000/01/rdf-schema#label> "Barberini family" .
-    [ULAN] <http://vocab.getty.edu/ulan/500434158> <http://www.w3.org/2004/02/skos/core#altLabel> "Barberini family" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501110517> <http://vocab.getty.edu/ontology#term> "Barberini family" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501110517> <http://www.w3.org/2008/05/skos-xl#literalForm> "Barberini family" .
+  No matches found.
 ----------------------------------------
 Entry: Barberini palace (Object/Concept (AAT Target))
   No matches found.
@@ -179,12 +98,7 @@ Entry: Barberini, Taddeo (nephew to Urban VIII) (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Barelli, Agostino (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500313881>, <http://vocab.getty.edu/ulan/term/1500707071>
-    [ULAN] <http://vocab.getty.edu/ulan/500313881> <http://www.w3.org/2000/01/rdf-schema#label> "Barelli, Agostino" .
-    [ULAN] <http://vocab.getty.edu/ulan/500313881> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barelli, Agostino" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500707071> <http://vocab.getty.edu/ontology#term> "Barelli, Agostino" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500707071> <http://www.w3.org/2008/05/skos-xl#literalForm> "Barelli, Agostino" .
+  No matches found.
 ----------------------------------------
 Entry: Baretti, Giuseppe (Person/Group (ULAN Target))
   No matches found.
@@ -193,16 +107,7 @@ Entry: Barnabotti (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Barocci, Federico (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500115210>, <http://vocab.getty.edu/ulan/term/1500003294-nl>, <http://vocab.getty.edu/ulan/500399397>, <http://vocab.getty.edu/ulan/500001222>
-    [ULAN] <http://vocab.getty.edu/ulan/500399397> <http://www.w3.org/2000/01/rdf-schema#label> "Barocci, Federico" .
-    [ULAN] <http://vocab.getty.edu/ulan/500399397> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barocci, Federico" .
-    [ULAN] <http://vocab.getty.edu/ulan/500001222> <http://www.w3.org/2000/01/rdf-schema#label> "Barocci, Federico" .
-    [ULAN] <http://vocab.getty.edu/ulan/500001222> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barocci, Federico" .
-    [ULAN] <http://vocab.getty.edu/ulan/500115210> <http://www.w3.org/2000/01/rdf-schema#label> "Barocci, Federico"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500115210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barocci, Federico"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500003294-nl> <http://vocab.getty.edu/ontology#term> "Barocci, Federico"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500003294-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Barocci, Federico"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Baroni, Leonora (Person/Group (ULAN Target))
   No matches found.
@@ -211,62 +116,25 @@ Entry: Baronio, Cardinal (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Bartoli, Pietro Santo (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500052849-nl>, <http://vocab.getty.edu/ulan/500458774>, <http://vocab.getty.edu/ulan/500019038>, <http://vocab.getty.edu/ulan/term/1501159341>
-    [ULAN] <http://vocab.getty.edu/ulan/500019038> <http://www.w3.org/2000/01/rdf-schema#label> "Bartoli, Pietro Santo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500019038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bartoli, Pietro Santo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500052849-nl> <http://vocab.getty.edu/ontology#term> "Bartoli, Pietro Santo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500052849-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bartoli, Pietro Santo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500458774> <http://www.w3.org/2000/01/rdf-schema#label> "Bartoli, Pietro Santo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500458774> <http://www.w3.org/2004/02/skos/core#altLabel> "Bartoli, Pietro Santo" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501159341> <http://vocab.getty.edu/ontology#term> "Bartoli, Pietro Santo" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501159341> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bartoli, Pietro Santo" .
+  No matches found.
 ----------------------------------------
 Entry: Bartolommeo, Fra (Person/Group (ULAN Target))
-  Found 10 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500115575>, <http://vocab.getty.edu/ulan/500397945>, <http://vocab.getty.edu/ulan/term/1500079112>, <http://vocab.getty.edu/ulan/500028669>, <http://vocab.getty.edu/ulan/term/1500925810>
-    [ULAN] <http://vocab.getty.edu/ulan/500028669> <http://www.w3.org/2000/01/rdf-schema#label> "Bartolommeo, Fra" .
-    [ULAN] <http://vocab.getty.edu/ulan/500028669> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bartolommeo, Fra" .
-    [ULAN] <http://vocab.getty.edu/ulan/500397945> <http://www.w3.org/2000/01/rdf-schema#label> "Bartolommeo, Fra" .
-    [ULAN] <http://vocab.getty.edu/ulan/500397945> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bartolommeo, Fra" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500925810> <http://vocab.getty.edu/ontology#term> "Bartolommeo, Fra" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500925810> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bartolommeo, Fra" .
-    [ULAN] <http://vocab.getty.edu/ulan/500115575> <http://www.w3.org/2000/01/rdf-schema#label> "Bartolommeo, Fra" .
-    [ULAN] <http://vocab.getty.edu/ulan/500115575> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bartolommeo, Fra" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500079112> <http://vocab.getty.edu/ontology#term> "Bartolommeo, Fra" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500079112> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bartolommeo, Fra" .
+  No matches found.
 ----------------------------------------
 Entry: Basadonna, Cardinal Pietro (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Bassanino, Virgilio (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1501542363>, <http://vocab.getty.edu/ulan/500005313>
-    [ULAN] <http://vocab.getty.edu/ulan/500005313> <http://www.w3.org/2000/01/rdf-schema#label> "Bassanino, Virgilio" .
-    [ULAN] <http://vocab.getty.edu/ulan/500005313> <http://www.w3.org/2004/02/skos/core#altLabel> "Bassanino, Virgilio" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501542363> <http://vocab.getty.edu/ontology#term> "Bassanino, Virgilio" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501542363> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bassanino, Virgilio" .
+  No matches found.
 ----------------------------------------
 Entry: Bassano, Jacopo (Person/Group (ULAN Target))
-  Found 6 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500003126>, <http://vocab.getty.edu/ulan/term/1500008427-nl>, <http://vocab.getty.edu/ulan/500400761>
-    [ULAN] <http://vocab.getty.edu/ulan/500400761> <http://www.w3.org/2000/01/rdf-schema#label> "Bassano, Jacopo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500400761> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bassano, Jacopo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500003126> <http://www.w3.org/2000/01/rdf-schema#label> "Bassano, Jacopo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500003126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bassano, Jacopo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500008427-nl> <http://vocab.getty.edu/ontology#term> "Bassano, Jacopo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500008427-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bassano, Jacopo"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Bassi, Francesco (il Cremonese) (Place (TGN Target))
   No matches found.
 ----------------------------------------
 Entry: Batoni, Pompeo (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500035820>, <http://vocab.getty.edu/ulan/500012720>
-    [ULAN] <http://vocab.getty.edu/ulan/500012720> <http://www.w3.org/2000/01/rdf-schema#label> "Batoni, Pompeo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500012720> <http://www.w3.org/2004/02/skos/core#prefLabel> "Batoni, Pompeo" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500035820> <http://vocab.getty.edu/ontology#term> "Batoni, Pompeo" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500035820> <http://www.w3.org/2008/05/skos-xl#literalForm> "Batoni, Pompeo" .
+  No matches found.
 ----------------------------------------
 Entry: Beccari, Dr (Person/Group (ULAN Target))
   No matches found.
@@ -278,36 +146,13 @@ Entry: Bedford, John, 4th Duke of (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Bella, Stefano della (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500052674-nl>, <http://vocab.getty.edu/ulan/500018966>, <http://vocab.getty.edu/ulan/term/1500052674-en>
-    [ULAN] <http://vocab.getty.edu/ulan/500018966> <http://www.w3.org/2000/01/rdf-schema#label> "Bella, Stefano della"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500018966> <http://www.w3.org/2000/01/rdf-schema#label> "Bella, Stefano della"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500018966> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bella, Stefano della"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500018966> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bella, Stefano della"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500052674-en> <http://vocab.getty.edu/ontology#term> "Bella, Stefano della"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500052674-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bella, Stefano della"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500052674-nl> <http://vocab.getty.edu/ontology#term> "Bella, Stefano della"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500052674-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bella, Stefano della"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Bellini, Gentile (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500026083>, <http://vocab.getty.edu/ulan/term/1500071973-nl>
-    [ULAN] <http://vocab.getty.edu/ulan/500026083> <http://www.w3.org/2000/01/rdf-schema#label> "Bellini, Gentile"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500026083> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellini, Gentile"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500071973-nl> <http://vocab.getty.edu/ontology#term> "Bellini, Gentile"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500071973-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bellini, Gentile"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Bellini, Giovanni (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500415111>, <http://vocab.getty.edu/ulan/term/1500053432-nl>, <http://vocab.getty.edu/ulan/500019244>, <http://vocab.getty.edu/ulan/500399339>
-    [ULAN] <http://vocab.getty.edu/ulan/500399339> <http://www.w3.org/2000/01/rdf-schema#label> "Bellini, Giovanni" .
-    [ULAN] <http://vocab.getty.edu/ulan/500399339> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellini, Giovanni" .
-    [ULAN] <http://vocab.getty.edu/ulan/500019244> <http://www.w3.org/2000/01/rdf-schema#label> "Bellini, Giovanni"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500019244> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellini, Giovanni"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500053432-nl> <http://vocab.getty.edu/ontology#term> "Bellini, Giovanni"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500053432-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bellini, Giovanni"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500415111> <http://www.w3.org/2000/01/rdf-schema#label> "Bellini, Giovanni" .
-    [ULAN] <http://vocab.getty.edu/ulan/500415111> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellini, Giovanni" .
+  No matches found.
 ----------------------------------------
 Entry: Belloni, Giovanni Antonio (Person/Group (ULAN Target))
   No matches found.
@@ -316,69 +161,25 @@ Entry: Bellori, Gian Pietro (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Bellotti, Pietro (Person/Group (ULAN Target))
-  Found 10 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1501674964-nl>, <http://vocab.getty.edu/ulan/500016333>, <http://vocab.getty.edu/ulan/500119246>, <http://vocab.getty.edu/ulan/500741135>, <http://vocab.getty.edu/ulan/term/1500045584-nl>
-    [ULAN] <http://vocab.getty.edu/ulan/500016333> <http://www.w3.org/2000/01/rdf-schema#label> "Bellotti, Pietro" .
-    [ULAN] <http://vocab.getty.edu/ulan/500016333> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellotti, Pietro" .
-    [ULAN] <http://vocab.getty.edu/ulan/500741135> <http://www.w3.org/2000/01/rdf-schema#label> "Bellotti, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500741135> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellotti, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501674964-nl> <http://vocab.getty.edu/ontology#term> "Bellotti, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501674964-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bellotti, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500119246> <http://www.w3.org/2000/01/rdf-schema#label> "Bellotti, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500119246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellotti, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500045584-nl> <http://vocab.getty.edu/ontology#term> "Bellotti, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500045584-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bellotti, Pietro"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Bellotto, Bernardo (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500079741-nl>, <http://vocab.getty.edu/ulan/500398331>, <http://vocab.getty.edu/ulan/500028876>, <http://vocab.getty.edu/ulan/500387163>
-    [ULAN] <http://vocab.getty.edu/ulan/500028876> <http://www.w3.org/2000/01/rdf-schema#label> "Bellotto, Bernardo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500028876> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellotto, Bernardo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500079741-nl> <http://vocab.getty.edu/ontology#term> "Bellotto, Bernardo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500079741-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bellotto, Bernardo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500387163> <http://www.w3.org/2000/01/rdf-schema#label> "Bellotto, Bernardo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500387163> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellotto, Bernardo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500398331> <http://www.w3.org/2000/01/rdf-schema#label> "Bellotto, Bernardo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500398331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellotto, Bernardo" .
+  No matches found.
 ----------------------------------------
 Entry: Bellucci, Antonio (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500036267-nl>, <http://vocab.getty.edu/ulan/500012896>
-    [ULAN] <http://vocab.getty.edu/ulan/500012896> <http://www.w3.org/2000/01/rdf-schema#label> "Bellucci, Antonio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500012896> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellucci, Antonio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500036267-nl> <http://vocab.getty.edu/ontology#term> "Bellucci, Antonio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500036267-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bellucci, Antonio"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Bellucci, Giovanni Battista (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500021842>, <http://vocab.getty.edu/ulan/500044530>, <http://vocab.getty.edu/ulan/term/1500217770>, <http://vocab.getty.edu/ulan/term/1500119692>
-    [ULAN] <http://vocab.getty.edu/ulan/500044530> <http://www.w3.org/2000/01/rdf-schema#label> "Bellucci, Giovanni Battista" .
-    [ULAN] <http://vocab.getty.edu/ulan/500044530> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bellucci, Giovanni Battista" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500119692> <http://vocab.getty.edu/ontology#term> "Bellucci, Giovanni Battista" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500119692> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bellucci, Giovanni Battista" .
-    [ULAN] <http://vocab.getty.edu/ulan/500021842> <http://www.w3.org/2000/01/rdf-schema#label> "Bellucci, Giovanni Battista" .
-    [ULAN] <http://vocab.getty.edu/ulan/500021842> <http://www.w3.org/2004/02/skos/core#altLabel> "Bellucci, Giovanni Battista" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500217770> <http://vocab.getty.edu/ontology#term> "Bellucci, Giovanni Battista" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500217770> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bellucci, Giovanni Battista" .
+  No matches found.
 ----------------------------------------
 Entry: Bencovich, Federico (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500077487-nl>, <http://vocab.getty.edu/ulan/500028108>
-    [ULAN] <http://vocab.getty.edu/ulan/500028108> <http://www.w3.org/2000/01/rdf-schema#label> "Bencovich, Federico"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500028108> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bencovich, Federico"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500077487-nl> <http://vocab.getty.edu/ontology#term> "Bencovich, Federico"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500077487-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bencovich, Federico"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Benedictines (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Benefial, Marco (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500011202>, <http://vocab.getty.edu/ulan/term/1500031379-nl>
-    [ULAN] <http://vocab.getty.edu/ulan/500011202> <http://www.w3.org/2000/01/rdf-schema#label> "Benefial, Marco"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500011202> <http://www.w3.org/2004/02/skos/core#prefLabel> "Benefial, Marco"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500031379-nl> <http://vocab.getty.edu/ontology#term> "Benefial, Marco"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500031379-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Benefial, Marco"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Bentinck, William (Person/Group (ULAN Target))
   No matches found.
@@ -402,26 +203,10 @@ Entry: Bernini, Domenico (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Bernini, Gian Lorenzo (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500413160>, <http://vocab.getty.edu/ulan/term/1500088225>, <http://vocab.getty.edu/ulan/500387895>, <http://vocab.getty.edu/ulan/500032022>
-    [ULAN] <http://vocab.getty.edu/ulan/500387895> <http://www.w3.org/2000/01/rdf-schema#label> "Bernini, Gian Lorenzo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500387895> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bernini, Gian Lorenzo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500413160> <http://www.w3.org/2000/01/rdf-schema#label> "Bernini, Gian Lorenzo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500413160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bernini, Gian Lorenzo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500032022> <http://www.w3.org/2000/01/rdf-schema#label> "Bernini, Gian Lorenzo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500032022> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bernini, Gian Lorenzo" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500088225> <http://vocab.getty.edu/ontology#term> "Bernini, Gian Lorenzo" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500088225> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bernini, Gian Lorenzo" .
+  No matches found.
 ----------------------------------------
 Entry: Bernini, Pietro (Person/Group (ULAN Target))
-  Found 6 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500059188>, <http://vocab.getty.edu/ulan/term/1500142320-nl>, <http://vocab.getty.edu/ulan/500404870>
-    [ULAN] <http://vocab.getty.edu/ulan/500059188> <http://www.w3.org/2000/01/rdf-schema#label> "Bernini, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500059188> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bernini, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500142320-nl> <http://vocab.getty.edu/ontology#term> "Bernini, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500142320-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bernini, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500404870> <http://www.w3.org/2000/01/rdf-schema#label> "Bernini, Pietro" .
-    [ULAN] <http://vocab.getty.edu/ulan/500404870> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bernini, Pietro" .
+  No matches found.
 ----------------------------------------
 Entry: Berreguete, Pedro (Person/Group (ULAN Target))
   No matches found.
@@ -439,16 +224,7 @@ Entry: Bettinelli, Saverio (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Bianchi, Isidoro (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500055900>, <http://vocab.getty.edu/ulan/500011709>, <http://vocab.getty.edu/ulan/500115750>, <http://vocab.getty.edu/ulan/term/1500032875-nl>
-    [ULAN] <http://vocab.getty.edu/ulan/500055900> <http://www.w3.org/2000/01/rdf-schema#label> "Bianchi, Isidoro" .
-    [ULAN] <http://vocab.getty.edu/ulan/500055900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bianchi, Isidoro" .
-    [ULAN] <http://vocab.getty.edu/ulan/500011709> <http://www.w3.org/2000/01/rdf-schema#label> "Bianchi, Isidoro" .
-    [ULAN] <http://vocab.getty.edu/ulan/500011709> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bianchi, Isidoro" .
-    [ULAN] <http://vocab.getty.edu/ulan/500115750> <http://www.w3.org/2000/01/rdf-schema#label> "Bianchi, Isidoro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500115750> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bianchi, Isidoro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500032875-nl> <http://vocab.getty.edu/ontology#term> "Bianchi, Isidoro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500032875-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bianchi, Isidoro"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Bianconi, G. L. (Person/Group (ULAN Target))
   No matches found.
@@ -457,12 +233,7 @@ Entry: Biffi, Giambattista (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Bigari, Vittorio (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500041160>, <http://vocab.getty.edu/ulan/500014688>
-    [ULAN] <http://vocab.getty.edu/ulan/500014688> <http://www.w3.org/2000/01/rdf-schema#label> "Bigari, Vittorio" .
-    [ULAN] <http://vocab.getty.edu/ulan/500014688> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bigari, Vittorio" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500041160> <http://vocab.getty.edu/ontology#term> "Bigari, Vittorio" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500041160> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bigari, Vittorio" .
+  No matches found.
 ----------------------------------------
 Entry: Bingley, Lord (Person/Group (ULAN Target))
   No matches found.
@@ -480,27 +251,13 @@ Entry: Boccage, Mme de (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Bologna (Place (TGN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/tgn/7004847>, <http://vocab.getty.edu/tgn/term/3604>, <http://vocab.getty.edu/tgn/7003127>, <http://vocab.getty.edu/tgn/term/43961-en>
-    [TGN] <http://vocab.getty.edu/tgn/7004847> <http://www.w3.org/2000/01/rdf-schema#label> "Bologna"@en .
-    [TGN] <http://vocab.getty.edu/tgn/7004847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bologna"@en .
-    [TGN] <http://vocab.getty.edu/tgn/term/43961-en> <http://vocab.getty.edu/ontology#term> "Bologna"@en .
-    [TGN] <http://vocab.getty.edu/tgn/term/43961-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bologna"@en .
-    [TGN] <http://vocab.getty.edu/tgn/7003127> <http://www.w3.org/2000/01/rdf-schema#label> "Bologna" .
-    [TGN] <http://vocab.getty.edu/tgn/7003127> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bologna" .
-    [TGN] <http://vocab.getty.edu/tgn/term/3604> <http://vocab.getty.edu/ontology#term> "Bologna" .
-    [TGN] <http://vocab.getty.edu/tgn/term/3604> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bologna" .
+  No matches found.
 ----------------------------------------
 Entry: Bombelli Sebastiano (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Bonati, Giovanni (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500001042>, <http://vocab.getty.edu/ulan/term/1501590326>
-    [ULAN] <http://vocab.getty.edu/ulan/500001042> <http://www.w3.org/2000/01/rdf-schema#label> "Bonati, Giovanni" .
-    [ULAN] <http://vocab.getty.edu/ulan/500001042> <http://www.w3.org/2004/02/skos/core#altLabel> "Bonati, Giovanni" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501590326> <http://vocab.getty.edu/ontology#term> "Bonati, Giovanni" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501590326> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bonati, Giovanni" .
+  No matches found.
 ----------------------------------------
 Entry: Boncampagni, Ugo (Pope Gregory XIII) (Person/Group (ULAN Target))
   No matches found.
@@ -509,12 +266,7 @@ Entry: Bonfiglioli collection (Object/Concept (AAT Target))
   No matches found.
 ----------------------------------------
 Entry: Boni, Giacomo Antonio (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500119948-nl>, <http://vocab.getty.edu/ulan/500044710>
-    [ULAN] <http://vocab.getty.edu/ulan/500044710> <http://www.w3.org/2000/01/rdf-schema#label> "Boni, Giacomo Antonio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500044710> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boni, Giacomo Antonio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500119948-nl> <http://vocab.getty.edu/ontology#term> "Boni, Giacomo Antonio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500119948-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Boni, Giacomo Antonio"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Book illustration (Object/Concept (AAT Target))
   No matches found.
@@ -550,24 +302,10 @@ Entry: Borzone, Francesco (Place (TGN Target))
   No matches found.
 ----------------------------------------
 Entry: Boscarati, Felice (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500032166>, <http://vocab.getty.edu/ulan/term/1500088560>
-    [ULAN] <http://vocab.getty.edu/ulan/500032166> <http://www.w3.org/2000/01/rdf-schema#label> "Boscarati, Felice" .
-    [ULAN] <http://vocab.getty.edu/ulan/500032166> <http://www.w3.org/2004/02/skos/core#altLabel> "Boscarati, Felice" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500088560> <http://vocab.getty.edu/ontology#term> "Boscarati, Felice" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500088560> <http://www.w3.org/2008/05/skos-xl#literalForm> "Boscarati, Felice" .
+  No matches found.
 ----------------------------------------
 Entry: Boschini, Marco (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500457040>, <http://vocab.getty.edu/ulan/term/1500017397-nl>, <http://vocab.getty.edu/ulan/term/1501157656-en>, <http://vocab.getty.edu/ulan/500006308>
-    [ULAN] <http://vocab.getty.edu/ulan/500457040> <http://www.w3.org/2000/01/rdf-schema#label> "Boschini, Marco"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500457040> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boschini, Marco"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501157656-en> <http://vocab.getty.edu/ontology#term> "Boschini, Marco"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501157656-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Boschini, Marco"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500006308> <http://www.w3.org/2000/01/rdf-schema#label> "Boschini, Marco"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500006308> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boschini, Marco"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500017397-nl> <http://vocab.getty.edu/ontology#term> "Boschini, Marco"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500017397-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Boschini, Marco"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Boscovich, P. (Person/Group (ULAN Target))
   No matches found.
@@ -576,16 +314,7 @@ Entry: Bossuet, Jacques-Bénigne (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Both, Jan (Person/Group (ULAN Target))
-  Found 8 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500090374-en>, <http://vocab.getty.edu/ulan/500032845>, <http://vocab.getty.edu/ulan/term/1500090374-nl>
-    [ULAN] <http://vocab.getty.edu/ulan/500032845> <http://www.w3.org/2000/01/rdf-schema#label> "Both, Jan"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500032845> <http://www.w3.org/2000/01/rdf-schema#label> "Both, Jan"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500032845> <http://www.w3.org/2004/02/skos/core#prefLabel> "Both, Jan"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500032845> <http://www.w3.org/2004/02/skos/core#prefLabel> "Both, Jan"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500090374-nl> <http://vocab.getty.edu/ontology#term> "Both, Jan"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500090374-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Both, Jan"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500090374-en> <http://vocab.getty.edu/ontology#term> "Both, Jan"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500090374-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Both, Jan"@en .
+  No matches found.
 ----------------------------------------
 Entry: Bottari, Giovanni (Person/Group (ULAN Target))
   No matches found.
@@ -603,27 +332,10 @@ Entry: Boucher, François (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Bracci, Pietro (Person/Group (ULAN Target))
-  Found 12 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500028173>, <http://vocab.getty.edu/ulan/500002208>, <http://vocab.getty.edu/ulan/term/1500093477>, <http://vocab.getty.edu/ulan/500034167>, <http://vocab.getty.edu/ulan/term/1500005970-nl>
-    [ULAN] <http://vocab.getty.edu/ulan/500028173> <http://www.w3.org/2000/01/rdf-schema#label> "Bracci, Pietro" .
-    [ULAN] <http://vocab.getty.edu/ulan/500028173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bracci, Pietro" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500077664> <http://vocab.getty.edu/ontology#term> "Bracci, Pietro" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500077664> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bracci, Pietro" .
-    [ULAN] <http://vocab.getty.edu/ulan/500002208> <http://www.w3.org/2000/01/rdf-schema#label> "Bracci, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500002208> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bracci, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500005970-nl> <http://vocab.getty.edu/ontology#term> "Bracci, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500005970-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bracci, Pietro"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500034167> <http://www.w3.org/2000/01/rdf-schema#label> "Bracci, Pietro" .
-    [ULAN] <http://vocab.getty.edu/ulan/500034167> <http://www.w3.org/2004/02/skos/core#altLabel> "Bracci, Pietro" .
-    ... and 2 more lines.
+  No matches found.
 ----------------------------------------
 Entry: Bracciano, Duke of (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1501113787>, <http://vocab.getty.edu/ulan/500442655>
-    [ULAN] <http://vocab.getty.edu/ulan/500442655> <http://www.w3.org/2000/01/rdf-schema#label> "Bracciano, Duke of" .
-    [ULAN] <http://vocab.getty.edu/ulan/500442655> <http://www.w3.org/2004/02/skos/core#altLabel> "Bracciano, Duke of" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501113787> <http://vocab.getty.edu/ontology#term> "Bracciano, Duke of" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1501113787> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bracciano, Duke of" .
+  No matches found.
 ----------------------------------------
 Entry: Bracciano, Paolo Giordano I Orsini, Duke of (Person/Group (ULAN Target))
   No matches found.
@@ -635,33 +347,16 @@ Entry: Bracciolini, Francesco (Place (TGN Target))
   No matches found.
 ----------------------------------------
 Entry: Bramante, Donato (Person/Group (ULAN Target))
-  Found 6 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500052988>, <http://vocab.getty.edu/ulan/500384595>, <http://vocab.getty.edu/ulan/500019098>
-    [ULAN] <http://vocab.getty.edu/ulan/500384595> <http://www.w3.org/2000/01/rdf-schema#label> "Bramante, Donato" .
-    [ULAN] <http://vocab.getty.edu/ulan/500384595> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bramante, Donato" .
-    [ULAN] <http://vocab.getty.edu/ulan/500019098> <http://www.w3.org/2000/01/rdf-schema#label> "Bramante, Donato" .
-    [ULAN] <http://vocab.getty.edu/ulan/500019098> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bramante, Donato" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500052988> <http://vocab.getty.edu/ontology#term> "Bramante, Donato" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500052988> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bramante, Donato" .
+  No matches found.
 ----------------------------------------
 Entry: Bramer, Leonard (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500015658>, <http://vocab.getty.edu/ulan/term/1500043657>
-    [ULAN] <http://vocab.getty.edu/ulan/500015658> <http://www.w3.org/2000/01/rdf-schema#label> "Bramer, Leonard" .
-    [ULAN] <http://vocab.getty.edu/ulan/500015658> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bramer, Leonard" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500043657> <http://vocab.getty.edu/ontology#term> "Bramer, Leonard" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500043657> <http://www.w3.org/2008/05/skos-xl#literalForm> "Bramer, Leonard" .
+  No matches found.
 ----------------------------------------
 Entry: Brand, Johannes Christian (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Brandi, Giacinto (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500009910-nl>, <http://vocab.getty.edu/ulan/500003682>
-    [ULAN] <http://vocab.getty.edu/ulan/500003682> <http://www.w3.org/2000/01/rdf-schema#label> "Brandi, Giacinto"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500003682> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brandi, Giacinto"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500009910-nl> <http://vocab.getty.edu/ontology#term> "Brandi, Giacinto"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500009910-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Brandi, Giacinto"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Breughel, Abram (Person/Group (ULAN Target))
   No matches found.
@@ -673,33 +368,16 @@ Entry: Breuil, Toussaint du (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Breval, John (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500542060>, <http://vocab.getty.edu/ulan/500232677>
-    [ULAN] <http://vocab.getty.edu/ulan/500232677> <http://www.w3.org/2000/01/rdf-schema#label> "Breval, John" .
-    [ULAN] <http://vocab.getty.edu/ulan/500232677> <http://www.w3.org/2004/02/skos/core#prefLabel> "Breval, John" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500542060> <http://vocab.getty.edu/ontology#term> "Breval, John" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500542060> <http://www.w3.org/2008/05/skos-xl#literalForm> "Breval, John" .
+  No matches found.
 ----------------------------------------
 Entry: Brienne, Lomenie de (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Brill, Paul (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500015415>, <http://vocab.getty.edu/ulan/500005652>
-    [ULAN] <http://vocab.getty.edu/ulan/500005652> <http://www.w3.org/2000/01/rdf-schema#label> "Brill, Paul" .
-    [ULAN] <http://vocab.getty.edu/ulan/500005652> <http://www.w3.org/2004/02/skos/core#altLabel> "Brill, Paul" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500015415> <http://vocab.getty.edu/ontology#term> "Brill, Paul" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500015415> <http://www.w3.org/2008/05/skos-xl#literalForm> "Brill, Paul" .
+  No matches found.
 ----------------------------------------
 Entry: Brosse, Salomon de (Person/Group (ULAN Target))
-  Found 6 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500118650>, <http://vocab.getty.edu/ulan/term/1500043928-nl>, <http://vocab.getty.edu/ulan/500015748>
-    [ULAN] <http://vocab.getty.edu/ulan/500015748> <http://www.w3.org/2000/01/rdf-schema#label> "Brosse, Salomon de" .
-    [ULAN] <http://vocab.getty.edu/ulan/500015748> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brosse, Salomon de" .
-    [ULAN] <http://vocab.getty.edu/ulan/500118650> <http://www.w3.org/2000/01/rdf-schema#label> "Brosse, Salomon de"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500118650> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brosse, Salomon de"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500043928-nl> <http://vocab.getty.edu/ontology#term> "Brosse, Salomon de"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500043928-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Brosse, Salomon de"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Brosses, Président Charles De (Person/Group (ULAN Target))
   No matches found.
@@ -708,38 +386,16 @@ Entry: Brugiori, Domenico (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Brunelleschi, Filippo (Person/Group (ULAN Target))
-  Found 12 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500050542-nl>, <http://vocab.getty.edu/ulan/500018169>, <http://vocab.getty.edu/ulan/500456780>, <http://vocab.getty.edu/ulan/term/1500050542-en>, <http://vocab.getty.edu/ulan/500385961>
-    [ULAN] <http://vocab.getty.edu/ulan/500456780> <http://www.w3.org/2000/01/rdf-schema#label> "Brunelleschi, Filippo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500456780> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brunelleschi, Filippo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500018169> <http://www.w3.org/2000/01/rdf-schema#label> "Brunelleschi, Filippo"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500018169> <http://www.w3.org/2000/01/rdf-schema#label> "Brunelleschi, Filippo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500018169> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brunelleschi, Filippo"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500018169> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brunelleschi, Filippo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500050542-nl> <http://vocab.getty.edu/ontology#term> "Brunelleschi, Filippo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500050542-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Brunelleschi, Filippo"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500050542-en> <http://vocab.getty.edu/ontology#term> "Brunelleschi, Filippo"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500050542-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Brunelleschi, Filippo"@en .
-    ... and 2 more lines.
+  No matches found.
 ----------------------------------------
 Entry: Brusasorci, Felice (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500077105-nl>, <http://vocab.getty.edu/ulan/500027956>
-    [ULAN] <http://vocab.getty.edu/ulan/500027956> <http://www.w3.org/2000/01/rdf-schema#label> "Brusasorci, Felice"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500027956> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brusasorci, Felice"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500077105-nl> <http://vocab.getty.edu/ontology#term> "Brusasorci, Felice"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500077105-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Brusasorci, Felice"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Brusoni, Girolamo (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Brustolon, Andrea (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500007104-nl>, <http://vocab.getty.edu/ulan/500002627>
-    [ULAN] <http://vocab.getty.edu/ulan/500002627> <http://www.w3.org/2000/01/rdf-schema#label> "Brustolon, Andrea"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500002627> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brustolon, Andrea"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500007104-nl> <http://vocab.getty.edu/ontology#term> "Brustolon, Andrea"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500007104-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Brustolon, Andrea"@nl .
+  No matches found.
 ----------------------------------------
 Entry: Brydges, Grey (Person/Group (ULAN Target))
   No matches found.
@@ -760,37 +416,16 @@ Entry: Buonaccorsi, Count Orlando (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Buonaccorsi, Raimondo (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500709107>, <http://vocab.getty.edu/ulan/500315118>
-    [ULAN] <http://vocab.getty.edu/ulan/500315118> <http://www.w3.org/2000/01/rdf-schema#label> "Buonaccorsi, Raimondo" .
-    [ULAN] <http://vocab.getty.edu/ulan/500315118> <http://www.w3.org/2004/02/skos/core#altLabel> "Buonaccorsi, Raimondo" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500709107> <http://vocab.getty.edu/ontology#term> "Buonaccorsi, Raimondo" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500709107> <http://www.w3.org/2008/05/skos-xl#literalForm> "Buonaccorsi, Raimondo" .
+  No matches found.
 ----------------------------------------
 Entry: Burlington, Lord (Person/Group (ULAN Target))
   No matches found.
 ----------------------------------------
 Entry: Burnacini, Lodovico Ottavio (Person/Group (ULAN Target))
-  Found 10 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/500007823>, <http://vocab.getty.edu/ulan/500454584>, <http://vocab.getty.edu/ulan/term/1500021751-en>, <http://vocab.getty.edu/ulan/term/1500021751-nl>
-    [ULAN] <http://vocab.getty.edu/ulan/500007823> <http://www.w3.org/2000/01/rdf-schema#label> "Burnacini, Lodovico Ottavio"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500007823> <http://www.w3.org/2000/01/rdf-schema#label> "Burnacini, Lodovico Ottavio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500007823> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burnacini, Lodovico Ottavio"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/500007823> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burnacini, Lodovico Ottavio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500021751-en> <http://vocab.getty.edu/ontology#term> "Burnacini, Lodovico Ottavio"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500021751-en> <http://www.w3.org/2008/05/skos-xl#literalForm> "Burnacini, Lodovico Ottavio"@en .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500021751-nl> <http://vocab.getty.edu/ontology#term> "Burnacini, Lodovico Ottavio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500021751-nl> <http://www.w3.org/2008/05/skos-xl#literalForm> "Burnacini, Lodovico Ottavio"@nl .
-    [ULAN] <http://vocab.getty.edu/ulan/500454584> <http://www.w3.org/2000/01/rdf-schema#label> "Burnacini, Lodovico Ottavio" .
-    [ULAN] <http://vocab.getty.edu/ulan/500454584> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burnacini, Lodovico Ottavio" .
+  No matches found.
 ----------------------------------------
 Entry: Burrini, Giovanni Antonio (Person/Group (ULAN Target))
-  Found 4 matches:
-  Potential IDs: <http://vocab.getty.edu/ulan/term/1500026031>, <http://vocab.getty.edu/ulan/500009397>
-    [ULAN] <http://vocab.getty.edu/ulan/500009397> <http://www.w3.org/2000/01/rdf-schema#label> "Burrini, Giovanni Antonio" .
-    [ULAN] <http://vocab.getty.edu/ulan/500009397> <http://www.w3.org/2004/02/skos/core#altLabel> "Burrini, Giovanni Antonio" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500026031> <http://vocab.getty.edu/ontology#term> "Burrini, Giovanni Antonio" .
-    [ULAN] <http://vocab.getty.edu/ulan/term/1500026031> <http://www.w3.org/2008/05/skos-xl#literalForm> "Burrini, Giovanni Antonio" .
+  No matches found.
 ----------------------------------------
 Entry: Bussi, Francesca (Place (TGN Target))
   No matches found.

@@ -1,0 +1,101 @@
+Original_Entry,Refined_Formal_Name,Refined_Category,Status/Notes
+"Artistic temperament', development of concept",Artistic Temperament (Concept),Concept/Work,[Category Fix] 这是一个概念而非作品。
+Rosichino',Francesco Rosichino,Person,[Disambiguation] 去除引号，补全为17世纪罗马礼仪官 Francesco Rosichino。
+Status-seeking' by artists in 17th-century Rome,Status-seeking (Concept),Concept/Work,[Category Fix] 这是一个社会学概念。
+Accademia di Pittura e Scultura,Accademia di San Luca,Organization,[Disambiguation] 结合罗马背景，指代圣路卡学院。
+"Adda, Cardinal d'",Ferdinando d'Adda,Person,[Disambiguation] 补全为 Ferdinando d'Adda 红衣主教。
+"Aix-la-Chapelle, Peace of",Treaty of Aix-la-Chapelle,Event/Work,[Standardization] 规范化为亚琛和约。
+"Albergati-Capacelli, Francesco",Francesco Albergati Capacelli,Person,[Category Fix] 原文误标为地点，应为人物。
+"Albrizzi, Almor“～",Almorò Albrizzi,Person,"[OCR Fix] 修复乱码 ""“～"" 为 ""ò""。"
+Alticchiero (Querini villa),Villa Querini (Alticchiero),Place,[Standardization] 标准化地点名称。
+"Altieri, Don Gasparo",Gasparo Altieri,Person,[Formatting] 调整为标准人名格式。
+"Amelot de la Houssaye, A. N.",Abraham-Nicolas Amelot de la Houssaye,Person,[Disambiguation] 补全首字母缩写。
+"Anne of Austria, Regent of France",Anne of Austria,Person,[Category Fix] 原文误标为地点，应为人物。
+"Anne, Queen of England","Anne, Queen of Great Britain",Person,[Standardization] 规范化历史头衔。
+Anti-papal satire in reign of Alexander VII,Anti-papal satire,Concept/Work,[Category Fix] 这是一个主题/概念。
+"Antonazzi, Antonio Maria",Antonio Maria Antonazzi,Person,[Formatting] 调整为标准人名格式。
+"Arcadia, Society of",Accademia dell'Arcadia,Organization,[Disambiguation] 罗马阿卡迪亚学院。
+"Armanni, G. A.",Giacomo Antonio Armanni,Person,[Disambiguation] 补全首字母，可能是罗马文人/官员。
+"Arpino, Cavaliere d'",Giuseppe Cesari (Il Cavalier d'Arpino),Person,[Disambiguation] 转换为 Wikidata 标准名。
+"Artist's position in society, Andrea Memmo on",Artist's Social Position,Concept/Work,[Category Fix] 社会地位概念。
+"Artists, status of in 17th-century Rome",Artist's Social Status,Concept/Work,[Category Fix] 社会地位概念。
+"Augustus II of Poland (Frederick Augustus I, Elector of Saxony)",Augustus II the Strong,Person,[Standardization] 使用通用历史称呼。
+Baglioni collection,Baglioni Collection,Collection/Work,[Category Fix] 艺术收藏而非单一作品。
+"Bagnara, Duchess of",Duchess of Bagnara (Ruffo family),Person,[Disambiguation] 巴尼亚拉公爵夫人。
+"Baldoini, Giovanni Gasparo",Giovanni Gasparo Baldoini,Person,[Formatting] 标准格式。
+"Barbarigo, Caterina",Caterina Barbarigo,Person,[Formatting] 标准格式。
+"Barberini, Cardinal Francesco (nephew to Urban VIII)",Francesco Barberini (1597–1679),Person,[Category Fix] 原文误标为地点，补全生卒年以区分。
+"Barberini, Monsignor Francesco (uncle to Urban VIII)",Francesco Barberini (1528–1600),Person,[Category Fix] 原文误标为地点，补全生卒年以区分。
+"Bassanino, Virgilio",Virgin (painting by Bassanino),Work,"[OCR Fix] ""Virgilio"" 极可能是 ""Virgin"" (圣母) 的误读，""Bassanino"" 指画家。原文倒装且OCR错误。"
+"Bedford, John, 4th Duke of","John Russell, 4th Duke of Bedford",Person,[Disambiguation] 补全全名。
+"Bentivoglio, Ippotilo",Ippolito Bentivoglio,Person,"[OCR Fix] 修正拼写 ""Ippotilo"" -> ""Ippolito""。"
+"Bermis, Cardinal de",François-Joachim de Pierre de Bernis,Person,"[OCR Fix] 修正拼写 ""Bermis"" -> ""Bernis""。"
+"Berreguete, Pedro",Pedro Berruguete,Person,"[OCR Fix] 修正拼写 ""Berreguete"" -> ""Berruguete""。"
+"Bianconi, G. L.",Giovanni Ludovico Bianconi,Person,[Disambiguation] 补全首字母。
+"Biffi, Giambattista",Giambattista Biffi,Person,[Formatting] 标准格式。
+"Boccage, Mme de",Anne-Marie du Boccage,Person,[Disambiguation] 补全全名。
+Bombelli Sebastiano,Sebastiano Bombelli,Person,[Formatting] 调整倒装。
+"Boncampagni, Ugo (Pope Gregory XIII)",Ugo Boncompagni (Gregory XIII),Person,"[OCR Fix] 修正拼写 ""Boncampagni"" -> ""Boncompagni""。"
+Bonfiglioli collection,Bonfiglioli Collection,Collection/Work,[Category Fix] 艺术收藏。
+"Boscovich, P.",Roger Joseph Boscovich,Person,"[Disambiguation] ""P."" 指 Padre (神父)。"
+"Bracciano, Duke of",Duke of Bracciano (Orsini),Person,[Disambiguation] 指 Orsini 家族公爵。
+"Bracciano, Paolo Giordano I Orsini, Duke of",Paolo Giordano I Orsini,Person,[Formatting] 标准格式。
+"Bracciano, Paolo Giordona II Orsini, Duke of",Paolo Giordano II Orsini,Person,"[OCR Fix] 修正拼写 ""Giordona"" -> ""Giordano""。"
+"Breughel, Abram",Abraham Brueghel,Person,[Standardization] 规范化拼写。
+"Breval, John",John Breval,Person,[Formatting] 标准格式。
+"Brugiori, Domenico",Domenico Brugieri,Person,"[OCR Fix] 修正拼写 ""Brugiori"" -> ""Brugieri"" (可能是 Domenico Maria Brugieri)。"
+"Buckingham, Charles Villiers, Duke of","Charles Villiers, 1st Duke of Buckingham",Person,[Standardization] 添加爵位序数。
+"Buckingham, John Sheffield, Duke of","John Sheffield, 1st Duke of Buckingham",Person,[Standardization] 添加爵位序数。
+"Cadani, Stefano",Stefano Catani,Person,"[OCR Fix] ""Cadani"" 疑为 ""Catani"" (18世纪画家) 的误读。"
+"Camerino, Giovanni Angelo da",Giovanni Angelo d'Antonio (da Camerino),Person,[Disambiguation] 15世纪画家。
+"Canal, Gerolamo",Gerolamo Canal,Person,[Formatting] 标准格式。
+"Canale, Procuratore",Procuratore Canale,Person,[Formatting] 威尼斯官员头衔。
+"Caprara, Marshal",Aeneas de Caprara,Person,[Disambiguation] 奥地利陆军元帅。
+"Caraboli, Giacomo",Giacomo Caraboli,Person,"[Review] 名字存疑，可能是 ""Giacomo Carlieri"" 或 ""Giacomo Ceruti"" 的严重OCR错误，暂保留。"
+"Carandini, Count Camillo",Camillo Carandini,Person,[Formatting] 标准格式。
+"Carandini, Marchesa Elisa",Elisa Carandini,Person,[Category Fix] 修正分类。
+"Carlisle, Earl of",Earl of Carlisle,Person,[Formatting] 标准格式。
+"Carlone, Gianandrea",Gianandrea Carlone,Person,[Formatting] 标准格式。
+"Castro, First and Second Wars of",Wars of Castro,Event/Work,[Category Fix] 历史事件。
+"Castro, Jacomo di",Giacomo di Castro,Person,"[OCR Fix] ""Jacomo"" -> ""Giacomo""。"
+Catherine the Great of Russia,Catherine II of Russia,Person,[Standardization] 规范化君主名称。
+"Cattaneo, Giovanni de",Giovanni de Cattaneo,Person,[Formatting] 标准格式。
+"Celle, Georg Wilhelm Duke of","George William, Duke of Brunswick-Lüneburg",Person,[Disambiguation] 策勒公爵。
+"Chandos, Grey Brydges, 5th Lord","Grey Brydges, 5th Baron Chandos",Person,[Standardization] 规范化爵位。
+"Chandos, James Brydges, 1st Duke of","James Brydges, 1st Duke of Chandos",Person,[Formatting] 标准格式。
+"Chi soffre, speri","Chi soffre, speri (Opera)",Work,[Category Fix] 误标为人物，实为歌剧。
+"Chiari, Giuseppe and Tommaso",Giuseppe Chiari / Tommaso Chiari,Person,[Split Required] 包含两位画家，需拆分。
+"Chigi, Agostino 'il Magnifico'",Agostino Chigi,Person,[Formatting] 标准格式。
+"Christina, Queen of Sweden","Christina, Queen of Sweden",Person,[Formatting] 标准格式。
+Churches of religious orders,Churches of Religious Orders,Concept/Work,[Category Fix] 建筑/概念集合。
+Cibo palace,Palazzo Cybo,Place,"[OCR Fix] ""Cibo"" -> ""Cybo""。修正分类为 Place (建筑)。"
+"Cimaroli, Giovan Battista",Giovan Battista Cimaroli,Person,[Formatting] 标准格式。
+"Citt角 di Castello, Matteo da",Matteo da Città di Castello,Person,"[OCR Fix] 修复乱码 ""Citt角"" 为 ""Città""。"
+"Clemens August, Archbishop-Elector of Cologne",Clemens August of Bavaria,Person,[Category Fix] 修正分类。
+"Clostermann, John",John Closterman,Person,"[OCR Fix] ""Clostermann"" -> ""Closterman""。"
+"Colonna, Marc'Antonio",Marcantonio Colonna,Person,[Standardization] 规范化拼写。
+"Concina, Padre Daniele",Daniele Concina,Person,[Formatting] 去除头衔。
+"Conti, Michaelangelo (Pope Innocent XIII)",Pope Innocent XIII (Michelangelo Conti),Person,[Standardization] 优先使用教皇名号。
+Corner family,Cornaro family,Group,"[Category Fix] 误标为地点，实为家族/群体。标准化拼写 ""Corner"" -> ""Cornaro""。"
+"Cortese, Giacomo and Guglielmo",Giacomo Cortese / Guglielmo Cortese,Person,[Split Required] 兄弟画家，需拆分。
+"Courtois, Jacques and Guillaume",Jacques Courtois / Guillaume Courtois,Person,[Split Required] 兄弟画家 (即 Cortese 兄弟的法语名)，需拆分。
+"Crequi, Duc de",François de Créquy,Person,[Disambiguation] 补全全名。
+"Crescenzi, Pietro Paolo",Pietro Paolo Crescenzi,Person,[Formatting] 标准格式。
+"Critics, Roman",Roman Critics,Group,[Category Fix] 群体概念。
+"Croissy, M. de","Charles Colbert, marquis de Croissy",Person,[Disambiguation] 路易十四的外交官。
+"Curli, Girolamo",Girolamo Curti,Person,"[OCR Fix] ""Curli"" -> ""Curti"" (即 Il Dentone)。"
+Customs duty on pictures,Customs Duty on Pictures,Concept/Work,[Category Fix] 经济/法律概念。
+"Devonshire, Duke of",Duke of Devonshire,Person,[Formatting] 标准格式。
+"Dolfin, Daniele (Archbishop of Udine)",Daniele Dolfin (1653–1704),Person,[Category Fix] 误标为作品。补全身份。
+"Dolfin, Daniele III",Daniele III Dolfin,Person,[Formatting] 标准格式。
+"Douglas, Hamilton, Marquis of","William Douglas, Duke of Hamilton",Person,[Disambiguation] 可能是指 Hamilton 家族成员，需结合上下文。
+"Dubois, Ambrose",Ambroise Dubois,Person,"[OCR Fix] ""Ambrose"" -> ""Ambroise""。"
+Dutch artists,Dutch Artists,Group,[Category Fix] 误标为地点，应为群体。
+"Duyvelant, Jacques",Jacques Duyvelant,Person,[Status] 名字保留，可能是织毯工匠。
+"Effetti, Antonio degli",Antonio degli Effetti,Person,[Formatting] 标准格式。
+"Emo, Procurator",Procurator Emo,Person,[Formatting] 威尼斯官员。
+English patronage,English Patronage,Concept/Work,[Category Fix] 艺术赞助概念。
+English tourists in Italy,English Tourists in Italy,Group/Concept,[Category Fix] 群体或现象。
+"Este, Azzo, Marchese d'",Azzo d'Este,Person,[Category Fix] 修正分类。
+"Estr谷es, Duc d'",Duc d'Estrées,Person,"[OCR Fix] 修复乱码 ""Estr谷es"" 为 ""Estrées""。"
+"Exeter, 5th Lord","John Cecil, 5th Earl of Exeter",Person,[Disambiguation] 补全全名。
