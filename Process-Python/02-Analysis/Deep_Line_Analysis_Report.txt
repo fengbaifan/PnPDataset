@@ -1,0 +1,52 @@
+=== Deep Line-by-Line Analysis Report ===
+Total Rows Processed: 4118
+------------------------------
+
+[1. Inconsistent Categories] (Same name, different categories)
+Found 9 entities with multiple categories.
+  - Accademia degli Umoristi: Organization, Group
+  - Macerata: Organization, Place
+  - Biblioteca del Museo Correr: Organization, Place
+  - Accademia dell'Arcadia: Group, Organization
+  - Art Institute of Chicago: Organization, Place/Organization
+  - Romulus and Remus: Work, Person
+  - Scuola Grande di San Rocco: Organization, Place
+  - Sassoferrato: Person, Place
+  - Congregazione dei Virtuosi al Pantheon: Organization, Group
+
+[2. Low Similarity Mappings] (Potential OCR errors or aggressive normalization)
+Found 614 entries with similarity < 0.6 (excluding known aliases).
+  - Row 5: 'Status-seeking' by artists in 17th-century Rome' -> 'Status-seeking (Concept)' (Score: 0.54) | Note: [Validation] 社会学/艺术史概念。
+  - Row 33: 'Accademia di Pittura e Scultura' -> 'Accademia di San Luca / Académie Royale' (Score: 0.54) | Note: [Context] 可能是指罗马圣路卡学院或巴黎皇家绘画雕塑学院（通用名）。
+  - Row 63: 'Alan Noel Latimer Munby' -> 'A. N. L. Munby' (Score: 0.59) | Note: [Validation] 图书馆学家。
+  - Row 64: 'Albani, Cardinal Annibale' -> 'Annibale Albani' (Score: 0.40) | Note: [Reconstruction] 名字倒装复原。
+  - Row 65: 'Albani, Francesco' -> 'Francesco Albani' (Score: 0.55) | Note: [Category Fix] 原文误标为 Place (E53)。波伦亚派画家。
+  - Row 73: 'Albrizzi, Almor¨°' -> 'Almorò Albrizzi' (Score: 0.50) | Note: [OCR Fix] 修正 "Almor¨°" 为 "Almorò"。
+  - Row 74: 'Albrizzi, Giambattista' -> 'Giambattista Albrizzi' (Score: 0.56) | Note: [Reconstruction] 名字倒装复原。
+  - Row 107: 'Daniel Pickering Walker' -> 'D. P. Walker' (Score: 0.57) | Note: [Validation] 历史学家 (Warburg Institute)。
+  - Row 114: 'Dante' -> 'Dante Alighieri' (Score: 0.50) | Note: [Validation] 但丁。
+  - Row 116: 'Daphne and Apollo' -> 'Apollo and Daphne' (Score: 0.35) | Note: [Validation] 绘画/雕塑主题。
+  - Row 119: 'Dartmouth, Lord' -> 'Earl of Dartmouth' (Score: 0.56) | Note: [Validation] 英国贵族。
+  - Row 120: 'Dati, Carlo' -> 'Carlo Roberto Dati' (Score: 0.34) | Note: [Validation] 佛罗伦萨学者。
+  - Row 139: 'Della Lena' -> 'Della Lena (Family/Person)' (Score: 0.56) | Note: [Context] 可能是 Innocenzo della Lena (威尼斯作家) 或家族。
+  - Row 143: 'Denis Pétau' -> 'Denis Pétau (Dionysius Petavius)' (Score: 0.51) | Note: [Validation] 耶稣会神学家。
+  - Row 149: 'Devonshire, Duke of' -> 'Duke of Devonshire' (Score: 0.54) | Note: [Validation] 英国贵族 (Chatsworth主人)。
+  - Row 160: 'Dietrich, Christian' -> 'Christian Wilhelm Ernst Dietrich (Dietricy)' (Score: 0.29) | Note: [Reconstruction] 德国画家。
+  - Row 168: 'Divine Virtues, Faith, Hope, Charity and Wisdom' -> 'Divine Virtues' (Score: 0.46) | Note: [Validation] 绘画/雕塑主题。
+  - Row 171: 'Dolfin, Daniele (Archbishop of Udine)' -> 'Daniele Dolfin (1653-1704)' (Score: 0.41) | Note: [Category Fix] 原文误标为 Work。
+  - Row 172: 'Dolfin, Daniele III' -> 'Daniele Dolfin III' (Score: 0.59) | Note: [Validation] 威尼斯大使。
+  - Row 173: 'Dolfin, Daniele IV' -> 'Daniele Dolfin IV' (Score: 0.57) | Note: [Validation] 威尼斯贵族。
+
+[3. Unstructured Notes]
+Found 982 entries with unstructured notes.
+Sample of unstructured notes:
+  - 意大利马尔凯大区。
+  - "Marche" 的英语复数形式，标准化为 Marche。
+  - 热那亚贵族、总督及艺术收藏家。
+  - 罗马重要的艺术赞助人（Maratti 的赞助者）。
+  - 可能是 Lorenzo Raggi 或该家族成员（如 Bernini 的赞助人），保留头衔。
+  - 泛指马尔凯大区的城镇。
+  - 威尼斯马尔恰纳图书馆。
+  - 罗马画家。
+  - 威尼斯画家及艺术理论家（《Carta del Navegar Pitoresco》作者）。
+  - 威尼斯总督（Doge）。

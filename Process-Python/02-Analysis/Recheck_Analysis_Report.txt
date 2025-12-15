@@ -1,0 +1,96 @@
+=== Recheck Data Analysis Report ===
+Total Entries: 4118
+------------------------------
+
+[Category Distribution]
+  - Person: 2578 (62.6%)
+  - Place: 618 (15.0%)
+  - Work: 585 (14.2%)
+  - Organization: 134 (3.3%)
+  - Group: 59 (1.4%)
+  - Concept: 50 (1.2%)
+  - Person (Myth): 29 (0.7%)
+  - Event: 14 (0.3%)
+  - Place/Organization: 9 (0.2%)
+  - Organization/Group: 6 (0.1%)
+  - Work/Concept: 4 (0.1%)
+  - Organization/Place: 3 (0.1%)
+  - Person/Work: 3 (0.1%)
+  - Group/Work: 2 (0.0%)
+  - Place/Person: 2 (0.0%)
+  - Place/Concept: 2 (0.0%)
+  - Concept/Work: 2 (0.0%)
+  - Person (Allegory): 2 (0.0%)
+  - Group/Concept: 2 (0.0%)
+  - Person (Myth/Hist): 1 (0.0%)
+  - Work/Place: 1 (0.0%)
+  - Group/Place: 1 (0.0%)
+  - Person (Lit): 1 (0.0%)
+  - Person (Type): 1 (0.0%)
+  - Person/Group: 1 (0.0%)
+  - Work/Person: 1 (0.0%)
+  - Person (Religious): 1 (0.0%)
+  - Person (Myth)/Work: 1 (0.0%)
+  - Event/Work: 1 (0.0%)
+  - Concept/Person (Allegory): 1 (0.0%)
+  - Group/Title: 1 (0.0%)
+  - Work/Event: 1 (0.0%)
+  - Event/Concept: 1 (0.0%)
+
+[Note Type Distribution]
+  - Validation: 1821 (44.2%)
+  - Other Note: 982 (23.8%)
+  - Category Fix: 628 (15.3%)
+  - Disambiguation: 196 (4.8%)
+  - OCR Fix: 172 (4.2%)
+  - Reconstruction: 90 (2.2%)
+  - No Note: 60 (1.5%)
+  - Context: 26 (0.6%)
+  - Full Name: 17 (0.4%)
+  - Ambiguity: 17 (0.4%)
+  - Check Original: 16 (0.4%)
+  - Myth: 13 (0.3%)
+  - Ambiguous: 10 (0.2%)
+  - Duplicate: 10 (0.2%)
+  - Correction: 10 (0.2%)
+  - Verify: 9 (0.2%)
+  - Standardization: 6 (0.1%)
+  - Check: 4 (0.1%)
+  - Split Required: 4 (0.1%)
+  - Merge Candidate: 3 (0.1%)
+  - Typo Fix: 3 (0.1%)
+  - Spelling Fix: 3 (0.1%)
+  - OCR Fix/Typo: 2 (0.0%)
+  - OCR/Typo Fix: 2 (0.0%)
+  - Verification: 2 (0.0%)
+  - Specific Name: 1 (0.0%)
+  - OCR Fix/Reconstruction: 1 (0.0%)
+  - OCR Fix/Standardization: 1 (0.0%)
+  - OCR/Confusion: 1 (0.0%)
+  - OCR Fix/Ambiguous: 1 (0.0%)
+  - Abbreviation: 1 (0.0%)
+  - Refinement: 1 (0.0%)
+  - OCR Fix/Hypothesis: 1 (0.0%)
+  - OCR Fix/Dialect: 1 (0.0%)
+  - OCR Fix/Category Fix: 1 (0.0%)
+  - OCR/Category Fix: 1 (0.0%)
+  - Dialect/OCR: 1 (0.0%)
+
+[Missing Values]
+  - Original_Entry: Complete
+  - Refined_Formal_Name: Complete
+  - Refined_Category: Complete
+  - Status/Notes: 60 missing
+
+[Duplicate Analysis]
+  - Duplicate Refined Names (entries appearing >1 time): 430
+  - Top 5 Duplicates:
+    * Sant'Andrea al Quirinale: 4 times
+    * Abel-François Poisson, marquis de Marigny: 3 times
+    * Santa Maria della Concezione dei Cappuccini: 3 times
+    * Jan van den Eynde: 3 times
+    * Archivio di Stato di Venezia (Sezione Notarile): 3 times
+
+[Name Length Stats]
+  - Average Length: 20.1 chars
+  - Max Length: 81 chars

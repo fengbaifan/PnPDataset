@@ -1,0 +1,1749 @@
+=== Recheck Duplicates Inspection ===
+Total Unique Entities with Duplicates: 430
+Total Rows involved: 885
+--------------------------------------------------
+
+> Abel-François Poisson, marquis de Marigny [Person]
+    - Original: Abel-Fran?ois Poisson de Vandières       | Note: [OCR Fix] 修正 "?" 为 "ç"。庞巴杜夫人的弟弟，艺术总监。
+    - Original: Marigny, Marquis de                      | Note: 蓬帕杜夫人的弟弟，法国皇家建筑总监。
+    - Original: Vandi豕res, Marquis de...                 | Note: [OCR Fix] "Vandi豕res" -> "Vandières"。Marigny侯爵。
+
+> Abraham Brueghel [Person]
+    - Original: Abraham Brueghel                         | Note: [Validation] 佛兰芒画家。
+    - Original: Breughel, Abram                          | Note: [Disambiguation] 佛兰芒静物画家。
+
+> Abraham Nicolas Amelot de la Houssaye [Person]
+    - Original: Abraham Nicolas Amelot de la Houssaye    | Note: [Validation] 历史学家。
+    - Original: Amelot de la Houssaye, A. N.             | Note: [Reconstruction] 名字倒装复原。
+
+> Accademia Albrizziana [Organization]
+    - Original: Accademia Albrizziana                    | Note: [Validation] 威尼斯文学学会 (Albrizzi)。
+    - Original: Accbremia Albrizziana                    | Note: [OCR Fix] 修正 "Accbremia" 为 "Accademia"。同 Row 23。
+
+> Accademia degli Umoristi [Organization]
+    - Original: Accademia degli Umoristi                 | Note: [Validation] 罗马文学学会。
+    - Original: Umoristi                                 | Note: 罗马文学学院。
+
+> Accademia dei Lincei [Organization]
+    - Original: Accademia dei Lincei                     | Note: [Validation] 猞猁之眼国家科学院。
+    - Original: Lincean Academy                          | Note: [Category Fix] 原文误标为 Place。
+
+> Accademia dell'Arcadia [Group]
+    - Original: Arcadia, Society of                      | Note: [Disambiguation] 阿卡迪亚学院。
+    - Original: Society of Arcadia                       | Note: [Category Fix] 阿卡迪亚学院。
+
+> Adriaen van der Werff [Person]
+    - Original: Adriaen van der Werff                    | Note: [Validation] 荷兰画家。
+    - Original: Werff, Adrian van der                    | Note: 荷兰画家。
+
+> Agostino Chigi [Person]
+    - Original: Agostino Andrea Chigi                    | Note: [Disambiguation] 基吉家族成员。
+    - Original: Chigi, Agostino 'il Magnifico'           | Note: [Reconstruction] 文艺复兴银行家。
+
+> Alessandro Farnese (Cardinal) [Person]
+    - Original: Alessandro Farnese (cardinal)            | Note: [Validation] 法尔内塞枢机。
+    - Original: Farnese, Cardinal Alessandro             | Note: [Reconstruction] 可能是指教皇保罗三世之前的身份，或其孙子 Alessandro Farnese il Giovane。需结合语境。通常指 il Giovane (著名赞助人)。
+
+> Alessandro Marchesini [Person]
+    - Original: Alessandro Marchesini                    | Note: [Validation] 画家。
+    - Original: Marchesini, Alessandro                   | Note: [Category Fix] 原文误标为 Man-Made Object。维罗纳画家。
+
+> Alessandro Peretti di Montalto [Person]
+    - Original: Alessandro Peretti di Montalto           | Note: [Validation] 枢机主教。
+    - Original: Peretti-Montalto, Cardinal Alessandro    | Note: 红衣主教蒙塔尔托。
+
+> Alessandro Vassalli [Person]
+    - Original: Alessandro Vasalli                       | Note: [OCR Fix] 疑似 "Vassalli" (17世纪出版商/刻工)。
+    - Original: Vassalli, Alessandro                     | Note: nan
+
+> Alessandro Zen [Person]
+    - Original: Alessandro Zen                           | Note: [Validation] 威尼斯贵族。
+    - Original: Zen, Procurator Alessandro               | Note: 威尼斯检察官。
+
+> Alexander VII [Person]
+    - Original: Chigi, Fabio (Pope Alexander VII)        | Note: [Disambiguation] 教皇亚历山大七世。
+    - Original: Pope Alexander VII                       | Note: nan
+
+> Alexander VIII [Person]
+    - Original: Ottoboni, Pietro (Pope Alexander VIII)   | Note: 教皇亚历山大八世。
+    - Original: Pope Alexander VIII                      | Note: nan
+
+> Alfonso Gesualdo [Person]
+    - Original: Alfonso Gesualdo                         | Note: [Validation] 枢机主教。
+    - Original: Gesualdo, Cardinal                       | Note: [Disambiguation] 枢机主教。
+
+> Allegory of Divine Providence and Barberini Power [Work]
+    - Original: Allegory of Divine Providence and Barberini Power | Note: [Validation] 皮耶特罗·达·科尔托纳壁画。
+    - Original: Frescoes in Palazzo Barberini Salone     | Note: [Disambiguation] Pietro da Cortona 壁画。
+
+> Alvise Mocenigo [Person]
+    - Original: Alvise Mocenigo                          | Note: [Validation] 威尼斯总督/贵族（需具体上下文区分几世）。
+    - Original: Mocenigo, Doge Alvise                    | Note: 威尼斯总督（具体哪一世需上下文，通常指 Alvise IV 1763-1778）。
+
+> Ambroise Dubois [Person]
+    - Original: Ambroise Dubois                          | Note: [Validation] 画家 (枫丹白露画派)。
+    - Original: Dubois, Ambrose                          | Note: [Reconstruction] 枫丹白露画派画家。
+
+> Andrea Ferreri [Person]
+    - Original: Andrea Ferreri                           | Note: [Validation] 巴洛克雕塑家。
+    - Original: Ferrerio, Andrea                         | Note: [OCR Fix] "Ferrerio" -> "Ferreri" (巴洛克雕塑家)。
+
+> Andrea Gerini [Person]
+    - Original: Andrea Gerini                            | Note: [Validation] 佛罗伦萨贵族/收藏家。
+    - Original: Gerini, Marchese Andrea                  | Note: [Category Fix] 原文误标为 Man-Made Object。佛罗伦萨收藏家。
+
+> Andrea del Rosso [Person]
+    - Original: Andrea del Rosso                         | Note: [Validation] 佛罗伦萨收藏家。
+    - Original: Rosso, Andrea del (grandfather...)       | Note: 佛罗伦萨收藏家。
+
+> Andrew Fountaine [Person]
+    - Original: Andrew Fountaine                         | Note: [Validation] 英国收藏家。
+    - Original: Fountaine, Sir Andrew                    | Note: [Category Fix] 原文误标为 Work。
+
+> Anna Maria Luisa de' Medici [Person]
+    - Original: Anna Maria Luisa de' Medici              | Note: [Validation] 美第奇家族最后一位直系成员。
+    - Original: Medici, Anna Maria Ludovica de'...       | Note: 普法尔茨选帝侯夫人，美第奇家族最后一位直系成员。
+
+> Anne of Austria [Person]
+    - Original: Anne d’Autriche                          | Note: [Validation] 奥地利的安妮 (法国王后)。
+    - Original: Anne of Austria, Regent of France        | Note: [Category Fix] 原文误标为 Place。
+
+> Anne, Queen of Great Britain [Person]
+    - Original: Anne of Great Britain                    | Note: [Validation] 安妮女王。
+    - Original: Anne, Queen of England                   | Note: [Validation] 安妮女王。
+
+> Anne-Marie du Boccage [Person]
+    - Original: Anne-Marie du Boccage                    | Note: [Validation] 法国作家。
+    - Original: Boccage, Mme de                          | Note: [Disambiguation] 法国女作家。
+
+> Anton Raphael Mengs [Person]
+    - Original: Anton Raphael Mengs                      | Note: [Validation] 新古典主义画家。
+    - Original: Mengs, Anton Rafael                      | Note: 德国新古典主义画家。
+
+> Antonio Barberini [Person]
+    - Original: Antonio Barberini                        | Note: [Validation] 枢机主教。
+    - Original: Cardinal Antonio Barberini               | Note: [Category Fix] 原文误标为 Work。
+
+> Antonio Francesco Gori [Person]
+    - Original: Antonio Francesco Gori                   | Note: [Validation] 古物学家 (Museum Florentinum)。
+    - Original: Gori, A. F.                              | Note: [Reconstruction] 佛罗伦萨古物学家 (Museum Florentinum)。
+
+> Antonio Maria Antoniazzi [Person]
+    - Original: Antonazzi, Antonio Maria                 | Note: [Reconstruction] 名字倒装复原。
+    - Original: Antonio Maria Antoniazzi                 | Note: [Validation] 天文学家/学者。
+
+> Antonio Schinella Conti (Abate Conti) [Person]
+    - Original: Antonio Schinella Conti                  | Note: [Validation] 作家/哲学家。
+    - Original: Conti, Antonio                           | Note: [Validation] 威尼斯作家。
+
+> Antonio Vallisneri [Person]
+    - Original: Antonio Vallisneri                       | Note: [Validation] 科学家/医生。
+    - Original: Vallisnieri, Antonio                     | Note: [Spelling Fix] 科学家/医生。
+
+> Apollo and Daphne [Work]
+    - Original: Apollo Chasing Daphne                    | Note: [Validation] 绘画/雕塑主题。
+    - Original: Daphne and Apollo                        | Note: [Validation] 绘画/雕塑主题。
+
+> Apostolic Palace [Place]
+    - Original: Apostolic Palace                         | Note: [Validation] 梵蒂冈宗座宫。
+    - Original: Vatican palace                           | Note: [Category Fix] 原文误标为 Man-Made Object。
+
+> Archbasilica of Saint John Lateran [Place]
+    - Original: Archbasilica of St. John Lateran         | Note: [Validation] 拉特朗圣若望大殿。
+    - Original: Cathedral of Rome                        | Note: [Disambiguation] 罗马主教座堂是拉特朗圣若望。
+
+> Archduke Leopold Wilhelm of Austria [Person]
+    - Original: Archduke Leopold Wilhelm of Austria      | Note: [Validation] 著名艺术收藏家。
+    - Original: Leopold Wilhelm, Archduke                | Note: [Category Fix] 原文误标为 Man-Made Object。
+
+> Archivio di Stato di Venezia (Sezione Notarile) [Organization]
+    - Original: Sezione Notarile, Venice                 | Note: [Category Fix] 威尼斯国家档案馆公证处。
+    - Original: Venice Notarial Section                  | Note: [Category Fix] 威尼斯国家档案馆公证处。
+    - Original: Venice-Sezione Notarile                  | Note: [Category Fix]
+
+> Art Institute of Chicago [Place/Organization]
+    - Original: Art Institute of Chicago                 | Note: [Validation] 芝加哥艺术博物馆。
+    - Original: Art Institute of Chicago Robert A. Waller Fund | Note: [Refinement] 博物馆基金。
+
+> Ascanio Filomarino [Person]
+    - Original: Ascanio Filomarino                       | Note: [Validation] 那不勒斯枢机主教。
+    - Original: Filomarino, Cardinal                     | Note: [Disambiguation] 那不勒斯大主教。
+
+> Augustus II the Strong [Person]
+    - Original: Augustus II of Poland (Frederick Augustus I, Elector of Saxony) | Note: [Disambiguation] 奥古斯都二世。
+    - Original: Augustus II the Strong                   | Note: [Validation] 萨克森选帝侯/波兰国王。
+
+> Augustus III of Poland [Person]
+    - Original: Augustus III of Poland                   | Note: [Validation] 奥古斯都三世。
+    - Original: Augustus III of Poland (Frederick Augustus II, Elector of Saxony) | Note: [Validation] 同上。
+
+> Baldassare Longhena [Person]
+    - Original: Longhena                                 | Note: [Disambiguation] 建筑师。
+    - Original: Longhena, Baldassare                     | Note: [Validation] 建筑师。
+
+> Balthasar Neumann [Person]
+    - Original: Johann Balthasar Neumann                 | Note: [Validation] 德国巴洛克建筑师。
+    - Original: Neumann, Balthasar                       | Note: 德国巴洛克建筑师。
+
+> Barberini Chapel (Sant'Andrea della Valle) [Place]
+    - Original: Barberini Chapel in S. Andrea della Valle | Note: [Validation] 罗马礼拜堂。
+    - Original: Barberini Chapelin S.Andreadella Valle)  | Note: [OCR Fix] 标点和空格修复。
+
+> Bartolomeo Letterini [Person]
+    - Original: Bartolomeo Letterini                     | Note: [Validation] 威尼斯画家。
+    - Original: Letterini, Bartolommeo                   | Note: [Reconstruction] 威尼斯画家。
+
+> Bartolomeo Nazari [Person]
+    - Original: Bartolomeo Nazari                        | Note: [Validation] 威尼斯肖像画家。
+    - Original: Nazari, Bartolommeo                      | Note: 威尼斯肖像画家。
+
+> Bartolomeo Schedoni [Person]
+    - Original: Bartolomeo Schedoni                      | Note: [Validation] 帕尔马画家。
+    - Original: Schedoni, Bartolommeo                    | Note: 帕尔马画家。
+
+> Benoît Audran the Elder [Person]
+    - Original: Audran, Benoit                           | Note: [Disambiguation] 法国版画家。
+    - Original: Beno?t Audran the Elder                  | Note: [OCR Fix] 修正 "?" 为 "î"。
+
+> Bernard Le Bovier de Fontenelle [Person]
+    - Original: Bernard Le Bovier de Fontenelle          | Note: [Validation] 作家。
+    - Original: Fontenelle                               | Note: [Disambiguation] 法国作家。
+
+> Bernardo De Dominici [Person]
+    - Original: Bernardo de' Dominici                    | Note: [Validation] 那不勒斯艺术传记作家。
+    - Original: Dominici, Bernardo de                    | Note: [Reconstruction] 那不勒斯传记作家。
+
+> Biblioteca Estense [Place]
+    - Original: Biblioceca Estense                       | Note: [OCR Fix] "Biblioceca" -> "Biblioteca"。
+    - Original: Biblioteca Estense                       | Note: [Validation] 摩德纳图书馆。
+
+> Biblioteca Nazionale Marciana [Place]
+    - Original: Biblioteca Nazionale Marciana            | Note: [Validation] 威尼斯圣马可图书馆。
+    - Original: Marciana                                 | Note: 威尼斯马尔恰纳图书馆。
+
+> Biblioteca del Museo Correr [Place]
+    - Original: Biblioteca Correr                        | Note: [Validation] 威尼斯图书馆。
+    - Original: Correr Library                           | Note: [Validation] 威尼斯图书馆。
+    - Original: Museo Correr Library                     | Note: [Category Fix] 博物馆图书馆。
+
+> Ca' Foscari [Place]
+    - Original: Ca' Foscari                              | Note: [Validation] 威尼斯宫殿/大学。
+    - Original: Palazzo Foscari                          | Note: 威尼斯宫殿。
+
+> Ca' Pesaro [Place]
+    - Original: Ca' Pesaro                               | Note: [Validation] 威尼斯宫殿/博物馆。
+    - Original: Pesaro palace                            | Note: 威尼斯佩萨罗宫（现为现代艺术博物馆）。
+
+> Caesar Baronius [Person]
+    - Original: Baronio, Cardinal                        | Note: [Disambiguation] 凯撒·巴罗尼乌斯枢机 (教会史学家)。
+    - Original: Caesar Baronius                          | Note: [Validation] 枢机/历史学家。
+
+> Camillo Astalli [Person]
+    - Original: Astalli (Pamfili), Camillo               | Note: [Disambiguation] 卡米洛·阿斯塔利枢机。
+    - Original: Camillo Astalli                          | Note: [Validation] 枢机主教。
+    - Original: Pamfili (Astalli), Camillo               | Note: 曾被 Pamphilj 家族收养的红衣主教 (Cardinal-Nephew)。
+
+> Camillo Gavassetti [Person]
+    - Original: Camillo Gavassetti                       | Note: [Validation] 莫德纳画家。
+    - Original: Gavasetti, Camillo                       | Note: [Reconstruction] 莫德纳画家。
+
+> Camillo Pamphilj [Person]
+    - Original: Pamfili Moncalto                         | Note: [OCR/Confusion] 极可能是 "Pamfili, Montalto" 的混淆或 "Camillo Pamphilj" 的误读。
+    - Original: Pamfili, Prince Camillo (nephew...)      | Note: 英诺森十世的侄子，放弃枢机职位结婚。
+
+> Caravaggio [Person]
+    - Original: Caravaggio, Michelangelo da              | Note: [Disambiguation] 卡拉瓦乔。
+    - Original: Michelangelo Merisi da Caravaggio        | Note: 卡拉瓦乔。
+
+> Cardinal Richelieu [Person]
+    - Original: Armand Jean du Plessis                   | Note: [Disambiguation] 黎塞留枢机。
+    - Original: Richelieu                                | Note: 黎塞留枢机。
+
+> Carl Gustaf Tessin [Person]
+    - Original: Carl Gustaf Tessin                       | Note: [Validation] 瑞典外交官/收藏家。
+    - Original: Tessin, Count Carl Gustav                | Note: 瑞典重要外交官与收藏家。
+
+> Carlo Barberini [Person]
+    - Original: Barberini, Carlo (brother to Urban VIII) | Note: [Reconstruction] 乌尔班八世之兄。
+    - Original: Carlo Barberini                          | Note: [Validation] 枢机主教。
+
+> Carlo Lodoli [Person]
+    - Original: Carlo Lodoli                             | Note: [Validation] 威尼斯建筑理论家。
+    - Original: Lodoli, Padre Carlo                      | Note: [Reconstruction] 建筑理论家。
+
+> Carlo Maratta [Person]
+    - Original: Carlo Maratti                            | Note: [Standardization] 画家 (也拼作 Maratti)。
+    - Original: Maratta, Carlo                           | Note: [Validation] 罗马画家。
+
+> Carlo Roberto Dati [Person]
+    - Original: Carlo Roberto Dati                       | Note: [Validation] 佛罗伦萨学者。
+    - Original: Dati, Carlo                              | Note: [Validation] 佛罗伦萨学者。
+
+> Castel Cogolo [Place]
+    - Original: Castel Cogolo                            | Note: [Validation] 城堡。
+    - Original: Castle of Cogolo                         | Note: [Validation] 同 Castel Cogolo。
+
+> Catherine the Great [Person]
+    - Original: Catherine the Great of Russia            | Note: [Validation] 俄国女皇。
+    - Original: Sophie Friederike Auguste von Anhalt-Zerbst | Note: 叶卡捷琳娜大帝的原名。
+
+> Cesare Leopardi [Person]
+    - Original: Don Cesare Leopardi d`Osimo              | Note: [Validation] 奥西莫贵族。
+    - Original: Osimo, Don Cesare Leopardi di            | Note: 奥西莫的贵族/学者。
+
+> Charles Colbert, marquis de Croissy [Person]
+    - Original: Charles Colbert                          | Note: [Disambiguation] 法国外交官 (Colbert弟弟)。
+    - Original: Croissy, M. de                           | Note: [Disambiguation] 外交官。
+
+> Charles I of England [Person]
+    - Original: Charles I                                | Note: [Category Fix] 原文误标为 Work。
+    - Original: Charles I of England                     | Note: [Validation] 英国国王。
+
+> Charles II of England [Person]
+    - Original: Charles II                               | Note: [Disambiguation] 查理二世 (需结合语境，通常指英国)。
+    - Original: Charles II of England                    | Note: [Validation] 英国国王。
+
+> Charles Mordaunt, 3rd Earl of Peterborough [Person]
+    - Original: Charles Mordaunt                         | Note: [Disambiguation] 英国将领/贵族。
+    - Original: Peterborough, 3rd Earl of                | Note: nan
+
+> Charles V, Holy Roman Emperor [Person]
+    - Original: Charles V                                | Note: [Disambiguation] 查理五世。
+    - Original: Charles V, Holy Roman Emperor            | Note: [Validation] 神圣罗马帝国皇帝。
+
+> Charles Watson-Wentworth, 2nd Marquess of Rockingham [Person]
+    - Original: Charles Watson-Wentworth                 | Note: [Validation] 英国首相。
+    - Original: Rockingham, Lord                         | Note: nan
+
+> Charles XII of Sweden [Person]
+    - Original: Carl XII                                 | Note: [Disambiguation] 瑞典国王查理十二世。
+    - Original: Charles XII of Sweden                    | Note: [Validation] 瑞典国王。
+
+> Charles de Brosses [Person]
+    - Original: Brosses, Président Charles De            | Note: [Reconstruction] 法国作家 (Lettres familières)。
+    - Original: Charles de Brosses                       | Note: [Validation] 法国作家。
+
+> Christina, Queen of Sweden [Person]
+    - Original: Christina of Sweden                      | Note: [Validation] 瑞典女王。
+    - Original: Christina, Queen of Sweden               | Note: [Validation] 同上。
+
+> Claudio Acquaviva [Person]
+    - Original: Aquaviva, Claudio                        | Note: [Reconstruction] 耶稣会总会长。
+    - Original: Claudio Acquaviva                        | Note: [Validation] 耶稣会总会长。
+
+> Clemens August of Bavaria [Person]
+    - Original: Clemens August of Bavaria                | Note: [Validation] 科隆选帝侯。
+    - Original: Clemens August, Archbishop-Elector of Cologne | Note: [Category Fix] 原文误标为 Work。
+    - Original: Kufürst Clemens August                   | Note: [Category Fix] 原文误标为 Man-Made Object。科隆选帝侯。
+
+> Clement IX [Person]
+    - Original: Clement IX                               | Note: [Validation] 教皇。
+    - Original: Rospigliosi, Giulio (Pope Clement IX)    | Note: 教皇克莱门特九世。
+
+> Clement VIII [Person]
+    - Original: Aldobrandini, Ippolito (Pope Clement VIII) | Note: [Disambiguation] 教皇克莱门特八世。
+    - Original: Clement VIII, Pope                       | Note: [Validation] 教皇。
+
+> Clement X [Person]
+    - Original: Altieri, Emilio (Pope Clement X)         | Note: [Disambiguation] 教皇克莱门特十世。
+    - Original: Pope Clement X                           | Note: nan
+
+> Clement XI [Person]
+    - Original: Albani, Gianfrancesco (Pope Clement XI)  | Note: [Disambiguation] 教皇克莱门特十一世。
+    - Original: Clement XI                               | Note: [Validation] 教皇。
+
+> Clement XII [Person]
+    - Original: Clement XII, Pope                        | Note: [Validation] 教皇。
+    - Original: Corsini, Lorenzo (Pope Clement XII)      | Note: [Disambiguation] 教皇克莱门特十二世。
+
+> Clement XIII [Person]
+    - Original: Clement XIII, Pope                       | Note: [Validation] 教皇。
+    - Original: Rezzonico, Carlo (Pope Clement XIII)     | Note: 教皇克莱门特十三世。
+
+> Congregazione dei Virtuosi al Pantheon [Group]
+    - Original: Congregazione dei Virtuosi               | Note: [Validation] 罗马艺术家行会。
+    - Original: Virtuosi, Congregazione dei              | Note: [Category Fix] 万神殿艺术家协会。
+
+> Cornelis Schut [Person]
+    - Original: Cornelis Schut                           | Note: [Validation] 佛兰芒画家。
+    - Original: Schut, Corneille                         | Note: 佛兰芒画家。
+
+> Cornelis de Wael [Person]
+    - Original: Cornelis de Wael                         | Note: [Validation] 佛兰芒画家 (居热那亚/罗马)。
+    - Original: Wael, Cornelius de                       | Note: 佛兰芒画家。
+
+> Cornelis van Poelenburgh [Person]
+    - Original: Cornelius van Poelenburgh                | Note: [Validation] 荷兰画家。
+    - Original: Poelenburgh, Cornelius                   | Note: 荷兰风景画家。
+
+> Correggio [Person]
+    - Original: Antonio da Correggio                     | Note: [Disambiguation] 柯雷乔。
+    - Original: Correggio                                | Note: [Validation] 画家。
+
+> Cosimo III de' Medici [Person]
+    - Original: Cosimo III de' Mediciy                   | Note: [OCR Fix] "Mediciy" -> "Medici"。
+    - Original: Medici, Cosimo III de'                   | Note: 托斯卡纳大公。
+
+> Daniele Concina [Person]
+    - Original: Concina, Padre Daniele                   | Note: [Validation] 多明我会神学家。
+    - Original: Daniele Concina                          | Note: [Validation] 多明我会神学家。
+
+> Daniele Dolfin IV [Person]
+    - Original: Daniele Dolfin IV                        | Note: [Validation] 威尼斯贵族/大使。
+    - Original: Dolfin, Daniele IV                       | Note: [Validation] 威尼斯贵族。
+
+> Dante Alighieri [Person]
+    - Original: Dante                                    | Note: [Validation] 但丁。
+    - Original: Dante Alighieri                          | Note: [Validation] 但丁。
+
+> David Teniers the Younger [Person]
+    - Original: David Teniers the Younger                | Note: [Validation] 佛兰芒画家。
+    - Original: Teniers, David                           | Note: 佛兰芒画家。
+
+> Decio Azzolino [Person]
+    - Original: Azzolini, Cardinal                       | Note: [Disambiguation] 德西奥·阿佐利诺枢机。
+    - Original: Decio Azzolino                           | Note: [Validation] 枢机主教。
+
+> Diego Velázquez [Person]
+    - Original: Diego Velázquez                          | Note: [Validation] 西班牙画家。
+    - Original: Velasquez                                | Note: 委拉斯开兹。
+
+> Dirk Helmbreker [Person]
+    - Original: Helmbrecker, Theodor                     | Note: [Reconstruction] 佛兰芒画家。
+    - Original: Theodor Helm Breaker                     | Note: [OCR Fix] 名字被错误拆分（Helm Breaker -> Helmbreker），佛兰芒画家。
+
+> Domenichino [Person]
+    - Original: Domenichino (Domenico Zampieri)          | Note: [Validation] 博洛尼亚画家。
+    - Original: Domenico Zampieri                        | Note: [Validation] 多梅尼基诺。
+
+> Domenico Cerato [Person]
+    - Original: Cerato, Abate                            | Note: [Disambiguation] 帕多瓦建筑师 (Abate Cerato)。
+    - Original: Domenico Cerato                          | Note: [Validation] 建筑师。
+
+> Domenico Fetti [Person]
+    - Original: Domenico Fetti                           | Note: [Validation] 画家。
+    - Original: Feti, Domenico                           | Note: [Reconstruction] 画家。
+
+> Domenico Ginnasi [Person]
+    - Original: Domenico Ginnasi                         | Note: [Validation] 枢机主教。
+    - Original: Ginnasi, Cardinal                        | Note: [Disambiguation] 枢机主教。
+
+> Domenico Maria Fratta [Person]
+    - Original: Domenico Maria Fratta                    | Note: [Validation] 博洛尼亚版画家。
+    - Original: Fratta, D. M.                            | Note: [Reconstruction] 博洛尼亚版画家。
+
+> Domenico Passignano [Person]
+    - Original: Domenico Passignano                      | Note: [Validation] 画家。
+    - Original: Passignani, Domenico                     | Note: (Domenico Cresti) 佛罗伦萨画家。
+
+> Ecstasy of Saint Teresa [Work]
+    - Original: Ecstasy of Saint Teresa                  | Note: [Validation] 贝尼尼雕塑。
+    - Original: St Teresa wounded by Christ              | Note: [Category Fix] 圣特蕾莎的狂喜（或相关主题）。
+
+> El Escorial [Place]
+    - Original: El Escorial                              | Note: [Validation] 西班牙修道院/皇宫。
+    - Original: L'Escorial                               | Note: [Validation] 埃斯科里亚尔。
+
+> Eleonora Zambeccari [Person]
+    - Original: Eleonora Zambeccari                      | Note: [Validation] 博洛尼亚贵族。
+    - Original: Zambeccari, Marchesa Eleonora            | Note: [Category Fix] 原文误标为 Man-Made Object。博洛尼亚贵族。
+
+> Ellis Waterhouse [Person]
+    - Original: Ellis Waterhouse                         | Note: [Validation] 艺术史学家。
+    - Original: Waterhouse, E. K.                        | Note: 英国艺术史学家。
+
+> Emily Temple, Viscountess Palmerston [Person]
+    - Original: Emily Temple                             | Note: [Disambiguation] 帕默斯顿夫人。
+    - Original: Palmerston, Lady                         | Note: 19世纪英国贵族。
+
+> Enea Silvio Caprara [Person]
+    - Original: Aeneas de Caprara                        | Note: [Disambiguation] 奥地利陆军元帅 (Enea Silvio Caprara)。
+    - Original: Caprara, Marshal                         | Note: [Disambiguation] 奥地利元帅。
+
+> Ercole Graziani [Person]
+    - Original: Ercole Graziani the Younger              | Note: [Validation] 博洛尼亚画家。
+    - Original: Graziani, Ercole                         | Note: [Validation] 博洛尼亚画家。
+
+> Ercole Procaccini the Elder [Person]
+    - Original: Ercole Procaccini the Elder              | Note: [Validation] 画家。
+    - Original: Procaccini, Ercole                       | Note: 米兰画家（或指 Younger）。
+
+> Et in Arcadia ego [Work]
+    - Original: Et in Arcadia ego                        | Note: [Validation] 普桑/Guercino画作标题。
+    - Original: The Arcadian Shepherds (after...)        | Note: [Category Fix] 普桑画作的临摹/版画。
+
+> Everhard Jabach [Person]
+    - Original: Everhard Jabach                          | Note: [Validation] 收藏家 (路易十四赞助)。
+    - Original: Jabach, Everard                          | Note: [Validation] 收藏家。
+
+> Federico Bencovich [Person]
+    - Original: Bencovich, Federico                      | Note: [Reconstruction] 达尔马提亚/威尼斯画家。
+    - Original: Federiko Benkovi?                        | Note: [OCR Fix] "Federiko Benkovi?" -> "Federico Bencovich" (Dalmatian painter)。
+
+> Federico Zuccari [Person]
+    - Original: Federico Zuccari                         | Note: [Validation] 风格主义画家/理论家。
+    - Original: Zuccari, Federigo                        | Note: 风格主义画家。
+
+> Federico da Montefeltro [Person]
+    - Original: Federico da Montefeltre                  | Note: [OCR Fix] "Montefeltre" -> "Montefeltro"。乌尔比诺公爵。
+    - Original: Montefeltre, Federigo da                 | Note: 乌尔比诺公爵。
+
+> Felice Boscarati [Person]
+    - Original: Boscarati, Felice                        | Note: [Reconstruction] 维罗纳画家。
+    - Original: Felice Boscaratti                        | Note: [Validation] 维罗纳画家。
+
+> Ferdinand van den Eynde [Person]
+    - Original: Ferdinand van den Eynde                  | Note: [Validation] 佛兰芒/罗马收藏家 (Duquesnoy墓碑)。
+    - Original: den Einden, Ferdinand van                | Note: 佛罗伦萨/那不勒斯收藏家。
+
+> Ferdinando Galiani [Person]
+    - Original: Ferdinando Galiani                       | Note: [Validation] 经济学家/作家 (Abbé Galiani)。
+    - Original: Galiani, Abate                           | Note: [Reconstruction] 经济学家。
+
+> Ferdinando d'Adda [Person]
+    - Original: Adda, Cardinal d'                        | Note: [Disambiguation] 费迪南多·达达枢机主教。
+    - Original: Ferdinando d'Adda                        | Note: [Validation] 枢机主教。
+
+> Ferdinando de' Medici (Grand Prince) [Person]
+    - Original: Ferdinando de' Medici                    | Note: [Disambiguation] 可能是 Ferdinando I, II 或 Great Prince Ferdinando (Grand Tour/Art Patron)。在艺术语境中常指 Grand Prince Ferdinando (1663–1713)。
+    - Original: Grand Prince Ferdinando of Tuscany       | Note: [Validation] 美第奇家族大亲王 (Ferdinando III 的孙子，Cosimo III 之子)。
+
+> Filippo Corsini [Person]
+    - Original: Corsini, Marchese Filippo                | Note: [Category Fix] 原文误标为 Work。
+    - Original: Filippo Corsini                          | Note: [Validation] 建筑师/贵族。
+
+> Filippo Napoletano [Person]
+    - Original: Angeli, Filippo d' (Napoletano)          | Note: [Disambiguation] 菲利波·那波列塔诺。
+    - Original: Filippo Napoletano                       | Note: [Validation] 风景画家。
+
+> Flight into Egypt [Work]
+    - Original: Escape from Egypt                        | Note: [Validation] 绘画主题。
+    - Original: Flight into Egypt                        | Note: [Validation] 绘画主题。
+
+> Fra Bartolomeo [Person]
+    - Original: Bartolommeo, Fra                         | Note: [Reconstruction] 佛罗伦萨画家。
+    - Original: Fra Bartolomeo                           | Note: [Validation] 画家。
+
+> Francesco Adriano Ceva [Person]
+    - Original: Ceva, Cardinal                           | Note: [Disambiguation] 枢机主教。
+    - Original: Francesco Adriano Ceva                   | Note: [Validation] 枢机主教。
+
+> Francesco Albergati Capacelli [Person]
+    - Original: Albergati-Capacelli, Francesco           | Note: [Category Fix] 原文误标为 Place (E53)。剧作家/侯爵。
+    - Original: Francesco Albergati Capacelli            | Note: [Validation] 剧作家。
+
+> Francesco Angelo Rapaccioli [Person]
+    - Original: Francesco Angelo Rapaccioli              | Note: [Validation] 枢机主教。
+    - Original: Rapaccioli, Cardinal                     | Note: 枢机主教，艺术赞助人。
+
+> Francesco Baratta [Person]
+    - Original: Baratta, Francesco                       | Note: [Category Fix] 原文误标为 Place。雕塑家。
+    - Original: Francesco Baratta the Elder              | Note: [Validation] 雕塑家。
+
+> Francesco Barberini (1597–1679) [Person]
+    - Original: Barberini, Cardinal Francesco (nephew to Urban VIII) | Note: [Category Fix] 原文误标为 Place。
+    - Original: Francesco Barberini                      | Note: [Validation] 枢机主教。
+
+> Francesco Bassi (Il Cremonese) [Person]
+    - Original: Bassi, Francesco (il Cremonese)          | Note: [Category Fix] 原文误标为 Place。风景画家。
+    - Original: Francesco Bassi                          | Note: [Validation] 画家。
+
+> Francesco Maria I della Rovere [Person]
+    - Original: Francesco Maria I della Rovere           | Note: [Validation] 乌尔比诺公爵。
+    - Original: Urbino, Francesco Maria della Rovere...  | Note: 乌尔比诺公爵。
+
+> Francesco Maria Niccolò Gabburri [Person]
+    - Original: Francesco Maria Niccolò Gabburri         | Note: [Validation] 佛罗伦萨收藏家/传记作家。
+    - Original: Gabburri, Francesco                      | Note: [Category Fix] 原文误标为 Place。
+
+> Francesco Maria Richini [Person]
+    - Original: Francesco Maria Richini                  | Note: [Validation] 米兰巴洛克建筑师。
+    - Original: Ricchini, Francesco Maria                | Note: [Category Fix] 原文误标为 Place。米兰巴洛克建筑师。
+
+> Francesco Maria Zanotti [Person]
+    - Original: Francesco Maria Zanotti                  | Note: [Validation] 博洛尼亚哲学家/作家。
+    - Original: Zanotti, F. M.                           | Note: 博洛尼亚哲学家/作家。
+
+> Francesco Maria del Monte [Person]
+    - Original: Francesco Maria del Monte                | Note: [Validation] 枢机主教 (Caravaggio赞助人)。
+    - Original: Monte, Cardinal Francesco del            | Note: [Category Fix] 原文误标为 Place。著名的卡拉瓦乔赞助人。
+
+> Francesco Panciatichi [Person]
+    - Original: Francesco Panciatichi                    | Note: [Validation] 佛罗伦萨政治家/国务秘书。
+    - Original: Panciatichi, Senator Francesco           | Note: [Category Fix] 原文误标为 Place。佛罗伦萨参议员。
+
+> Francis I of France [Person]
+    - Original: Francis I of France                      | Note: [Validation] 法国国王。
+    - Original: François I of France                     | Note: [Category Fix] 原文误标为 Place。
+
+> Francis Watson [Person]
+    - Original: Francis Watson                           | Note: [Validation] 艺术史学家 (Wallace Collection)。
+    - Original: Watson, F. J. B.                         | Note: 华莱士收藏馆馆长。
+
+> Franco Venturi [Person]
+    - Original: Franco Venturi                           | Note: [Validation] 历史学家 (Settecento riformatore)。
+    - Original: Venturi, Professor Franco                | Note: 著名的现代历史学家（启蒙运动研究）。
+
+> Frans Pourbus the Younger [Person]
+    - Original: Frans Pourbus the Younger                | Note: [Validation] 佛兰芒肖像画家。
+    - Original: Pourbus, Franz, the Younger              | Note: 佛兰芒肖像画家。
+
+> Frans van Mieris the Elder [Person]
+    - Original: Frans van Mieris the Elder               | Note: [Validation] 荷兰画家。
+    - Original: Mieris, Frans van                        | Note: 荷兰黄金时代画家。
+
+> François Boucher [Person]
+    - Original: Boucher, François                        | Note: [Reconstruction] 法国洛可可画家。
+    - Original: Fran?ois Boucher                         | Note: [OCR Fix] "?" -> "ç"。
+
+> François Duquesnoy [Person]
+    - Original: Duquesnoy, François                      | Note: [Validation] 佛兰芒雕塑家。
+    - Original: Fran?ois Duquesnoy                       | Note: [OCR Fix] "?" -> "ç"。
+
+> François Girardon [Person]
+    - Original: Fran?ois Girardon                        | Note: [OCR Fix] "?" -> "ç"。
+    - Original: Girardon, François                       | Note: [Reconstruction] 法国雕塑家。
+
+> François Mansart [Person]
+    - Original: Fran?ois Mansart                         | Note: [OCR Fix] "?" -> "ç"。
+    - Original: Mansart, François                        | Note: [Validation] 法国建筑师。
+
+> François-Joachim de Pierre de Bernis [Person]
+    - Original: Bermis, Cardinal de                      | Note: [OCR Fix] "Bermis" -> "Bernis"。法国枢机/外交官。
+    - Original: Fran?ois-Joachim de Pierre de Bernis     | Note: [OCR Fix] "?" -> "ç"。
+
+> Frederick III (Holy Roman Emperor) [Person]
+    - Original: Frederick III                            | Note: [Disambiguation] 神圣罗马帝国皇帝。
+    - Original: Frederick III (Holy Roman Emperor)       | Note: [Validation] 同上。
+
+> Frederick the Great [Person]
+    - Original: Frederick II of Prussia                  | Note: [Validation] 普鲁士国王。
+    - Original: Frederick the Great                      | Note: [Validation] 普鲁士国王。
+
+> Gabriel Grupello [Person]
+    - Original: Gabri?l Grupello                         | Note: [OCR Fix] "?" -> "ë"。佛兰芒雕塑家。
+    - Original: Gruppello, Gabriel                       | Note: [Validation] 佛兰芒雕塑家。
+
+> Galeazzo Arconati [Person]
+    - Original: Arconato, Galeazzo                       | Note: [Reconstruction] 米兰收藏家 (达芬奇手稿)。
+    - Original: Galeazzo Arconati                        | Note: [Validation] 米兰收藏家。
+
+> Gaspar Méndez de Haro (Marquis of Carpio) [Person]
+    - Original: Gaspar Méndez de Haro                    | Note: [Validation] 西班牙收藏家。
+    - Original: Guzman, Gasparo de Haro y                | Note: [Reconstruction] 西班牙收藏家。
+
+> Gaspard Dughet [Person]
+    - Original: Dughet, Gaspard (Gaspard Poussin)        | Note: [Validation] 风景画家。
+    - Original: Gaspard Dughet                           | Note: [Validation] 画家。
+    - Original: Poussin, Gaspard                         | Note: 别名 Gaspard Poussin，风景画家。
+
+> George Frideric Handel [Person]
+    - Original: George Frideric Handel                   | Note: [Validation] 作曲家。
+    - Original: Handel, George Frederick                 | Note: [Validation] 作曲家。
+
+> George I of Great Britain [Person]
+    - Original: George I of Great Britain                | Note: [Validation] 英国国王。
+    - Original: George I, King of England                | Note: [Validation] 同上。
+    - Original: King George I                            | Note: [Category Fix] 原文误标为 Man-Made Object。
+
+> George III of Great Britain [Person]
+    - Original: George III of Great Britain              | Note: [Validation] 英国国王。
+    - Original: George III, King of England              | Note: [Validation] 同上。
+
+> Giacomo Boni [Person]
+    - Original: Boni, Giacomo Antonio                    | Note: [Disambiguation] 博洛尼亚画家。
+    - Original: Giacomo Boni                             | Note: [Validation] 威尼斯画家 (18世纪) 或考古学家 (19世纪)。结合上下文 (Giacomo/18th cent)，应为画家 Giacomo Boni (1688–1766)。
+
+> Giacomo Casanova [Person]
+    - Original: Casanova de Seingalt, Jacques            | Note: [Disambiguation] 贾科莫·卡萨诺瓦。
+    - Original: Giacomo Casanova                         | Note: [Validation] 冒险家/作家。
+
+> Giacomo Di Castro [Person]
+    - Original: Castro, Jacomo di                        | Note: [Disambiguation] 索伦托/那不勒斯画家。
+    - Original: Giacomo di Castro                        | Note: [Validation] 索伦托画家。
+
+> Giacomo Serra [Person]
+    - Original: Giacomo Serra                            | Note: [Validation] 枢机主教 (Rubens赞助人)。
+    - Original: Serra, Mgr Giacomo                       | Note: 红衣主教（卡拉瓦乔赞助人，Rubens 也有接触）。
+
+> Giacomo del Po [Person]
+    - Original: Giacomo del Pò                           | Note: [Validation] 那不勒斯画家。
+    - Original: Po, Giacomo del                          | Note: 那不勒斯画家。
+
+> Giambattista Biffi [Person]
+    - Original: Biffi, Giambattista                      | Note: [Reconstruction] 18世纪克雷莫纳作家。
+    - Original: Giovanni Battista Biffi                  | Note: [Validation] 克雷莫纳作家。
+
+> Giammaria Ortes [Person]
+    - Original: Giammaria Ortes                          | Note: [Validation] 威尼斯经济学家/修道士。
+    - Original: Ortes, Abate Giuseppe Maria              | Note: 威尼斯哲学家/经济学家。
+
+> Gian Domenico Ferretti [Person]
+    - Original: Ferretti, Gian Domenico                  | Note: [Reconstruction] 佛罗伦萨洛可可画家。
+    - Original: Giovanni Domenico Ferretti               | Note: [Validation] 佛罗伦萨画家。
+
+> Gian Paolo Cavagna [Person]
+    - Original: Cavagna, Giampaolo                       | Note: [Validation] 贝加莫画家。
+    - Original: Giovanni Paolo Cavagna                   | Note: [Validation] 贝加莫画家。
+
+> Gian Vittorio Rossi (Janus Nicius Erythraeus) [Person]
+    - Original: Gian Vittorio Rossi                      | Note: [Validation] 诗人/学者。
+    - Original: Jan Niceo Eritreo                        | Note: [Disambiguation] 意大利作家/学者。
+
+> Gianantonio Guardi [Person]
+    - Original: Giovanni Antonio Guardi                  | Note: [Standardization] 瓜尔迪兄弟长兄 (Giovanni Antonio)。
+    - Original: Guardi, Gian Antonio                     | Note: [Validation] 威尼斯画家。
+
+> Giannantonio Moschini [Person]
+    - Original: Giannantonio Moschini                    | Note: [Validation] 威尼斯艺术导览作者/神职人员。
+    - Original: Moschini, Abate G. A.                    | Note: 19世纪威尼斯艺术导览作家。
+
+> Giorgione [Person]
+    - Original: Giorgione                                | Note: [Validation] 画家。
+    - Original: Zorzone                                  | Note: [Disambiguation] 威尼斯方言称呼，或指 Giorgione。
+
+> Giovan Battista Cimaroli [Person]
+    - Original: Cimaroli, Giovan Battista                | Note: [Reconstruction] 威尼斯风景画家。
+    - Original: Giovanni Battista Cimaroli               | Note: [Validation] 威尼斯风景画家。
+
+> Giovan Battista Langetti [Person]
+    - Original: Giovan Battista Langetti                 | Note: [Validation] 画家 (Tenebrist)。
+    - Original: Langetti, Giovanni Battista              | Note: [Validation] 画家。
+
+> Giovanni Angelo Montorsoli [Person]
+    - Original: Giovanni Angelo Montorsoli               | Note: [Validation] 雕塑家 (Servite)。
+    - Original: Montorsoli, Giovanni                     | Note: 米开朗基罗的学生，雕塑家。
+
+> Giovanni Antonio Fumiani [Person]
+    - Original: Fumiani, Giannantonio                    | Note: [Reconstruction] 威尼斯画家。
+    - Original: Giovanni Antonio Fumiani                 | Note: [Validation] 威尼斯画家 (San Pantalon天顶)。
+
+> Giovanni Battista Foggini [Person]
+    - Original: Foggini, Giovan Battista                 | Note: [Reconstruction] 佛罗伦萨雕塑家/建筑师。
+    - Original: Giovanni Battista Foggini                | Note: [Validation] 佛罗伦萨雕塑家。
+
+> Giovanni Battista Gaulli (Baciccio) [Person]
+    - Original: Gaulli, Giovanni Battista (Baciccio)     | Note: [Validation] 画家。
+    - Original: Giovanni Battista Gaulli                 | Note: [Validation] 画家。
+
+> Giovanni Battista Passeri [Person]
+    - Original: Giovanni Battista Passeri                | Note: [Validation] 传记作家/古物学家 (Lives of Painters / Etruscan studies)。
+    - Original: Passeri, Giambattista                    | Note: 传记作家（《Vite》作者）。
+
+> Giovanni Battista Tiepolo [Person]
+    - Original: Giovanni Battista Tiepolo                | Note: [Validation] 提埃坡罗。
+    - Original: Tiepolo, Giambattista                    | Note: 提埃坡罗。
+
+> Giovanni Benedetto Castiglione [Person]
+    - Original: Benedetto Castiglione                    | Note: [Disambiguation] 乔瓦尼·贝内代托·卡斯蒂廖内 (Il Grechetto)。
+    - Original: Castiglione, Giovanni Benedetto          | Note: [Validation] 画家。
+
+> Giovanni Camillo Sagrestani [Person]
+    - Original: Giovanni Camillo Sagrestani              | Note: [Validation] 佛罗伦萨画家。
+    - Original: Sagrestani, Giovan Camillo               | Note: 佛罗伦萨晚期巴洛克画家。
+
+> Giovanni Domenico Ottonelli [Person]
+    - Original: Giovanni Domenico Ottonelli              | Note: [Validation] 耶稣会作家 (艺术道德论)。
+    - Original: Ottonelli, Padre                         | Note: 耶稣会士，著有《Trattato della pittura》。
+
+> Giovanni Domenico Piastrini [Person]
+    - Original: Giovanni Domenico Piastrini              | Note: [Validation] 佛罗伦萨画家。
+    - Original: Piastrini, G. D.                         | Note: 18世纪佛罗伦萨画家。
+
+> Giovanni Domenico Tiepolo [Person]
+    - Original: Giovanni Domenico Tiepolo                | Note: [Validation] 提埃坡罗之子。
+    - Original: Tiepolo, Gian Domenico                   | Note: 提埃坡罗之子。
+
+> Giovanni Francesco Negroni [Person]
+    - Original: Giovanni Francesco Negroni               | Note: [Validation] 枢机主教。
+    - Original: Negroni, Cardinal Giovan Francesco       | Note: [Category Fix] 原文误标为 Place。红衣主教。
+
+> Giovanni Francesco Romanelli [Person]
+    - Original: Giovanni Francesco Romanelli             | Note: [Validation] 画家 (Cortona学生)。
+    - Original: Romanelli, Giovan Francesco              | Note: [Category Fix] 原文误标为 Place。罗马巴洛克画家。
+
+> Giovanni Gaetano Bottari [Person]
+    - Original: Bottari, Giovanni                        | Note: [Disambiguation] 罗马学者/图书管理员。
+    - Original: Giovanni Gaetano Bottari                 | Note: [Validation] 罗马学者/梵蒂冈图书馆员。
+
+> Giovanni Gasparo Baldoini [Person]
+    - Original: Baldoini, Giovanni Gasparo               | Note: [Reconstruction] 名字倒装复原。
+    - Original: Gio. Gasparo Baldoini                    | Note: [Full Name] 建筑师/工程师。
+
+> Giovanni Gioseffo dal Sole [Person]
+    - Original: Giovanni Gioseffo dal Sole               | Note: [Validation] 博洛尼亚画家。
+    - Original: Sole, Giovan Gioseffo dal                | Note: 博洛尼亚画家。
+
+> Giovanni Incisa della Rocchetta [Person]
+    - Original: Giovanni Incisa della Rocchetta          | Note: [Validation] 艺术史学家/收藏家 (Chigi日记编辑)。
+    - Original: Incisa Della Rocchetta                   | Note: [Reconstruction] 学者。
+
+> Giovanni Ludovico Bianconi [Person]
+    - Original: Bianconi, G. L.                          | Note: [Disambiguation] 18世纪医生/艺术作家。
+    - Original: Giovanni Ludovico Bianconi               | Note: [Validation] 医生/艺术作家。
+
+> Giovanni Marchiori [Person]
+    - Original: Giovanni Marchiori                       | Note: [Validation] 威尼斯雕塑家。
+    - Original: Marchiori, Giovanni                      | Note: [Category Fix] 原文误标为 Man-Made Object。威尼斯雕塑家。
+
+> Giovanni Marco Pitteri [Person]
+    - Original: Antonio Pitteri                          | Note: [OCR Fix] "Antonio" 可能是 "Marco" 的误植，或指 Antonio Pitteri (较不知名)。倾向于 Marco Pitteri (威尼斯版画家)。
+    - Original: Giovanni Marco Pitteri                   | Note: [Validation] 威尼斯版画家。
+
+> Giovanni Maria Sasso [Person]
+    - Original: G.M. Sasso                               | Note: [Disambiguation] 威尼斯画商/修复师。
+    - Original: Giovanni Maria Sasso                     | Note: [Validation] 威尼斯画商。
+    - Original: Giuseppe Maria Sasso                     | Note: [Correction] 威尼斯画商 Sasso 通常名为 Giovanni Maria。可能是误记。
+
+> Giovanni Paolo Panini [Person]
+    - Original: Giovanni Paolo Panini                    | Note: [Validation] 维杜塔画家。
+    - Original: Pannini, Giovanni Paolo                  | Note: 罗马Veduta画家。
+
+> Giovanni Pietro Bellori [Person]
+    - Original: Bellori, Gian Pietro                     | Note: [Reconstruction] 艺术理论家。
+    - Original: Giovanni Pietro Bellori                  | Note: [Validation] 著名艺术理论家/传记作家。
+
+> Giovanni Pietro Olina [Person]
+    - Original: Giovanni Pietro Olina                    | Note: [Validation] 鸟类学家/作家 (Cassiano dal Pozzo圈子)。
+    - Original: Olina, P.                                | Note: 《Uccelliera》作者，卡西阿诺·达尔·波佐圈子成员。
+
+> Giovanni Poleni [Person]
+    - Original: Giovanni Poleni                          | Note: [Validation] 帕多瓦数学家/物理学家。
+    - Original: Poleni, Marchese Giovanni                | Note: [Category Fix] 原文误标为 Man-Made Object。科学家/侯爵。
+
+> Giovanni Vianello [Person]
+    - Original: Giovanni Vianello                        | Note: [Validation] 威尼斯画家 (19世纪)。
+    - Original: Vianello, Dr Giovanni                    | Note: 艺术史学家/收藏家。
+
+> Girolamo Durazzo [Person]
+    - Original: Durazzo, Marchese Girolamo               | Note: [Category Fix] 原文误标为 Work。热那亚总督/贵族。
+    - Original: Marchese Girolamo Durazzo                | Note: 热那亚贵族、总督及艺术收藏家。
+
+> Girolamo Frescobaldi [Person]
+    - Original: Frescobaldi, Gerolamo                    | Note: [Reconstruction] 作曲家。
+    - Original: Girolamo Frescobaldi                     | Note: [Validation] 巴洛克作曲家。
+
+> Giuseppe Cesari (Cavaliere d'Arpino) [Person]
+    - Original: Arpino, Cavaliere d'                     | Note: [Disambiguation] 朱塞佩·切萨里。
+    - Original: Giuseppe Cesari                          | Note: [Validation] 罗马画家。
+
+> Giuseppe Toninotto [Person]
+    - Original: Giuseppe Toninotto                       | Note: [Validation] 18世纪威尼斯出版商?。
+    - Original: Toninotto, Padre Giuseppe                | Note: nan
+
+> Giuseppe Valeriano [Person]
+    - Original: Giuseppe Valeriano                       | Note: [Validation] 耶稣会建筑师/画家。
+    - Original: Valeriano, Padre                         | Note: 耶稣会画家/建筑师。
+
+> Giustiniana Wynne [Person]
+    - Original: Giustiniana Wynne Rosenberg-Orsini       | Note: [Validation] 威尼斯女作家。
+    - Original: Wynne, Giustiniana (Mme Rosenberg)       | Note: 威尼斯女作家（Countess Rosenberg）。
+
+> Gregory XIII [Person]
+    - Original: Boncampagni, Ugo (Pope Gregory XIII)     | Note: [Disambiguation] 教皇格里高利十三世。
+    - Original: Gregory XIII                             | Note: [Validation] 教皇格里高利十三世。
+
+> Gregory XV [Person]
+    - Original: Alessandro Ludovisi                      | Note: [Disambiguation] 亚历山德罗·卢多维西 (教皇格里高利十五世)。
+    - Original: Gregory XV                               | Note: [Validation] 教皇格里高利十五世。
+    - Original: Ludovisi, Alessandro (Pope Gregory XV)   | Note: [Disambiguation] 教皇格里高利十五世。
+
+> Grey Brydges, 5th Baron Chandos [Person]
+    - Original: Brydges, Grey                            | Note: [Disambiguation] "King of the Cotswolds"。
+    - Original: Chandos, Grey Brydges, 5th Lord          | Note: [Validation] 贵族。
+    - Original: Grey Brydges, 5th Baron Chandos          | Note: [Validation] 英国贵族。
+
+> Guercino [Person]
+    - Original: Giovanni Francesco Barbieri              | Note: [Disambiguation] 顾尔奇诺。
+    - Original: Guercino (Francesco Barbieri)            | Note: [Category Fix] 原文误标为 Place。
+
+> Guido Bentivoglio [Person]
+    - Original: Cardinal Bentivoglio                     | Note: [Category Fix] 原文误标为 Work。通常指 Guido Bentivoglio 枢机 (凡戴克肖像)。
+    - Original: Guido Bentivoglio                        | Note: [Validation] 枢机主教。
+
+> Guillaume Courtois (Il Borgognone) [Person]
+    - Original: Borgognone, Guglielmo (Guillaume Courtois) | Note: [Disambiguation] 纪尧姆·库尔图瓦。
+    - Original: Guillaume Courtois                       | Note: [Validation] 画家。
+
+> Gustavus Adolphus [Person]
+    - Original: Gustavus Adolphus                        | Note: [Validation] 瑞典国王。
+    - Original: Gustavus Adolphus of Sweden              | Note: [Validation] 同上。
+
+> Heinrich von Brühl [Person]
+    - Original: Brühl, Count                             | Note: [Disambiguation] 萨克森首相/收藏家。
+    - Original: Heinrich von Brühl                       | Note: [Validation] 萨克森首相/收藏家。
+
+> Henriette Adelaide of Savoy [Person]
+    - Original: Henriette Adelaide of Savoy              | Note: [Validation] 巴伐利亚选帝侯夫人。
+    - Original: Princess Henriette Adelaide of Savoy     | Note: 巴伐利亚选帝侯夫人。
+    - Original: Savoy, Adelaide Enrichetta of            | Note: 巴伐利亚选帝侯夫人。
+
+> Henry Bennet, 1st Earl of Arlington [Person]
+    - Original: Arlington, Lord                          | Note: [Disambiguation] 阿灵顿伯爵。
+    - Original: Henry Bennet                             | Note: [Validation] 英国政治家。
+
+> Henry Bentinck, 1st Duke of Portland [Person]
+    - Original: Henry Bentinck                           | Note: [Disambiguation] 波特兰公爵。
+    - Original: Portland, Henry, first Duke of           | Note: nan
+
+> Henry III of France [Person]
+    - Original: Henri III                                | Note: [Validation] 法国国王。
+    - Original: Henri III of France                      | Note: [Category Fix] 原文误标为 Place。
+
+> Herman van Swanevelt [Person]
+    - Original: Herman van Swanevelt                     | Note: [Validation] 荷兰画家。
+    - Original: Swanevelt, Hermann                       | Note: 荷兰风景画家。
+
+> Innocent X [Person]
+    - Original: Giovanni Battista Pamphilj               | Note: [Disambiguation] 教皇英诺森十世。
+    - Original: Innocent X, Pope                         | Note: [Validation] 教皇。
+    - Original: Pamfili, Gianbattista (Pope Innocent X)  | Note: 教皇英诺森十世。
+
+> Innocent XI [Person]
+    - Original: Odescalchi, Benedetto (Pope Innocent XI) | Note: 教皇英诺森十一世（Odescalchi家族）。
+    - Original: Pope Innocent XI                         | Note: nan
+
+> Innocent XII [Person]
+    - Original: Innocent XII, Pope                       | Note: [Validation] 教皇。
+    - Original: Pignatelli, Antonio (Pope Innocent XII)  | Note: 教皇英诺森十二世。
+
+> Innocent XIII [Person]
+    - Original: Conti, Michaelangelo (Pope Innocent XIII) | Note: [Disambiguation] 教皇英诺森十三世。
+    - Original: Innocent XIII                            | Note: [Validation] 教皇。
+
+> Inquisitori di Stato [Organization]
+    - Original: Venice-Inquisitori di Stato              | Note: [Category Fix] 威尼斯国家裁判官。
+    - Original: Venice-Inquisiwri                        | Note: [OCR Fix] "Inquisiwri" -> "Inquisitori"。
+
+> Ippolito Bentivoglio [Person]
+    - Original: Bentivoglio, Ippotilo                    | Note: [OCR Fix] 修正 "Ippotilo" 为 "Ippolito"。
+    - Original: Ippolito Bentivoglio                     | Note: [Validation] 费拉拉贵族/剧作家。
+
+> Isabella de' Medici [Person]
+    - Original: Isabella de' Medici                      | Note: [Validation] 美第奇家族成员。
+    - Original: Medici, Isabella de' (Duchess of Bracciano) | Note: nan
+
+> Jacopo Facciolati [Person]
+    - Original: Facciolati, Abate                        | Note: [Reconstruction] 帕多瓦学者/语言学家。
+    - Original: Jacopo Facciolati                        | Note: [Validation] 帕多瓦语文学家。
+
+> Jacopo Guarana [Person]
+    - Original: Guarana, Giacomo                         | Note: [Validation] 威尼斯画家。
+    - Original: Jacopo Guarana                           | Note: [Validation] 威尼斯画家。
+
+> Jacopo Morelli [Person]
+    - Original: Iacopo Morelli                           | Note: [Validation] 圣马可图书馆馆长。
+    - Original: Morelli, Jacopo                          | Note: 著名的圣马可图书馆馆长。
+
+> Jacopo Pedozzi [Person]
+    - Original: Jacopo Pedozzi                           | Note: [Validation] 灰泥艺术家 (18世纪)。
+    - Original: Pedozzi, Padre Jacopo                    | Note: nan
+
+> Jacques Courtois (Il Borgognone) [Person]
+    - Original: Borgognone, Giacomo (Jacques Courtois)   | Note: [Disambiguation] 雅克·库尔图瓦 (战斗画家)。
+    - Original: Jacques Courtois                         | Note: [Validation] 画家。
+
+> Jacques Duyvelant [Person]
+    - Original: Duyvelant, Jacques                       | Note: [Validation] 17世纪佛兰芒画家 (Antwerp)。
+    - Original: Jacques Duyvdant                         | Note: [Reconstruction] 佛兰芒画家。
+
+> Jacques and Guillaume Courtois [Group]
+    - Original: Cortese, Giacomo and Guglielmo           | Note: [Split Required] 兄弟画家 (Il Borgognone)。
+    - Original: Courtois, Jacques and Guillaume          | Note: [Validation] 兄弟画家。
+
+> Jacques-Bénigne Bossuet [Person]
+    - Original: Bossuet, Jacques-Bénigne                 | Note: [Reconstruction] 法国主教/布道家。
+    - Original: Jacques Bénigne Bossuet                  | Note: [Validation] 主教/作家。
+
+> Jakob Christoph Le Blon [Person]
+    - Original: Jacob Christoph Le Blon                  | Note: [Validation] 版画家 (彩色版画发明者)。
+    - Original: LeBlon, Jakob Christoffel                | Note: [Validation] 德国/法国版画家。
+
+> James Brydges, 1st Duke of Chandos [Person]
+    - Original: Chandos, James Brydges, 1st Duke of      | Note: [Validation] 贵族/赞助人。
+    - Original: James Brydges                            | Note: [Validation] 贵族/赞助人。
+
+> James Byam Shaw [Person]
+    - Original: James Byam Shaw                          | Note: [Validation] 艺术史学家 (Venetian drawings)。
+    - Original: John Byam Lister Shaw                    | Note: [Correction] 可能是混淆了 John Byam Shaw (画家) 和 James Byam Shaw (艺术史学家)。上下文多为艺术史，James Byam Shaw 是威尼斯画派素描专家。
+
+> James Francis Edward Stuart [Person]
+    - Original: James Francis Edward Stuart, Prince of Wales | Note: [Validation] 老僭王。
+    - Original: James III of England                     | Note: [Disambiguation] 老僭王 (自称詹姆斯三世)。
+
+> Jan Baptist de Wael [Person]
+    - Original: Jan Baptist de Wael                      | Note: [Validation] 佛兰芒画家/版画家。
+    - Original: Wael, Jean-Baptiste de                   | Note: 佛兰芒画家。
+
+> Jan van den Eynde [Person]
+    - Original: Jan van den Eynde                        | Note: [Validation] 那不勒斯佛兰芒商人/收藏家 (Ferdinand van den Eynde的兄弟/亲戚)。
+    - Original: Vandeneynde, Jan                         | Note: 佛兰芒建筑师/商人，活跃于那不勒斯。
+    - Original: den Einden, Jan van                      | Note: 佛罗伦萨/那不勒斯富商/收藏家。
+
+> Jean-Antoine Nollet [Person]
+    - Original: Jean-Antoine Nollet                      | Note: [Validation] 物理学家 (Abbé Nollet)。
+    - Original: Nollet, Abb谷                             | Note: [OCR Fix] "Abb谷" -> "Abbé"。物理学家。
+
+> Jean-Antoine Watteau [Person]
+    - Original: Jean Antoine Watteau                     | Note: [Validation] 法国画家。
+    - Original: Watteau, Antoine                         | Note: 华托。
+
+> Jean-Baptiste Théodon [Person]
+    - Original: Jean-Baptiste Théodon                    | Note: [Validation] 法国雕塑家。
+    - Original: Th谷odon, Jean Baptiste                   | Note: [OCR Fix] "Th谷odon" -> "Théodon"。法国雕塑家。
+
+> Jean-Baptiste-Siméon Chardin [Person]
+    - Original: Chardin, Jean Baptiste Siméon            | Note: [Validation] 法国画家。
+    - Original: Jean-Baptiste-Siméon Chardin             | Note: [Validation] 法国画家。
+
+> Jean-François Millet [Person]
+    - Original: Jean-Fran?ois Millet                     | Note: [OCR Fix] "?" -> "ç"。
+    - Original: Millet, Jean-Fran?ois                    | Note: [OCR Fix] 乱码修复 "?ois" -> "çois"。
+
+> Jean-François de La Harpe [Person]
+    - Original: Jean-Fran?ois de La Harpe                | Note: [OCR Fix] "?" -> "ç"。
+    - Original: La Harpe                                 | Note: [Disambiguation] 评论家。
+
+> Jean-Honoré Fragonard [Person]
+    - Original: Fragonard, Jean Honoré                   | Note: [Reconstruction] 法国画家。
+    - Original: Jean-Honoré Fragonard                    | Note: [Validation] 法国画家。
+
+> Jennifer Montagu [Person]
+    - Original: Jennifer Ellis Rachel Montagu            | Note: [Validation] 艺术史学家。
+    - Original: Montagu, Jennifer                        | Note: 现代著名艺术史学家（巴洛克雕塑权威）。
+
+> Jerome Bankes [Person]
+    - Original: Jerome Bankes                            | Note: [Validation] 英国旅行者/赞助人。
+    - Original: Jerome Bankes (1635/36-1686)             | Note: [Category Fix] 原文误标为 Man-Made Object。
+
+> Jerónimo Nadal [Person]
+    - Original: Jeroni Nadal                             | Note: [Validation] 耶稣会士 (Nadal's Gospel Illustrations)。
+    - Original: Nadal, Jerome                            | Note: (Jerome Nadal) 耶稣会神学家，反宗教改革图像学重要人物。
+
+> Johann Bernhard Fischer von Erlach [Person]
+    - Original: Erlach, Fischer von                      | Note: [Reconstruction] 奥地利巴洛克建筑师。
+    - Original: Johann Bernhard Fischer von Erlach       | Note: [Validation] 奥地利建筑师。
+
+> Johann Christian Brand [Person]
+    - Original: Brand, Johannes Christian                | Note: [Disambiguation] 奥地利风景画家。
+    - Original: Johann Christian Brand                   | Note: [Validation] 奥地利画家。
+
+> Johann Christoph Pepusch [Person]
+    - Original: Johann Christoph Pepusch                 | Note: [Validation] 作曲家。
+    - Original: Pepusch, Dr                              | Note: 德国作曲家，活跃于伦敦。
+
+> Johann Christoph Storer [Person]
+    - Original: Johann Christoph Storer                  | Note: [Validation] 画家。
+    - Original: Storer, Cristoforo                       | Note: (Cristoforo Storer) 康斯坦茨出生的画家，活跃于米兰。
+
+> Johann Joachim Winckelmann [Person]
+    - Original: Johann Joachim Winckelmann               | Note: [Validation] 艺术史之父。
+    - Original: Winckelmann, J. J.                       | Note: 温克尔曼。
+
+> Johann Matthias von der Schulenburg [Person]
+    - Original: Johann Matthias von der Schulenburg      | Note: [Validation] 陆军元帅/威尼斯收藏家。
+    - Original: Marshal Schulenburg                      | Note: [Category Fix] 威尼斯共和国元帅，重要的艺术收藏家。
+    - Original: Schulenburg, Marshal Johann Matthias     | Note: 威尼斯元帅，重要收藏家。
+
+> Johann Philipp Franz von Schönborn [Person]
+    - Original: Johann Philipp Franz von Sch?nborn       | Note: [OCR Fix] "?" -> "ö"。维尔茨堡采邑主教。
+    - Original: Sch?nborn, Johann Philip Franz           | Note: [OCR Fix]
+
+> Johann Wilhelm, Elector Palatinate [Person]
+    - Original: Johann Wilhelm                           | Note: [Disambiguation] 普法尔茨选帝侯。
+    - Original: Johann Wilhelm, Elector Palatinate       | Note: [Validation] 同上。
+
+> John Cecil, 5th Earl of Exeter [Person]
+    - Original: Exeter, 5th Lord                         | Note: [Disambiguation] 伯利勋爵/Grand Tour 旅行者。
+    - Original: John Cecil, 5th Earl of Exeter           | Note: [Validation] 伯利勋爵/大旅行者。
+
+> John Closterman [Person]
+    - Original: Clostermann, John                        | Note: [Validation] 肖像画家。
+    - Original: John Closterman                          | Note: [Validation] 肖像画家。
+
+> John Hervey, 2nd Baron Hervey [Person]
+    - Original: Hervey, Lord                             | Note: [Disambiguation] 赫维勋爵 (回忆录作者)。
+    - Original: John Hervey, 2nd Baron Hervey            | Note: [Validation] 赫维勋爵。
+
+> John Sheffield, 1st Duke of Buckingham and Normanby [Person]
+    - Original: Buckingham, John Sheffield, Duke of      | Note: [Full Name] 诗人/政治家。
+    - Original: John Sheffield, 1st Duke of Buckingham and Normanby | Note: [Validation] 政治家/作家。
+
+> John Skippe [Person]
+    - Original: John Henry Skippe                        | Note: [Validation] 业余艺术家/收藏家 (Chiaroscuro woodcuts)。
+    - Original: Skippe, John                             | Note: 英国业余艺术家/鉴赏家。
+
+> John Udny [Person]
+    - Original: John Fullarton Udny                      | Note: [Validation] 英国驻威尼斯/里窝那领事 (收藏家)。
+    - Original: Udney, John                              | Note: [Spelling Fix] 英国驻威尼斯领事 (Consul Udny)。
+    - Original: Zuane Udni                               | Note: [Dialect/OCR] 威尼斯方言 "Zuane" = Giovanni = John; "Udni" = Udny (Consul John Udny)。
+
+> Joseph Addison [Person]
+    - Original: Addison                                  | Note: [Category Fix] 误标为 Work (E22)。英国作家/政治家。
+    - Original: Joseph Addison                           | Note: [Validation] 作家/政治家。
+
+> Judith with the Head of Holofernes [Work]
+    - Original: Judith with the Head of Holofernes       | Note: [Validation] 绘画主题。
+    - Original: Judith with the head of Holofernes       | Note: [Validation] 绘画主题。
+
+> Jules Mazarin [Person]
+    - Original: Mazarin, Cardinal                        | Note: 马萨林枢机。
+    - Original: Mazzarini, Giulio                        | Note: 马萨林枢机的意大利原名。
+
+> Jusepe de Ribera [Person]
+    - Original: Jusepe de Ribera                         | Note: [Validation] 西班牙画家。
+    - Original: Ribera, Giuseppe                         | Note: 别名 Spagnoletto。
+
+> Karl Ludwig von Pöllnitz [Person]
+    - Original: Karl Ludwig Freiherr von P?llnitz        | Note: [OCR Fix] "?" -> "ö"。回忆录作者。
+    - Original: P?llnitz, Baron de                       | Note: [OCR Fix] "P?llnitz" -> "Pöllnitz"。普鲁士回忆录作家。
+
+> Karl Philipp von Greiffenclau [Person]
+    - Original: Greiffenklau, Karl Philip von            | Note: [Validation] 维尔茨堡采邑主教 (Tiepolo赞助人)。
+    - Original: Karl Philipp von Greiffenklau            | Note: [Validation] 维尔茨堡采邑主教。
+
+> Laurent Cars [Person]
+    - Original: Cars, Laurence                           | Note: [OCR Fix] "Laurence" -> "Laurent"。法国版画家。
+    - Original: Laurent Cars                             | Note: [Validation] 法国版画家。
+
+> Leonaert Bramer [Person]
+    - Original: Bramer, Leonard                          | Note: [Disambiguation] 荷兰画家。
+    - Original: Leonaert Bramer                          | Note: [Validation] 荷兰画家。
+
+> Leonardo Valmarana [Person]
+    - Original: Leonardo, Conte di Valmarana             | Note: [Validation] 贵族。
+    - Original: Valmarana, Leonardo                      | Note: 帕拉迪奥的赞助人。
+
+> Leopold II, Holy Roman Emperor [Person]
+    - Original: Leopold I, Grand Duke of Tuscany         | Note: [Disambiguation] 托斯卡纳大公 Leopold I 继位为神圣罗马皇帝 Leopold II。
+    - Original: Leopold II, Holy Roman Emperor           | Note: [Validation] 同上。
+
+> Lodovico Furlanetto [Person]
+    - Original: Furnaletto, Lodovico                     | Note: [OCR Fix] "Furnaletto" -> "Furlanetto" (威尼斯出版商)。
+    - Original: Lodovico Furlanetto                      | Note: [Validation] 威尼斯出版商。
+
+> Lothar Franz von Schönborn [Person]
+    - Original: Lothar Franz von Sch?nborn               | Note: [OCR Fix] "?" -> "ö"。美因茨选帝侯。
+    - Original: Sch?nborn, Lothar Franz von              | Note: [OCR Fix] 美因茨选帝侯。
+
+> Louis Phélypeaux, marquis de La Vrillière [Person]
+    - Original: La Vrillière, Louis Phélipeaux de        | Note: [Validation] 法国政治家/收藏家。
+    - Original: Louis Phélypeaux de La Vrillière         | Note: [Validation] 法国政治家。
+    - Original: Vrilliere                                | Note: [Category Fix] 原文误标为 Place。法国国务大臣，著名收藏家。
+
+> Ludovico Antonio Muratori [Person]
+    - Original: Ludovico Antonio Muratori                | Note: [Validation] 历史学家/学者。
+    - Original: Muratori, L. A.                          | Note: 意大利历史学家。
+
+> Ludovico Ariosto [Person]
+    - Original: Ariosto                                  | Note: [Disambiguation] 诗人 (疯狂的奥兰多)。
+    - Original: Ludovico Ariosto                         | Note: [Validation] 诗人 (Orlando Furioso)。
+
+> Ludovico Gimignani [Person]
+    - Original: Gimignani, Lodovico                      | Note: [Reconstruction] 罗马画家。
+    - Original: Ludovico Gimignani                       | Note: [Validation] 罗马画家。
+
+> Ludovico Ludovisi [Person]
+    - Original: Ludovico Ludovisi                        | Note: [Validation] 枢机主教/收藏家。
+    - Original: Ludovisi, Ludovico (nephew to Pope Gregory XV) | Note: [Validation] 枢机主教。
+
+> Macerata [Place]
+    - Original: Macerata                                 | Note: [Validation] 城市。
+    - Original: Municipality of Macerata                 | Note: [Category Fix] 马切拉塔市政府。
+
+> Marcantonio Chiarini [Person]
+    - Original: Chiarini, Marcantonio                    | Note: [Reconstruction] 博洛尼亚画家 (Quadraturista)。
+    - Original: Marc'Antonio Chiarini                    | Note: [Validation] 博洛尼亚画家 (Quadraturista)。
+
+> Marche [Place]
+    - Original: Marche                                   | Note: 意大利马尔凯大区。
+    - Original: Marches                                  | Note: "Marche" 的英语复数形式，标准化为 Marche。
+
+> Marguerite Louise d'Orléans [Person]
+    - Original: Marguerite Louise d'Orl谷ans              | Note: [OCR Fix] 乱码修复 "Orl谷ans" -> "Orléans"。托斯卡纳大公夫人。
+    - Original: Orleans, Margherite d'                   | Note: 托斯卡纳大公夫人。
+
+> Marie Thérèse Rodet Geoffrin [Person]
+    - Original: Geoffrin, Mme                            | Note: [Disambiguation] 著名沙龙女主人。
+    - Original: Marie Th谷r豕se Rodet Geoffrin             | Note: [OCR Fix] 乱码修复。若弗兰夫人，著名的沙龙女主人。
+
+> Marie de' Medici [Person]
+    - Original: Marie de' Medici                         | Note: 法国玛丽·德·美第奇王后。
+    - Original: Medici, Marie de                         | Note: 法国玛丽·德·美第奇王后。
+
+> Mario Chigi [Person]
+    - Original: Chigi, Don Mario (brother to Pope Alexander VII) | Note: [Reconstruction] 教皇兄弟。
+    - Original: Mario Chigi                              | Note: 基吉家族成员（如教皇亚历山大七世的兄弟）。
+
+> Mario Minniti [Person]
+    - Original: Mario Minniti                            | Note: 卡拉瓦乔的朋友和模特，西西里画家。
+    - Original: Minitti, Mario                           | Note: [OCR Fix] "Minitti" -> "Minniti"。卡拉瓦乔的朋友/模特。
+
+> Mario Nuzzi [Person]
+    - Original: Mario Nuzzi                              | Note: 别名 "Mario dei Fiori"，以画花卉著称。
+    - Original: Nuzzi, Mario (Mario de' Fiori)           | Note: 别名 Mario dei Fiori，花卉画家。
+
+> Martino Longhi the Elder [Person]
+    - Original: Longhi, Martino, the Elder               | Note: [Validation] 建筑师。
+    - Original: Martino Longhi                           | Note: 建筑师老马蒂诺·朗吉。
+
+> Martino Longhi the Younger [Person]
+    - Original: Longhi, Martino, the Younger             | Note: [Validation] 建筑师。
+    - Original: Martino Longhi the Younger               | Note: 建筑师小马蒂诺·朗吉。
+
+> Masaniello [Person]
+    - Original: Masanella                                | Note: [OCR/Typo Fix] 极可能是 "Masaniello"（那不勒斯渔民起义领袖）的误拼。
+    - Original: Masaniello                               | Note: 托马索·阿涅洛（Tommaso Aniello），那不勒斯起义领袖。
+
+> Massimiliano Soldani Benzi [Person]
+    - Original: Massimiliano Soldani Benzi               | Note: 佛罗伦萨雕塑家和章牌制作者。
+    - Original: Soldani, Massimiliano                    | Note: 佛罗伦萨雕塑家/章牌师。
+
+> Matthäus Daniel Pöppelmann [Person]
+    - Original: Matth?us Daniel P?ppelmann               | Note: [OCR Fix] 乱码修复。德累斯顿茨温格宫的建筑师。
+    - Original: P?ppelmann, Matthes Daniel               | Note: [OCR Fix] "P?ppelmann" -> "Pöppelmann"。德累斯顿建筑师。
+
+> Mattia de' Rossi [Person]
+    - Original: Mattia de Rossi                          | Note: 建筑师，贝尼尼的学生和助手。
+    - Original: Rossi, Mattia de'                        | Note: 建筑师（贝尼尼学生）。
+
+> Mauro Antonio Tesi [Person]
+    - Original: Mauro Antonio Tesi                       | Note: 18世纪博洛尼亚画家和建筑师。
+    - Original: Tesi, Mauro                              | Note: 别名 Maurino。
+
+> Maximilian II Emanuel, Elector of Bavaria [Person]
+    - Original: Max Emmanuel, Elector of Bavaria         | Note: 巴伐利亚选帝侯。
+    - Original: Maximilian, Prince, Elector of Bavaria   | Note: [Merge Candidate] 指向 Max Emmanuel。
+
+> Michelangelo [Person]
+    - Original: Michelangelo                             | Note: 米开朗基罗。
+    - Original: Michelangelo di Lodovico Buonarroti Simoni | Note: [Merge Candidate] 米开朗基罗全名。
+
+> Michele Giustiniani [Person]
+    - Original: Giustiniani, Abbate Michele              | Note: [Reconstruction] 历史学家/作家。
+    - Original: Michele Giustiniani                      | Note: 17世纪作家。
+
+> Michiel Sweerts [Person]
+    - Original: Michiel Sweerts                          | Note: 佛兰芒巴洛克画家。
+    - Original: Sweerts, Michael                         | Note: 佛兰芒画家。
+
+> Monsieur de Blainville [Person]
+    - Original: Blainville                               | Note: [Disambiguation] 旅行家 (著有Travels)。
+    - Original: Blainville, Monsieur de                  | Note: [Validation] 同上。
+    - Original: Jean Armand de Blainville                | Note: [Disambiguation] 旅行记作者 (可能化名)。
+
+> Niccolò Circignani [Person]
+    - Original: Niccol辰 Circignani                       | Note: [OCR Fix] "辰" -> "ò"。别名 Il Pomarancio。
+    - Original: Pomarance, Niccol辰 Circignani dalle      | Note: [OCR Fix] "Niccol辰" -> "Niccolò"。别名 Il Pomarancio。
+
+> Niccolò Machiavelli [Person]
+    - Original: Machiavelli                              | Note: [Disambiguation] 马基雅维利。
+    - Original: Niccol辰 Machiavelli                      | Note: [OCR Fix] "辰" -> "ò"。马基雅维利。
+
+> Niccolò Maria Pallavicini [Person]
+    - Original: Marchese Niccolo Maria Pallavicini       | Note: 罗马重要的艺术赞助人（Maratti 的赞助者）。
+    - Original: Pallavicini, Marchese Niccol辰 Maria      | Note: [OCR Fix] "辰" -> "ò"。
+
+> Niccolò Sagredo [Person]
+    - Original: Nicol辰 Sagredo                           | Note: [OCR Fix] "辰" -> "ò"。威尼斯总督。
+    - Original: Sagredo, Niccol辰                         | Note: [OCR Fix] "辰" -> "ò"。威尼斯总督。
+
+> Nicolas Malebranche [Person]
+    - Original: Malebranche, Nicolas de                  | Note: [Validation] 哲学家。
+    - Original: Nicolas Malebranche                      | Note: 哲学家。
+
+> Nicolas-Claude Fabri de Peiresc [Person]
+    - Original: Nicolas-Claude Fabri de Peiresc          | Note: 著名的学者和古董收藏家。
+    - Original: Peiresc, Nicolas-Claude-Fabri de         | Note: nan
+    - Original: Provencal antiquary Peiresc              | Note: [Category Fix] 原文误标为 Place。Peiresc 是普罗旺斯人。
+
+> Nymphenburg Palace [Place]
+    - Original: Munich, Nymphenburg palace               | Note: 慕尼黑宁芬堡宫。
+    - Original: Nymphenburg                              | Note: 宁芬堡。
+
+> Orazio Arrighi Landini [Person]
+    - Original: Arrighi-Landini, Orazio                  | Note: [Reconstruction] 18世纪作家/翻译家。
+    - Original: Orazio Arrighi Landini                   | Note: 17世纪人物。
+
+> Orazio Riminaldi [Person]
+    - Original: Orazio Riminaldi                         | Note: 比萨画家。
+    - Original: Riminaldi                                | Note: 比萨画家。
+
+> Ottavio Novaroli [Person]
+    - Original: Novaroli, P. Octavio                     | Note: 17世纪人物（可能是神职人员）。
+    - Original: Ottavio Novaroli                         | Note: [Duplicate] 同 Novaroli, P. Octavio。
+
+> Owen McSwiny [Person]
+    - Original: Owen McSwiny                             | Note: 剧院经理，卡纳莱托等人的经纪人。
+    - Original: Owen Swiny                               | Note: [Merge Candidate] 同 Owen McSwiny。
+
+> Pacecco De Rosa [Person]
+    - Original: Pacecco De Rosa                          | Note: 那不勒斯画家。
+    - Original: Rosa, Paceco de                          | Note: (Francesco De Rosa) 那不勒斯画家。
+
+> Palazzo Barberini [Place]
+    - Original: Barberini palace                         | Note: [Validation] 罗马宫殿。
+    - Original: Palazzo Barberini                        | Note: 罗马巴贝里尼宫。
+
+> Palazzo Clerici [Place]
+    - Original: Clerici Palace                           | Note: [Validation] 米兰宫殿 (提埃坡罗壁画)。
+    - Original: Palazzo Clerici                          | Note: 米兰宫殿（提埃坡罗壁画）。
+
+> Palazzo Colonna [Place]
+    - Original: Colonna palace                           | Note: [Validation] 罗马宫殿。
+    - Original: Palazzo Colonna                          | Note: 罗马科隆纳宫。
+
+> Palazzo Farnese [Place]
+    - Original: Farnese Palace                           | Note: [Category Fix] 原文误标为 Work。
+    - Original: Palazzo Farnese                          | Note: 罗马法尔内塞宫。
+
+> Palazzo Foscarini (Venice) [Place]
+    - Original: Marco Foscarini's palace                 | Note: 位于威尼斯 Carmini 的宫殿。
+    - Original: Palazzo Foscarini                        | Note: nan
+
+> Palazzo Gondi [Place]
+    - Original: Gondi palace                             | Note: [Validation] 佛罗伦萨宫殿。
+    - Original: Palazzo Gondi                            | Note: 佛罗伦萨宫殿。
+
+> Palazzo Manin [Place]
+    - Original: Manin palace                             | Note: [Category Fix] 原文误标为 Work。
+    - Original: Palazzo Manin                            | Note: 威尼斯宫殿（现为意大利银行）。
+
+> Palazzo Medici Riccardi [Place]
+    - Original: Palazzo Medici Riccardi                  | Note: 佛罗伦萨美第奇-里卡迪宫。
+    - Original: Riccardi palace                          | Note: [Category Fix] 佛罗伦萨宫殿。
+
+> Palazzo Pamphilj (Piazza Navona) [Place]
+    - Original: Palazzo Pamphilj                         | Note: 罗马纳沃纳广场的潘菲利宫。
+    - Original: Pamfili palace (Piazza Navona)           | Note: [Category Fix] 原文误标为 Man-Made Object。
+
+> Palazzo Pitti [Place]
+    - Original: Palazzo Pitti                            | Note: 佛罗伦萨皮蒂宫。
+    - Original: Pitti Palace                             | Note: [Category Fix] 原文误标为 Man-Made Object。
+
+> Palma il Giovane [Person]
+    - Original: Jacopo Palma il Giovane                  | Note: [Validation] 威尼斯画家。
+    - Original: Palma, Jacopo (il Giovane)               | Note: 威尼斯画家小帕尔马。
+
+> Paola Zambelli [Person]
+    - Original: Paola Zambelli                           | Note: 现代哲学史学家。
+    - Original: Zambelli, Dr Paola                       | Note: 科学史学家。
+
+> Paolo Emilio Sfondrati [Person]
+    - Original: Paolo Emilio Sfondrati                   | Note: 红衣主教（圣塞西莉亚遗骸发现者）。
+    - Original: Sfondrato, Cardinal                      | Note: 红衣主教 Sfondrati（圣塞西莉亚赞助人）。
+
+> Paolo Gerolamo Piola [Person]
+    - Original: Paolo Gerolamo Piola                     | Note: 热那亚画家。
+    - Original: Piola, Paolo Girolamo                    | Note: 热那亚画家。
+
+> Paolo Giordano I Orsini [Person]
+    - Original: Bracciano, Paolo Giordano I Orsini, Duke of | Note: [Reconstruction] 第一代布拉恰诺公爵。
+    - Original: Paolo Giordano I Orsini                  | Note: 布拉恰诺公爵。
+
+> Paolo Giordano II Orsini [Person]
+    - Original: Bracciano, Paolo Giordona II Orsini, Duke of | Note: [OCR Fix] "Giordona" -> "Giordano"。
+    - Original: Paolo Giordano Orsini II                 | Note: 艺术赞助人，诗人。
+
+> Paolo Giordano Orsini [Person]
+    - Original: Bracciano, Duke of                       | Note: [Context] 通常指 Orsini 公爵 (需视具体年代)。
+    - Original: Orsini, Paolo Giordano                   | Note: 奥尔西尼家族成员。
+
+> Paolo Veronese [Person]
+    - Original: Paolo Veronese                           | Note: 委罗内塞。
+    - Original: Paul Varnish                             | Note: [Disambiguation] 18世纪英国对 Veronese 的滑稽音译/戏称。
+
+> Parmigianino [Person]
+    - Original: Girolamo Francesco Maria Mazzola         | Note: [Disambiguation] 帕尔米贾尼诺。
+    - Original: Parmigianino, Francesco                  | Note: [Category Fix] 原文误标为 Place。帕尔米贾尼诺。
+
+> Paul Fréart de Chantelou [Person]
+    - Original: Chantelou, Paul-Fréart de                | Note: [Reconstruction] 贝尼尼在法国的接待者/日记作者。
+    - Original: Paul Fr谷art de Chantelou                 | Note: [OCR Fix] "Fr谷art" -> "Fréart"。贝尼尼在法国的向导。
+
+> Paul V [Person]
+    - Original: Borghese, Camillo (Pope Paul V)          | Note: [Disambiguation] 教皇保罗五世。
+    - Original: Paul V, Pope                             | Note: 教皇保罗五世（Borghese）。
+
+> Pedro Berruguete [Person]
+    - Original: Berreguete, Pedro                        | Note: [OCR Fix] "Berreguete" -> "Berruguete"。
+    - Original: Pedro Berruguete                         | Note: 西班牙画家。
+
+> Peter Anthony Motteux [Person]
+    - Original: Motteux, Pierre                          | Note: (Pierre Antoine Motteux) 法国出生的英国剧作家/翻译家。
+    - Original: Peter Anthony Motteux                    | Note: (Pierre Antoine Motteux) 作家/翻译家。
+
+> Philippe II, Duke of Orléans [Person]
+    - Original: Orleans, Philippe d', Regent             | Note: 法国摄政王。
+    - Original: Philippe II, Duke of Orl谷ans             | Note: [OCR Fix] "Orl谷ans" -> "Orléans"。
+
+> Philips Wouwerman [Person]
+    - Original: Philips Wouwerman                        | Note: 荷兰画家。
+    - Original: Wouwermans, Philips                      | Note: 荷兰画家。
+
+> Piazza della Santissima Annunziata [Place]
+    - Original: Annunciation Square                      | Note: [Standardization] 佛罗伦萨广场。
+    - Original: piazza della Santissima Annunziata       | Note: 佛罗伦萨广场。
+
+> Pierre Louis Maupertuis [Person]
+    - Original: Maupertuis, Pierre-Louis                 | Note: 法国数学家和哲学家。
+    - Original: Pierre-Louis Moreau de Maupertuis        | Note: 数学家/天文学家。
+
+> Pierre-Jean Grosley [Person]
+    - Original: Grosley, Pierre Jean                     | Note: [Validation] 法国作家 (Nouveaux mémoires sur l'Italie)。
+    - Original: Pierre-Jean Grosley                      | Note: 法国旅行作家。
+
+> Pierre-Étienne Monnot [Person]
+    - Original: Monnot, Pierre                           | Note: 法国雕塑家，主要活跃于罗马。
+    - Original: Pierre-谷tienne Monnot                    | Note: [OCR Fix] "谷tienne" -> "Étienne"。雕塑家。
+
+> Pieter Mulier the Younger [Person]
+    - Original: Mulier, Pietro                           | Note: 别名 "Il Tempesta"。
+    - Original: Pieter Mulier                            | Note: 别名 Il Tempesta。
+
+> Pietro Aldobrandini [Person]
+    - Original: Aldobrandini, Cardinal Pietro (nephew of Pope Clement VIII) | Note: [Disambiguation] 彼得罗·阿尔多布兰迪尼枢机。
+    - Original: Pietro Aldobrandini                      | Note: 红衣主教，重要赞助人。
+
+> Pietro Antonio Zaguri [Person]
+    - Original: Pietro Antonio Zaguri                    | Note: 威尼斯贵族/赞助人。
+    - Original: Zaguri, Pietro                           | Note: 威尼斯参议员/赞助人。
+
+> Pietro Francavilla [Person]
+    - Original: Francavilla, Pietro                      | Note: [Category Fix] 原文误标为 Man-Made Object。雕塑家。
+    - Original: Pietro Francavilla                       | Note: (Pierre de Francqueville) 佛罗伦萨雕塑家。
+
+> Pietro Ottoboni [Person]
+    - Original: Ottoboni, Cardinal Pietro (nephew...)    | Note: 著名的艺术赞助人，亚历山大八世的侄孙。
+    - Original: Pietro Ottoboni                          | Note: 著名的红衣主教与艺术赞助人。
+
+> Pietro Paltronieri [Person]
+    - Original: Paltronieri, Pietro ('il Mirandolese')   | Note: 别名 Il Mirandolese，透视画法画家。
+    - Original: Pietro Paltronieri                       | Note: 别名 Il Mirandolese。
+
+> Pietro Santi Bartoli [Person]
+    - Original: Bartoli, Pietro Santo                    | Note: [OCR Fix] 修正 "Santo" 为 "Santi"。版画家/古物学家。
+    - Original: Pietro Santi Bartoli                     | Note: 罗马版画家/古董学者。
+
+> Pietro da Cortona [Person]
+    - Original: Berrettini, Pietro (Pietro da Cortona)   | Note: [Disambiguation] 皮耶特罗·达·科尔托纳。
+    - Original: Pietro da Cortona                        | Note: 皮埃特罗·达·科尔托纳。
+
+> Pietro de' Pietri [Person]
+    - Original: Pietri, Pietro di                        | Note: 罗马晚期巴洛克画家。
+    - Original: Pietro da Pietri                         | Note: nan
+
+> Pietà [Work]
+    - Original: Pieta                                    | Note: [OCR Fix/Ambiguous] "Pieta" -> "Pietà"。指圣母怜子主题艺术品（如米开朗基罗或提香）。
+    - Original: Piet角                                    | Note: [OCR Fix] "Piet角" -> "Pietà"。圣母怜子图。
+
+> Pompeo Batoni [Person]
+    - Original: Batoni, Pompeo                           | Note: [Reconstruction] 罗马肖像画家。
+    - Original: Pompeo Girolamo Batoni                   | Note: 庞贝奥·巴托尼。
+
+> Portrait of Donna Olimpia Maidalchini [Work]
+    - Original: Portrait of Donna Olimpia                | Note: [Category Fix] 可能是 Bacciccio 的画作或半身像。
+    - Original: Portrait of Donna Olimpia Maidalchini    | Note: [Category Fix]
+
+> Portrait of Innocent X [Work]
+    - Original: Portrait of Innocent X                   | Note: [Category Fix] 委拉斯开兹的著名画作。
+    - Original: Portrait of Pope Innocent X Pamphili     | Note: [Category Fix] 同上。
+
+> Prospero Pesci [Person]
+    - Original: Gasparo Prospero Pesci                   | Note: [OCR Fix] "Gasparo Prospero" -> "Prospero"? Prospero Pesci 是罗马画家。Gasparo 可能是误加。
+    - Original: Pesci, Prospero                          | Note: 18世纪博洛尼亚画家。
+
+> Quirinal Hill [Place]
+    - Original: Quirinal                                 | Note: 罗马奎里纳尔山。
+    - Original: Quirinal Hill                            | Note: nan
+
+> Raffaello Marchesi [Person]
+    - Original: Marchesi, Raffaelo                       | Note: [Category Fix] 原文误标为 Man-Made Object。人物。
+    - Original: Raffaelo Marchesi                        | Note: nan
+
+> Raphael [Person]
+    - Original: Raffaello Sanzio da Urbino               | Note: 拉斐尔。
+    - Original: Raphael                                  | Note: 拉斐尔。
+
+> Rembrandt [Person]
+    - Original: Rembrandt                                | Note: 伦勃朗。
+    - Original: Rembrandt Harmenszoon van Rijn           | Note: 伦勃朗全名。
+
+> Richard Boyle, 3rd Earl of Burlington [Person]
+    - Original: Burlington, Lord                         | Note: [Disambiguation] 建筑赞助人 (Palladianism)。
+    - Original: Richard Boyle, 3rd Earl of Burlington    | Note: 帕拉迪奥主义建筑的重要推动者。
+
+> Robert Benson, 1st Baron Bingley [Person]
+    - Original: Bingley, Lord                            | Note: [Disambiguation] 英国贵族 (Yorkshire)。
+    - Original: Robert Benson, 1st Baron Bingley         | Note: nan
+
+> Robert Harley, 1st Earl of Oxford [Person]
+    - Original: Oxford, Robert Harley, Earl of           | Note: nan
+    - Original: Robert Harley                            | Note: nan
+
+> Roberto d'Oderisio [Person]
+    - Original: Oderisi, Roberto                         | Note: 那不勒斯画家。
+    - Original: Roberto d'Oderisio                       | Note: 14世纪那不勒斯画家。
+
+> Romulus and Remus [Person]
+    - Original: Romulm and Remus                         | Note: [OCR Fix] "Romulm" -> "Romulus"。
+    - Original: Romulus and Remus                        | Note: [Category Fix] 鲁本斯、Carracci 等人的画作主题。
+
+> Saint Andrew [Person]
+    - Original: Andrew the Apostle                       | Note: [Disambiguation] 圣安德烈。
+    - Original: Saint Andrew                             | Note: 圣安德烈（人物）。
+
+> Saint Francis Xavier [Person]
+    - Original: Francis Xavier                           | Note: [Disambiguation] 圣方济各·沙勿略。
+    - Original: Xavier, St Francis                       | Note: 圣方济各·沙勿略。
+
+> Saint Ignatius of Loyola [Person]
+    - Original: Ignatius of Loyola                       | Note: [Validation] 耶稣会创始人。
+    - Original: Ignatius, St                             | Note: [Validation] 同上。
+
+> Saint John the Baptist [Person]
+    - Original: John the Baptist                         | Note: [Validation] 圣徒。
+    - Original: St. John the Baptist                     | Note: [Category Fix] 原文误标为 Man-Made Object。施洗约翰。
+
+> Saint Lawrence [Person]
+    - Original: St Lawrence                              | Note: [Category Fix] 原文误标为 Place。圣劳伦斯。
+    - Original: St.Lawrenc                               | Note: [OCR Fix] "St.Lawrenc" -> "St. Lawrence"。
+
+> Saint Philip Neri [Person]
+    - Original: Philip Neri, St                          | Note: 圣菲利波·内里。
+    - Original: Saint Philip Neri                        | Note: 圣菲利波·内里。
+
+> Saint Stanislaus Kostka [Person]
+    - Original: St Stanislas Kostka                      | Note: [Category Fix] 原文误标为 Man-Made Object。
+    - Original: Stanislaus Kostka                        | Note: 圣斯坦尼斯劳斯·科斯特卡。
+
+> Samuel von Pufendorf [Person]
+    - Original: Pufendorf, Samuel                        | Note: 法学家/历史学家。
+    - Original: Samuel von Pufendorf                     | Note: 德国法学家。
+
+> San Canciano [Place]
+    - Original: S. Canciano                              | Note: 威尼斯教堂。
+    - Original: San Canciano                             | Note: 威尼斯教堂。
+
+> San Carlo alle Quattro Fontane [Place]
+    - Original: Quattro Fontane                          | Note: 罗马教堂（波罗米尼）或喷泉群。
+    - Original: Saint Charles at the Four Fountains      | Note: 罗马教堂。
+
+> San Giorgio Maggiore [Place]
+    - Original: Church of San Giorgio Maggiore           | Note: [Validation] 威尼斯教堂。
+    - Original: S. Giorgio Maggiore                      | Note: 威尼斯教堂（帕拉迪奥）。
+    - Original: San Giorgio Monastery                    | Note: 威尼斯修道院。
+
+> San Giovanni Decollato [Place]
+    - Original: S.Giovanni Decollato                     | Note: 罗马或威尼斯教堂。
+    - Original: San Giovanni Decollato                   | Note: 罗马教堂。
+
+> San Zaccaria [Place]
+    - Original: San Zaccaria                             | Note: 威尼斯教堂。
+    - Original: San Zaccaria, Venice                     | Note: [Duplicate] 同上。
+
+> Sant'Agnese in Agone [Place]
+    - Original: S. Agnese                                | Note: 罗马教堂（Piazza Navona）。
+    - Original: Sant'Agnese in Agone                     | Note: 罗马教堂。
+
+> Sant'Andrea al Quirinale [Place]
+    - Original: Church of Sant'Andrea al Quirinale       | Note: [Category Fix] 原文误标为 Work。贝尼尼建筑。
+    - Original: S. Andrea                                | Note: [Ambiguous] 可能是 Quirinale 或 Della Valle，视语境。
+    - Original: Sant'Andrea al Quirinale                 | Note: 罗马教堂（贝尼尼）。
+    - Original: St. Andrew's Temple Church               | Note: [Context] 可能是指 Quirinale 的 Jesuit Novitiate church。
+
+> Santa Maria della Concezione dei Cappuccini [Place]
+    - Original: Capuchin church in Rome                  | Note: [Disambiguation] 罗马嘉布遣会教堂。
+    - Original: S.Maria della Concezione                 | Note: 罗马嘉布遣会教堂。
+    - Original: Santa Maria della Concezione...          | Note: 罗马骨骸寺。
+
+> Santa Maria della Salute [Place]
+    - Original: Santa Maria della Salute                 | Note: 威尼斯安康圣母堂。
+    - Original: chiesa della Salute                      | Note: 威尼斯安康圣母堂。
+
+> Santa Maria della Vittoria [Place]
+    - Original: S.Maria della Vittoria                   | Note: 罗马教堂（贝尼尼《圣特蕾莎》所在地）。
+    - Original: Santa Maria della Vittoria               | Note: 罗马教堂。
+
+> Santa Maria di Nazareth (Scalzi) [Place]
+    - Original: Santa Maria degli Scalzi                 | Note: 威尼斯赤足教堂。
+    - Original: Santa Maria di Nazareth Basilica         | Note: 威尼斯赤足教堂。
+    - Original: Scalzi                                   | Note: [Category Fix] 威尼斯赤足教堂（通常简称 Scalzi）。
+
+> Santissima Annunziata [Place]
+    - Original: Annunziata                               | Note: [Disambiguation] 指代教堂或广场。
+    - Original: Santissima Annunziata                    | Note: 佛罗伦萨著名教堂。
+
+> Sarah Churchill, Duchess of Marlborough [Person]
+    - Original: Marlborough, Duchess of                  | Note: 著名的马尔伯勒公爵夫人。
+    - Original: Sarah Churchill                          | Note: 马尔伯勒公爵夫人。
+
+> Sassoferrato [Place]
+    - Original: Sassoferrato                             | Note: 马尔凯大区城镇。
+    - Original: Sassoferrato (Giovan Battista Salvi)     | Note: (Giovanni Battista Salvi da Sassoferrato) 画家。
+
+> Scipione Borghese [Person]
+    - Original: Cardinal Scipione Borghese               | Note: [Category Fix] 原文误标为 Work。
+    - Original: Scipione Borghese                        | Note: 红衣主教希皮奥内·博尔盖塞（贝尼尼的赞助人）。
+
+> Scuola Grande dei Carmini [Place]
+    - Original: Scuola Grande dei Carmini                | Note: 威尼斯卡尔米尼大会堂。
+    - Original: Scuola del Carmine                       | Note: [Duplicate] 同上。
+
+> Scuola Grande di San Rocco [Organization]
+    - Original: San Rocco, Scuola di                     | Note: 威尼斯圣罗格大会堂。
+    - Original: Scuola Grande di San Rocco               | Note: 威尼斯圣罗格大会堂（丁托列托）。
+    - Original: Scuola di San Rocco                      | Note: [Duplicate] 同上。
+
+> Sebastiano Bombelli [Person]
+    - Original: Bombelli Sebastiano                      | Note: [Reconstruction] 威尼斯肖像画家。
+    - Original: Sebastiano Bombelli                      | Note: 威尼斯肖像画家。
+
+> Sebastiano Marcotti [Person]
+    - Original: Sebastiano Marcotti                      | Note: 17世纪版画家（活跃于那不勒斯）。
+    - Original: Sebastiano Marcotti                      | Note: [Duplicate]
+
+> Sebastiano Resta [Person]
+    - Original: Resta, Padre Sebastiano                  | Note: 著名的绘画收藏家/鉴赏家。
+    - Original: Sebastiano Resta                         | Note: 著名的素描收藏家（Padre Resta）。
+
+> Secondo Lancellotti [Person]
+    - Original: Lancellotti, Abate                       | Note: [Reconstruction] 作家 (L'Hoggidì)。
+    - Original: Secondo Lancellotti                      | Note: 17世纪作家（《L'Hoggidì》）。
+
+> Sir Thomas Isham, 3rd Baronet [Person]
+    - Original: Sir Thomas Isham (1656每1681), 3rd Bt Isham | Note: [OCR Fix] "每" -> "–"。[Category Fix] 原文误标为 Man-Made Object。
+    - Original: Thomas Isham                             | Note: 17世纪日记作者/旅行者。
+
+> Sixtus V [Person]
+    - Original: Peretti, Felice (Pope Sixtus V)          | Note: 教皇西克斯图斯五世。
+    - Original: Sixtus V                                 | Note: 教皇西克斯图斯五世。
+
+> St. Peter's Basilica [Place]
+    - Original: St. Peter's Basilica                     | Note: 梵蒂冈圣彼得大教堂。
+    - Original: Vatican Papal Basilica                   | Note: 圣彼得大教堂。
+
+> Stamperia Albrizzi [Organization]
+    - Original: Nella Stamperia Albrizziana              | Note: [Category Fix] 威尼斯著名出版商 Albrizzi。
+    - Original: Stamperia Albrizziana                    | Note: [Category Fix] 威尼斯印刷厂。
+
+> Stanisław August Poniatowski [Person]
+    - Original: Stanis?aw August Poniatowski             | Note: [OCR Fix] "?" -> "ł"。波兰国王。
+    - Original: Stanislas Poniatowski, King of Poland    | Note: [Duplicate] 同上。
+
+> Statue of Field Marshal Schulenburg [Work]
+    - Original: Statue of Field Marshal Schulenburg      | Note: [Category Fix] 科拉迪尼的作品（科孚岛）。
+    - Original: Statue of Schulenburg, Kerkyra           | Note: [Duplicate] 同 3582。
+
+> Stendhal [Person]
+    - Original: Marie-Henri Beyle                        | Note: 作家司汤达的原名，以写意大利游记和艺术评论著称。
+    - Original: Stendhal                                 | Note: 司汤达。
+
+> Taddeo Barberini [Person]
+    - Original: Barberini, Taddeo (nephew to Urban VIII) | Note: [Reconstruction] 帕莱斯特里纳亲王。
+    - Original: Taddeo Barberini                         | Note: 帕莱斯特里纳亲王（教皇乌尔班八世的侄子）。
+
+> Teofilo Gallaccini [Person]
+    - Original: Gallacini, Teofilo                       | Note: [OCR Fix] "Gallacini" -> "Gallaccini" (锡耶纳学者/建筑理论家)。
+    - Original: Teofilo Gallaccini                       | Note: 锡耶纳学者/建筑理论家。
+
+> The Abduction of Helen [Work]
+    - Original: Rape of Helen                            | Note: [Category Fix] 常见神话主题。
+    - Original: The Abduction of Helen                   | Note: [Category Fix] 圭多·雷尼等人的画作。
+
+> The Banquet of Cleopatra [Work]
+    - Original: The Banquet of Antony and Cleopatra      | Note: [Category Fix] 提埃坡罗的著名画作。
+    - Original: The Banquet of Cleopatra                 | Note: [Category Fix]
+
+> The Baptism of Christ [Work]
+    - Original: The Baptism                              | Note: [Category Fix]
+    - Original: The Baptism of Christ                    | Note: [Category Fix] 耶稣受洗图。
+
+> The Deposition from the Cross [Work]
+    - Original: The Deposition from the Cross            | Note: [Category Fix]
+    - Original: The Deposition from the Cross/Deposition | Note: [Category Fix]
+
+> The Judgment of Paris [Work]
+    - Original: The Judgement of Paris                   | Note: [Category Fix] 帕里斯的裁判。
+    - Original: The Judgment of Paris                    | Note: [Category Fix] 同上。
+
+> The Nativity [Work]
+    - Original: Nativity                                 | Note: [Category Fix] 耶稣诞生图。
+    - Original: The Nativity                             | Note: [Category Fix] 耶稣降生。
+
+> The Rape of the Sabine Women [Work]
+    - Original: Rape of the Sabine Women                 | Note: [Category Fix] 普桑、詹博洛尼亚作品。
+    - Original: Rape of the Sabines                      | Note: [Category Fix]
+    - Original: The Rape of the Sabine Women             | Note: [Category Fix] 萨宾妇女的劫夺。
+
+> The Sacrifice of Iphigenia [Work]
+    - Original: Sacrifice of Iphigenia                   | Note: [Category Fix] 提埃坡罗等人的画作。
+    - Original: The Sacrifice of Iphigenia               | Note: [Category Fix] 伊菲革涅亚的献祭。
+
+> The Sacrifice of Isaac [Work]
+    - Original: Sacrifice of Abraham                     | Note: [Category Fix] 常见的艺术主题。
+    - Original: The Sacrifice of Isaac                   | Note: [Category Fix] 以撒的献祭。
+
+> The Triumph of Venice [Work]
+    - Original: The Triumph of Venice                    | Note: [Category Fix] 提埃坡罗或 Veronese 的画作。
+    - Original: Triumph of Venice                        | Note: [Category Fix] 提埃坡罗 (Palazzo Pisani) 或 Pompeo Batoni 的画作。
+
+> The Triumph of the Name of Jesus [Work]
+    - Original: The Triumph of the Name of Jesus         | Note: [Category Fix] Il Gesù 教堂的天顶画（Baciccio）。
+    - Original: Triumph of the Name of Jesus             | Note: [Category Fix] 罗马耶稣会教堂天顶画。
+
+> Thomas Coke, 1st Earl of Leicester [Person]
+    - Original: Coke, Mr                                 | Note: [Context] "Mr Coke" 常指 Thomas Coke (Holkham Hall 建造者/收藏家)。
+    - Original: Thomas Coke, 1st Earl of Leicester       | Note: 霍尔克姆大厅的主人。
+
+> Thomas Pelham-Holles, 1st Duke of Newcastle [Person]
+    - Original: Newcastle, Thomas Pelham-Holles, Duke of | Note: [Category Fix] 原文误标为 Man-Made Object。
+    - Original: Thomas Pelham-Holles, 1st Duke of Newcastle-upon-Tyne | Note: nan
+
+> Toussaint Dubreuil [Person]
+    - Original: Breuil, Toussaint du                     | Note: [Reconstruction] 法国枫丹白露画派画家。
+    - Original: Toussaint Dubreuil                       | Note: 法国枫丹白露画派画家。
+
+> Urban VIII [Person]
+    - Original: Barberini, Maffeo (Pope Urban VIII)      | Note: [Disambiguation] 教皇乌尔班八世。
+    - Original: Urban VIII                               | Note: 教皇乌尔班八世。
+
+> Victor Amadeus II of Sardinia [Person]
+    - Original: Savoy, Vittorio Amedeo II, Duke of       | Note: 萨伏伊公爵/撒丁国王。
+    - Original: Victor Amadeus II of Savoy               | Note: 萨伏伊公爵，撒丁国王。
+
+> Villa Contarini [Place]
+    - Original: Contarini villa                          | Note: [Category Fix] 原文误标为 Work。
+    - Original: Villa Contarini                          | Note: 威尼托别墅（Piazzola sul Brenta）。
+
+> Villa Valmarana ai Nani [Place]
+    - Original: Villa Valmarana                          | Note: 维琴察别墅（提埃坡罗壁画）。
+    - Original: Villa Valmarana ai Nani                  | Note: [Duplicate] 同上。
+
+> Villa di Pratolino [Place]
+    - Original: Pratolino                                | Note: 美第奇别墅。
+    - Original: Villa di Pratolino                       | Note: 美第奇别墅（Demidoff）。
+
+> Vincenzo Giustiniani [Person]
+    - Original: Giustiniani, Marchese Vincenzo           | Note: [Category Fix] 原文误标为 Man-Made Object。著名收藏家/侯爵。
+    - Original: Vincenzo Giustiniani                     | Note: 著名的银行家与艺术收藏家（Caravaggio赞助人）。
+
+> Virgil [Person]
+    - Original: Publius Vergilius Maro                   | Note: 维吉尔。
+    - Original: Virgil                                   | Note: 诗人维吉尔。
+
+> Virgin by Bassanino [Work]
+    - Original: Bassanino, Virgilio                      | Note: [Correction] 依据指令修正：原文 "Virgilio Bassanino" 极大概率为 "Virgin by Bassanino" (Jacopo Bassano作品) 的误读。
+    - Original: Virgil Bassanino                         | Note: [OCR/Typo Fix] 极可能是 "Virgin [painted] by Bassanino" (Jacopo Bassano 或家族成员) 的误读。
+
+> Vitruvius [Person]
+    - Original: Marcus Vitruvius Pollio                  | Note: 建筑师维特鲁威。
+    - Original: Vitruvius                                | Note: 维特鲁威。
+
+> Vivant Denon [Person]
+    - Original: Non, Dominique De (Dominique Vivant-Denon) | Note: 卢浮宫首任馆长。
+    - Original: Vivant-Denon, Dominique                  | Note: 卢浮宫首任馆长。
+
+> Würzburg Residence [Place]
+    - Original: W邦rzburg Residence                       | Note: [OCR Fix] "W邦rzburg" -> "Würzburg"。
+    - Original: W邦rzburg Residenz                        | Note: [Duplicate] 同上。
