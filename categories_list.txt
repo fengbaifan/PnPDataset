@@ -1,0 +1,33 @@
+Work
+Person
+Place
+Organization
+Place/Organization
+Group
+Person (Myth)
+Person/Group
+Work/Concept
+Event
+Concept
+Person (Myth)/Work
+Event/Work
+Organization/Group
+Place/Person
+Organization/Place
+Work/Event
+Event/Concept
+Person/Work
+Concept/Person (Allegory)
+Person (Lit)
+Group/Concept
+Person (Allegory)
+Group/Work
+Person (Myth/Hist)
+Work/Place
+Group/Place
+Concept/Work
+Person (Type)
+Place/Concept
+Work/Person
+Group/Title
+Person (Religious)
