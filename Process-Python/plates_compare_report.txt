@@ -1,0 +1,257 @@
+=== Plate 数量不一致 ===
+Plate ('1', ''): worklist=1, md=2
+Plate ('10', ''): worklist=0, md=2
+Plate ('10', 'a'): worklist=1, md=0
+Plate ('10', 'b'): worklist=1, md=0
+Plate ('11', ''): worklist=0, md=1
+Plate ('11', 'a'): worklist=1, md=0
+Plate ('11', 'b'): worklist=1, md=0
+Plate ('12', ''): worklist=1, md=2
+Plate ('13', ''): worklist=1, md=2
+Plate ('14', ''): worklist=1, md=2
+Plate ('15', ''): worklist=1, md=2
+Plate ('16', ''): worklist=1, md=2
+Plate ('17', ''): worklist=0, md=2
+Plate ('17', 'a'): worklist=1, md=0
+Plate ('17', 'b'): worklist=1, md=0
+Plate ('17', 'c'): worklist=1, md=0
+Plate ('1700', ''): worklist=0, md=1
+Plate ('18', ''): worklist=0, md=1
+Plate ('18', 'b'): worklist=1, md=0
+Plate ('19', ''): worklist=0, md=1
+Plate ('19', 'a'): worklist=1, md=0
+Plate ('19', 'b'): worklist=1, md=0
+Plate ('2', ''): worklist=0, md=2
+Plate ('2', 'a'): worklist=1, md=0
+Plate ('2', 'b'): worklist=1, md=0
+Plate ('21', ''): worklist=0, md=1
+Plate ('21', 'a'): worklist=1, md=0
+Plate ('21', 'b'): worklist=1, md=0
+Plate ('22', ''): worklist=0, md=1
+Plate ('22', 'a'): worklist=1, md=0
+Plate ('22', 'b'): worklist=1, md=0
+Plate ('23', ''): worklist=0, md=1
+Plate ('23', 'a'): worklist=1, md=0
+Plate ('23', 'b'): worklist=1, md=0
+Plate ('26', ''): worklist=0, md=1
+Plate ('26', 'a'): worklist=1, md=0
+Plate ('26', 'b'): worklist=1, md=0
+Plate ('27', ''): worklist=0, md=1
+Plate ('27', 'a'): worklist=1, md=0
+Plate ('27', 'b'): worklist=1, md=0
+Plate ('28', ''): worklist=0, md=1
+Plate ('28', 'a'): worklist=1, md=0
+Plate ('28', 'b'): worklist=1, md=0
+Plate ('3', ''): worklist=0, md=3
+Plate ('3', 'a'): worklist=1, md=0
+Plate ('3', 'b'): worklist=1, md=0
+Plate ('30', ''): worklist=0, md=1
+Plate ('30', 'a'): worklist=1, md=0
+Plate ('30', 'b'): worklist=1, md=0
+Plate ('31', 'b'): worklist=1, md=0
+Plate ('32', ''): worklist=0, md=1
+Plate ('32', 'a'): worklist=1, md=0
+Plate ('32', 'b'): worklist=1, md=0
+Plate ('33', ''): worklist=0, md=1
+Plate ('33', 'a'): worklist=1, md=0
+Plate ('35', ''): worklist=0, md=1
+Plate ('35', 'a'): worklist=1, md=0
+Plate ('35', 'b'): worklist=1, md=0
+Plate ('36', ''): worklist=0, md=1
+Plate ('36', 'a'): worklist=1, md=0
+Plate ('36', 'b'): worklist=1, md=0
+Plate ('37', ''): worklist=0, md=1
+Plate ('37', 'a'): worklist=1, md=0
+Plate ('37', 'b'): worklist=1, md=0
+Plate ('37', 'c'): worklist=1, md=0
+Plate ('38', ''): worklist=0, md=1
+Plate ('38', 'b'): worklist=1, md=0
+Plate ('4', ''): worklist=0, md=2
+Plate ('4', 'a'): worklist=1, md=0
+Plate ('4', 'b'): worklist=1, md=0
+Plate ('40', ''): worklist=0, md=1
+Plate ('40', 'a'): worklist=1, md=0
+Plate ('40', 'b'): worklist=1, md=0
+Plate ('42', ''): worklist=0, md=1
+Plate ('42', 'a'): worklist=1, md=0
+Plate ('42', 'b'): worklist=1, md=0
+Plate ('48', ''): worklist=0, md=1
+Plate ('48', 'a'): worklist=1, md=0
+Plate ('48', 'b'): worklist=1, md=0
+Plate ('48', 'c'): worklist=1, md=0
+Plate ('49', ''): worklist=0, md=1
+Plate ('49', 'a'): worklist=1, md=0
+Plate ('49', 'b'): worklist=1, md=0
+Plate ('5', ''): worklist=1, md=2
+Plate ('52', ''): worklist=0, md=1
+Plate ('52', 'a'): worklist=1, md=0
+Plate ('52', 'b'): worklist=1, md=0
+Plate ('53', ''): worklist=0, md=1
+Plate ('53', 'a'): worklist=1, md=0
+Plate ('53', 'b'): worklist=1, md=0
+Plate ('55', ''): worklist=0, md=1
+Plate ('55', 'a'): worklist=1, md=0
+Plate ('55', 'b'): worklist=1, md=0
+Plate ('57', ''): worklist=0, md=1
+Plate ('57', 'a'): worklist=1, md=0
+Plate ('57', 'b'): worklist=1, md=0
+Plate ('58', ''): worklist=0, md=1
+Plate ('58', 'a'): worklist=1, md=0
+Plate ('58', 'b'): worklist=1, md=0
+Plate ('59', ''): worklist=0, md=1
+Plate ('59', 'a'): worklist=1, md=0
+Plate ('59', 'b'): worklist=1, md=0
+Plate ('6', ''): worklist=1, md=2
+Plate ('61', ''): worklist=0, md=1
+Plate ('61', 'a'): worklist=1, md=0
+Plate ('61', 'b'): worklist=1, md=0
+Plate ('65', ''): worklist=0, md=1
+Plate ('65', 'a'): worklist=1, md=0
+Plate ('65', 'b'): worklist=1, md=0
+Plate ('68', ''): worklist=0, md=1
+Plate ('68', 'a'): worklist=1, md=0
+Plate ('68', 'b'): worklist=1, md=0
+Plate ('7', ''): worklist=1, md=2
+Plate ('8', ''): worklist=1, md=2
+Plate ('9', ''): worklist=1, md=2
+
+=== 仅在 Worklist_Plates.csv 中的条目 ===
+('49', 'a', 'Pellegrini', 'Allegory of the Education of the Crown Prince of the Palatinate')
+('31', 'b', 'Carlo Maratta', 'Sir Thomas Isham (Sir Gyles Isham, Bt, Lamport Hall) .')
+('48', 'd', 'Anonymous', 'Francesco Algarotti')
+('17', 'b', 'Claude Mellan', 'Vincenzo Giustiniani')
+('40', 'a', 'A. D. Gabbiani', 'A Group of Musicians')
+('27', 'b', 'Bernini', 'Louis XIV')
+('58', 'b', 'Alessandro Longhi', 'G. M. Sasso')
+('35', 'a', 'Rembrandt', 'Aristotle contemplating the bust of Homer')
+('23', 'a', 'Michelangelo Cerquozzi', 'Women’s Bath')
+('22', 'b', 'Michelangelo Cerquozzi', 'The Revolt of Masaniello')
+('26', 'a', 'Nanteuil', 'Cardinal Mazarin in his Gallery')
+('66', '', 'Baldassare Franceschini', 'Fame carrying the name of Louis XIV to the Temple of Immortality [Versailles)')
+('10', 'a', 'Pietro da Cortona', 'Rape of the Sabines')
+('10', 'b', 'Pietro da Cortona', 'Rape of Helen')
+('2', 'b', 'Bernini', 'Maffeo Barberini as Pope Urban VIII')
+('32', 'b', 'Paolo de Matteis', 'The choice of Hercules')
+('4', 'a', 'Van Dyck', 'Cardinal Bentivoglio')
+('59', 'b', 'Bernardino Castelli', 'Teodoro Correr')
+('1', '', 'Valentin', 'Allegory of Rome')
+('48', 'b', 'Gian Antonio Faldoni', 'Zaccaria Sagredo (from B. Nazari)')
+('11', 'a', 'Gio. Maria Bottalla', 'Meeting of Esau and Jacob')
+('48', 'a', 'Marco Pitteri', 'Flaminio Corner')
+('4', 'b', 'Pietro da Cortona', 'Marcello Sacchetti')
+('18', 'a', 'Pietro Testa', 'Rest on the Flight into Egypt')
+('68', 'a', 'Francesco Maggiotto', 'Three portraits of Doges [Private Collections)')
+('53', 'a', 'Piazzetta', 'Marshal Schulenburg')
+('57', 'a', 'Piazzetta', 'Final plate of Illustrations to Gerusalemme Liber ata, published by Albrizzi 1745, with portraits of Piazzetta and Albrizzi')
+('36', 'b', 'G. M. Crespi', 'Girl at her toilet')
+('65', 'a', 'Mola and Simonelli', 'Joint caricature of Simonelli and Mola 400 [formerly Vitale Bloch collection)')
+('17', 'a', 'Bernini', 'Caricature of Cassiano dal Pozzo')
+('30', 'a', 'Massimo Stanzione', 'Jerome Bankes')
+('57', 'b', 'Pietro Antonio Novelli', 'Frontispiece to Vol. 2 of Goldoni: Opere, published by Pasquali,')
+('2', 'a', 'Caravaggio', 'Maffeo Barberini')
+('19', 'a', 'Poussin', 'Moses trampling on Pharaoh’s crown')
+('37', 'b', 'G. M. Crespi', 'Detail from Fair at Poggio')
+('30', 'b', 'Carlo Dolci', 'Sir Thomas Baines')
+('37', 'a', 'G. M. Crespi', 'The Painter’s Family')
+('26', 'b', 'Romanelli', 'Romulus and Remus. Detail from ceiling of gallery in Bibliothèque Nationale')
+('9', '', 'Guido Abbatini', 'Frontispiece of Girolamo Teti: Aedes Barberinae ad Quirinalem, Rome 1642, with view of Palazzo Barberini')
+('49', 'b', 'Amigoni', 'Jupiter and Io')
+('68', 'b', 'Tiepolo (engraved Leonardis)', 'Maecenas presenting the Arts to Augustus')
+('61', 'b', 'Tiepolo', 'Banquet of Anthony and Cleopatra')
+('53', 'b', 'Amigoni', 'Sigismund Streit')
+('37', 'c', 'Baldassare Franceschini', '‘La Burla del Piovano Arlotto’')
+('33', 'a', 'Solimena', 'Dido and Aeneas')
+('3', 'b', 'Carlo Maratta', 'Cardinal Antonio Barberini')
+('19', 'b', 'Claude', 'View of Delphi with')
+('48', 'c', 'Alessandro Longhi', 'Carlo Lodoli')
+('23', 'b', 'Salvator Rosa', 'The Death of Regulus')
+('27', 'a', 'Francesco Fanelli', 'Charles I')
+('3', 'a', 'Ottavio Leoni', 'Cardinal Francesco Barberini')
+('55', 'b', 'Marco Ricci (engraved Bartolozzi)', 'Village Scene')
+('61', 'a', 'Tiepolo', 'Banquet of Anthony and Cleopatra')
+('21', 'a', 'Sassoferrato', 'Madonna of the Rosary with Saints Dominic and Catherine')
+('52', 'a', 'P. Van Bleek', 'Owen McSwiny')
+('22', 'a', 'Michelangelo Cerquozzi', 'The artist with a group of friends')
+('38', 'b', 'Sebastiano Ricci', 'Pan and Syrinx')
+('52', 'b', 'Canaletto, Cimaroli and Pittoni', 'Allegorical Tomb to the memory of Archbishop Tillotson')
+('17', 'c', 'Ottavio Leoni', 'Paolo Giordano Orsini, Duke of Bracciano')
+('55', 'a', 'Canaletto', 'Dedicatory frontispiece to Etchings')
+('28', 'b', 'Burnacini', 'The Elysian Fields from the opera La Monarchia Latina Trionfante, Vienna')
+('28', 'a', 'Guido Cagnacci', 'Death of Cleopatra')
+('59', 'a', 'Canova', 'Amadeo Swajer')
+('32', 'a', 'Ribera', 'The drunken Silenus')
+('58', 'a', 'Giuseppe Zocchi', 'A. M. Zanetti the Elder with Marchese Gerini')
+('65', 'b', 'Agostino Masucci', 'Mola painting the portrait of Pope Alexander VII [National Museum, Stockholm)')
+('40', 'b', 'GiannAntonio Fumiani', 'The stoning of Zechariah (Uffizi, Florence) ,')
+('42', 'a', 'Tiepolo', 'Neptune paying homage to Venice')
+('18', 'b', 'Poussin', 'Marriage')
+('42', 'b', 'Niccolo Bambini', 'Allegory of Venice')
+('35', 'b', 'Rubens', 'The Feast of Herod')
+('64', '', 'Francesco Guardi', 'View ofjohn Strange’s villa at Paese near Treviso [Private Collection, London)')
+('38', 'a', 'Sebastiano Ricci', 'Rape of Europa')
+('11', 'b', 'Pietro Testa', 'Joseph Sold by his Brothers')
+('67', '', 'G. M. Crespi', 'Jupiter handed over by Cybele to the Corybantes to be fed [Staatsgalerie, Stuttgart)')
+('36', 'a', 'Francesco Petrucci', 'Grand Prince Ferdinand of Tuscany')
+('21', 'b', 'Sassoferrato', 'Madonna and Child')
+
+=== 仅在 00_05_List_of_Plates.md 中的条目 ===
+('22', '', 'a Michelangelo Cerquozzi', 'The artist with a group of friends')
+('26', '', 'a Nanteuil', 'Cardinal Mazarin in his Gallery b Romanelli: Romulus and Remus. Detail from ceiling of gallery in Bibliothèque Nationale')
+('18', 'a', '; University Library, Cambridge', '9, 57a; Villani, Bologna: 28a; Eberhard Zwicker, Wiirzburg: 50.')
+('18', '', 'a Pietro Testa', 'Rest on the Flight into Egypt b Poussin: Marriage')
+('49', '', 'a Pellegrini', 'Allegory of the Education of the Crown Prince of the Palatinate')
+('1', '', '', 'Apollo, December 1963. 2 Waterhouse, 1971.')
+('61', '', 'a Tiepolo', 'Banquet of Anthony and Cleopatra')
+('12', '', '', 'The Enlightenment 317')
+('15', '', '', 'A new direction 361')
+('64', '', 'Francesco Guardi', 'View ofjohn Strange’s villa at Paese near Treviso')
+('53', '', 'a Piazzetta', 'Marshal Schulenburg')
+('48', '', 'a Marco Pitteri', 'Flaminio Corner')
+('13', '', '', 'Publishers and Connoisseurs 332')
+('40', '', 'a A. D. Gabbiani', 'A Group of Musicians')
+('55', '', 'a Canaletto', 'Dedicatory frontispiece to Etchings b Marco Ricci')
+('11', '', '', 'The foreign residents 299')
+('21', '', 'a Sassoferrato', 'Madonna of the Rosary with Saints Dominic and Catherine')
+('10', '', '', 'Foreign influences 276')
+('3', '', '', 'The religious orders 63')
+('38', 'a', ', 38b, 39, 40a; Steam and Son, Cambridge', '17b, 26a, 28b, 55, 56, 63; Turners of Cambridge: 3a, 17c,')
+('19', '', 'a Poussin', 'Moses trampling on Pharaoh’s crown')
+('1', '', '', 'Montaiglon, III, p. 240. 2 Gilmartin.')
+('65', '', 'a Mola and Simonelli', 'Joint caricature of Simonelli and Mola 400')
+('66', '', 'Baldassare Franceschini', 'Fame carrying the name of Louis XIV')
+('32', '', 'a Ribera', 'The drunken Silenus')
+('9', '', '', 'State, Nobility and Church 245')
+('67', '', 'G. M. Crespi', 'Jupiter handed over by Cybele to the Corybantes to')
+('48', 'd', ', 55b, 60, 62;R. B. Fleming', '46; JohnR. Freeman: 36a, 48a, 57b; Gabinetto Fotografico Naziotiale:')
+('36', '', 'a Francesco Petrucci', 'Grand Prince Ferdinand of Tuscany')
+('7', '', '', 'The intervention of Europe 169')
+('35', '', 'a Rembrandt', 'Aristotle contemplating the bust of Homer')
+('5', '', '', 'The wider public 120')
+('14', '', '', 'Francesco Algarotti 347')
+('8', '', '', 'The provincial scene 203')
+('38', '', 'a Sebastiano Ricci', 'Rape of Europa')
+('2', '', '', 'Pope Urban VIII and his entourage 24')
+('6', '', '', 'The decline of Roman patronage 146')
+('9', '', 'Guido Abbatini', 'Frontispiece of Girolamo Teti: Aedes Barberinae ad')
+('1700', '', '', ', in order to support the view that this was taken over by other parts of Italy, in particular Venice’. Waterhouse emphasised that ‘a number of the ablest painters in')
+('27', '', 'a Francesco Fanelli', 'Charles I')
+('17', '', 'a Bernini', 'Caricature of Cassiano dal Pozzo')
+('42', '', 'a Tiepolo', 'Neptune paying homage to Venice')
+('4', '', 'a Van Dyck', 'Cardinal Bentivoglio')
+('4', '', '', 'The private patrons 94')
+('28', '', 'a Guido Cagnacci', 'Death of Cleopatra')
+('23', '', 'a Michelangelo Cerquozzi', 'Women’s Bath')
+('33', '', 'a Solimena', 'Dido and Aeneas')
+('58', '', 'a Giuseppe Zocchi', 'A. M. Zanetti the Elder with Marchese Gerini')
+('3', '', '', 'Conforti, p. 557. 4 Pastor')
+('59', '', 'a Canova', 'Amadeo Swajer')
+('10', '', 'a Pietro da Cortona', 'Rape of the Sabines')
+('3', '', 'a Ottavio Leoni', 'Cardinal Francesco Barberini')
+('16', '', '', 'Dealers and petits bourgeois 373')
+('2', '', 'a Attributed to Caravaggio', 'Maffeo Barberini')
+('68', '', 'a Francesco Maggiotto', 'Three portraits of Doges [Private Collections)')
+('57', '', 'a Piazzetta', 'Final plate of Illustrations to Gerusalemme Liber ata, published by Albrizzi 1745, with portraits of Piazzetta and Albrizzi 344 b Pietro Antonio Novelli: Frontispiece to Vol. 2 of Goldoni: Opere, published by Pasquali, 1761')
+('17', '', '', 'The last patrons 379')
+('30', '', 'a Massimo Stanzione', 'Jerome Bankes')
+('52', '', 'a P. Van Bleek', 'Owen McSwiny')
+('37', '', 'a G. M. Crespi', 'The Painter’s Family')
