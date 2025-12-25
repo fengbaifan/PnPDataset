@@ -2,7 +2,7 @@ Refined_Formal_Name,Original-QID,Second-Query_QID,LLM-Fillin_QID,Second-Query_La
 A Dance to the Music of Time (Poussin),Q1392936,,,A Dance to the Music of Time
 A Donor Presented to the Virgin,Q123597533,,,A Donor Presented to the Virgin
 A Scene from the Aeneid,Q28093447,,,
-A Seaport,Q52242065,Q20536655,,A Seaport
+A Seaport,Q52242065,,,A Seaport
 A storm at sea,Q102961376,Q20020027,,A Storm at Sea
 A. E. Popham,Q709195,,,Arthur E. Popham
 A. N. L. Munby,Q3607762,,,Alan Noel Latimer Munby
@@ -15,15 +15,15 @@ Abbé Clément,Q84562933,,,Denis-Xavier Clément
 Abbé Richard,Q306915,,,Abbé Richard
 Abel Desjardins,Q2821500,,,Abel Desjardins
 "Abel-François Poisson, marquis de Marigny",Q65022270,,,"Abel Francois Poisson, Marquis de Marigny"
-Abigail,Q4416778,Q2769157,,Abigail
-Abigail giving Presents to David,,,,
+Abigail,Q4416778,,,Abigail
+The Meeting of David and Abigail,Q42310215,,,
 Abraham Brueghel,Q1824525,,,Abraham Brueghel
 Abraham Hume,Q17198983,,,Abraham Hume
 Abraham Nicolas Amelot de la Houssaye,Q2667383,,,Abraham Nicolas Amelot de la Houssaye
-Abruzzo,Q1284,Q37275433,,Abruzzo
+Abruzzo,Q1284,,,Abruzzo
 Academy of Fine Arts of Parma,Q3604017,,,Academy of Fine Arts of Parma
 Académie Française,Q161806,,,Académie Française
-Accademia Albrizziana,,,,
+Accademia Albrizziana, 阿尔布里齐学院 (Accademia Albrizziana),,,
 Accademia Carrara,Q338367,,,Accademia Carrara
 Accademia degli Umoristi,Q3603986,,,Accademia degli Umoristi
 Accademia dei Cacadubbi,,,,
@@ -132,7 +132,7 @@ Altarpiece for Chiesa Nuova,Q3842690,,,
 Altarpiece for Santa Maria dei Cappuccini,Q18573062,,,
 Altarpiece for St. Sebastian,Q65508996,,Q65508996,
 Altarpiece for the Augustinian Church,Q56558993,,Q56558993,
-Altarpieces for the Royal Chapel,,,,
+Royal Chapel of the Treasure of St. Januarius,Q3931105,,,
 Alte Pinakothek,Q154568,,,Alte Pinakothek
 Altero Matteoli,Q438845,,,Altero Matteoli
 Altieri (Family),Q21449562,,,Altieri
@@ -179,7 +179,7 @@ Andrea del Sarto,Q5571,,,Andrea del Sarto
 Andreas Scherber,Q500372,,,Andreas Scherber
 Andreina Griseri,Q93253370,,,Andreina Griseri
 Andrew Fountaine,Q4756994,Q75244499,,Andrew Fountaine
-Andromache weeping before Aeneas,,,,
+Andromache weeping before Aeneas（Giovanni Gioseffo dal Sole）,,,,
 André Félibien,Q518705,,,André Félibien
 Andrés Marzo,Q4760227,,,Andrés Marzo
 Angel with the Superscription,Q15181138,Q29026912,,Angel with the Superscription
@@ -527,7 +527,7 @@ Bust of Epicurus,Q125809381,Q131543691,,Bust of Epicurus
 Bust of Francis Bacon,Q154340,,,
 Bust of Louis XIV,Q2928781,,,Bust of Louis XIV
 Bust of Paolo Renier,Q663054,,,
-Bust of Phocion,Q121842052,,Q121842052,
+Bust of Phocion,Q121842052,,,
 Bust of Thomas Baker,Q5002075,,,Bust of Thomas Baker
 C. H. Collins Baker,Q18753443,,,C. H. Collins Baker
 Ca' Foscari,Q957551,,,Ca' Foscari
@@ -1160,7 +1160,7 @@ Flight of Aeneas from Troy,Q112227049,,,
 Flora,Q7904948,,,Flora
 Florence,Q2044,,,Florence
 Florence Cathedral (Duomo),Q191739,,,Florence Cathedral
-Fondamenta Foscarini,,,,
+Fondamenta Foscarini,Q110196230 ,,,
 Fondamenta delle Zattere,Q3747124,,,fondamenta delle Zattere
 Fondazione Giorgio Cini,Q1435690,,,Giorgio Cini Foundation
 Fondazione Musei Civici di Venezia,Q3747203,,,Fondazione Musei Civici di Venezia
@@ -3402,7 +3402,7 @@ The Woman Taken in Adultery,Q570163,,,The Woman Taken in Adultery
 The Worship of Venus,Q3743879,,,The Worship of Venus
 Theatinerkirche,Q2416322,,,Theatinerkirche
 Theatines,Q1414924,,,Theatines
-Third Colonnade for St. Peter's Square,,,,
+Third Colonnade for St. Peter's Square,---,,,“Third Colonnade for St. Peter's Square”（圣伯多禄广场第三柱廊）是 詹洛伦佐·贝尼尼（Gian Lorenzo Bernini） 原始设计方案中的一个未完成（从未建造）的设计构想。
 Thomas Baines,Q113518,,,Thomas Baines
 Thomas Baker,Q7787323,Q7787321,,Thomas Baker
 Thomas Buser,Q2422807,,,Thomas Buser
@@ -3418,8 +3418,8 @@ Thomas Martyn,Q2888459,,,Thomas Martyn
 Thomas Rowlandson,Q318584,,,Thomas Rowlandson
 Thomas Sydenham,Q559213,Q75269441,,Thomas Sydenham
 "Thomas Wharton, 1st Marquess of Wharton",Q3018066,,,"Thomas Wharton, 1st Marquess of Wharton"
-"Three Dominican Saints: Vincent, Hyacinth and Lawrence",,,,
-Three Portraits of Dogs,,,,
+Three Dominican Saints,Q131628772,,,
+The Three Eldest Children of Charles I,Q28026253,,,
 Thyrsus González de Santalla,Q646701,,,Thyrsus González de Santalla
 Tiber,Q13712,,,Tiber
 Tiberio Cenci,Q3528073,,,Tiberio Cenci
@@ -3675,7 +3675,7 @@ Santa Maria del Rosario ,Q17625057,,,Santa Maria del Rosario
 Giuseppe Bartolomeo Chiari,Q3107986,,,Giuseppe Bartolomeo Chiari
 Tommaso Chiari,Q52149250,,,Tommaso Chiari
 Parnassus,Q28034564,,,Parnassus
-God creating the Angels,,,,
+God creating the Angels,Q113334547,,,
 Justinus,Q112731172,,,Justinus
 Justin Martyr,Q185117,,,Justin Martyr
 Oratory/Church of Santa Cecilia,Q55178542,,,oratorio di Santa Cecilia
