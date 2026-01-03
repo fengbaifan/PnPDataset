@@ -1,0 +1,66 @@
+Name,QID,Source,Context,Match_Method
+Accademia Albrizziana（Palazzo Albrizzi）,Q3889518,Index,Location: Venice,Manual Correction
+Accademia degli Umoristi,Q3603986,Index,Location: Rome,Exact Match
+Accademia dei Lincei,Q3639657,Index,Location: Rome,Exact Match
+Accademia del Disegno（Accademia delle Arti del Disegno）,Q1760178,Index,Location: Florence,Manual Correction
+Accademia di Belle Arti di Parma,Q3604017,Index,Location:,Manual Correction
+Accademia di Pittura e Scultura（Accademia di Belle Arti di Venezia）,Q338505,Index,Location: Venice,Manual Correction
+Accademia di S. Luca,Q338523,Index,Location: Rome,Substitution Match
+Alticchiero (Querini villa),Q16621528,Index,Location:,Manual Correction
+Altieri palace,Q908759,Index,Location: Rome,Substitution Match
+Apostolic Palace,Q145093,Index,Location: Rome,Manual Correction
+Art Institute of Chicago Robert A. Waller Fund,Q239303,List of Plates,19 a Poussin: Moses trampling on Pharaoh’s crown (Louvre) b Claude: View of Delphi with a Procession (Art Institute of Chicago Robert A. Waller Fund),Substring Match (art institute of chicago)
+Barberini palace,Q1136614,Index,Location: ,Substitution Match
+"Barberini, Cardinal Antonio (brother to Urban VIII) (Cardinal di S. Onofrio)",Q131579,Index,Location: ,Substring Match (urban viii)
+Basilica of Saint Sabina,Q592244,List of Plates,"21 a Sassoferrato: Madonna of the Rosary with Saints Dominic and Catherine (S. Sabina, Rome) 126 b Sassoferrato: Madonna and Child (Galleria Nazionale, Rome)",Manual Correction
+Borghese Palace,Q3889704,Index,Location: Rome,Substitution Match
+British Museum,Q6373,List of Plates,46 Pellegrini: Pierre Motteux and his family (British Museum),Exact Match
+Ca' Pesaro,Q756807,Index,Location: Venice,Manual Correction
+Capitoline Museums,Q333906,List of Plates,"10 a Pietro da Cortona: Rape of the Sabines (Pinacoteca Capitolina, Rome)",Manual Correction
+Cibo palace,Q3889880,Index,Location: Rome,Substitution Match
+Clerici Palace,Q94998806,Index,Location: Milan,Substitution Match
+Colonna palace,Q1971299,Index,Location: Rome,Substitution Match
+Contarini villa,Q4231625,Index,Location: Mira,Substring Match (contarini)
+Farnese Palace,Q848386,Index,Location: Rome,Substitution Match
+Fitzwilliam Museum,Q1421440,List of Plates,"b Carlo Dolci: Sir Thomas Baines (Fitzwilliam Museum, Cambridge)",Exact Match
+Foscarini palace,Q124024161,Index,Location: ,Substitution Match
+French Academy in Rome,Q337494,Index,Location: ,Exact Match
+Galleria Nazionale d'Arte Antica,Q2266081,List of Plates,"21 a Sassoferrato: Madonna of the Rosary with Saints Dominic and Catherine (S. Sabina, Rome) 126 b Sassoferrato: Madonna and Child (Galleria Nazionale, Rome)",Manual Correction
+Galleria Spada,Q3757699,List of Plates,"22 a Michelangelo Cerquozzi: The artist with a group of friends (Kassel, Kunstsammlungen) b Michelangelo Cerquozzi: The Revolt of Masaniello (Galleria Spada, Rome)",Exact Match
+Gondi palace,Q1083014,Index,Location: Paris,Substitution Match
+Grassi collection,Q23038852,Index,Location: Venice,Substring Match (grassi)
+Kunsthistorisches Museum,Q95569,List of Plates,"28 a Guido Cagnacci: Death of Cleopatra (Kunsthistorisches Museum, Vienna) b Burnacini: The Elysian Fields from the opera La Monarchia Latina Trionfante, Vienna 1678",Exact Match
+Labia collection,Q1406501,Index,Location: Venice,Substring Match (labia)
+Louvre,Q908517,Both,19 a Poussin: Moses trampling on Pharaoh’s crown (Louvre) b Claude: View of Delphi with a Procession (Art Institute of Chicago Robert A. Waller Fund),Exact Match
+Manin palace,Q124029132,Index,Location: Venice,Substitution Match
+Marucelli Palace,Q3890107,Index,Location: Florence,Substitution Match
+Metropolitan Museum,Q160236,List of Plates,"34 Velasquez: Juan de Pareja (Metropolitan Museum, New York)",Manual Correction
+Montanari palace,Q3757774,Index,Location: Vicenza,Substitution Match
+"Munich, Nymphenburg palace",Q131631,Index,Location: ,Substring Match (nymphenburg palace)
+Museo Correr,Q1470912,List of Plates,"48 a Marco Pitteri: Flaminio Corner (from Giuseppe Angeli) b Gian Antonio Faldoni: Zaccaria Sagredo (from B. Nazari) (Museo Correr, Venice) c Alessandro Longhi: Carlo Lodoli (Museo Correr, Venice) d Anonymous: Francesco Algarotti (Museo Correr, Venice)",Exact Match
+Museo di Capodimonte,Q290549,List of Plates,"32 a Ribera: The drunken Silenus (Museo di Capodimonte, Naples')",Exact Match
+Museum Boijmans Van Beuningen,Q679527,List of Plates,"17 a Bernini: Caricature of Cassiano dal Pozzo (Museum Boy mans—van 104 Beuningen, Rotterdam) b Claude Mellan: Vincenzo Giustiniani c Ottavio Leoni: Paolo Giordano Orsini, Duke of Bracciano",Manual Correction
+National Gallery of Scotland,Q180788,List of Plates,b Rubens: The Feast of Herod (National Gallery of Scotland),Substring Match (national gallery)
+National Portrait Gallery,Q238587,List of Plates,"52 a P. Van Bleek: Owen McSwiny (National Portrait Gallery) b Canaletto, Cimaroli and Pittoni: Allegorical Tomb to the memory of Archbishop Tillotson (Peter Moores, Liverpool)",Exact Match
+North Carolina Museum of Art,Q1459878,List of Plates,"45 Pompeo Batoni: The Triumph of Venice (Collection os the North 264 Carolina Museum of Art, Raleigh. Samuel H. Kress Collection)",Manual Correction
+Oratorio,Q85477,Index,Location: Rome,Exact Match
+Palazzo Buonaccorsi Gallery of Ancient Art,Q109732673,List of Plates,"33 a Solimena: Dido and Aeneas (formerly Palazzo Buonaccorsi, Macerata) 216",Manual Correction
+Palazzo Ducale,Q1267721,Both,"42 a Tiepolo: Neptune paying homage to Venice (Palazzo Ducale, Venice)",Exact Match
+Palazzo Pitti,Q29286,List of Plates,"38 a Sebastiano Ricci: Rape of Europa (Palazzo Pitti, Florence)",Exact Match
+Palazzo Pitti,Q29286,List of Plates,"4 a Van Dyck: Cardinal Bentivoglio (Pitti, Florence)",Manual Correction
+Palazzo Zenobio,Q3891097,Index,Location: Venice,Manual Correction
+Palazzo dei Conservatori,Q64103,List of Plates,"(Palazzo dei Conservatori, Rome)",Exact Match
+Pamfili palace (Piazza Navona),Q463400,Index,Location: ,Substring Match (piazza navona)
+Pepoli palace,Q28772011,Index,Location: Bologna,Substitution Match
+Pisani palace,Q55166916,Index,Location: Venice,Substitution Match
+Pitti Palace,Q29286,Index,Location: Florence,Substitution Match
+Riccardi palace,Q89522223,Index,Location: Florence,Manual Correction
+Royal Collection,Q1459037,Index,Location: ,Exact Match
+Sandi palace,Q18763351,Index,Location: Venice,Exact Match
+Scuola Grande di San Rocco,Q1270723,Index,Location: Venice,Manual Correction
+Uffizi Gallery,Q51252,List of Plates,"b G. M. Crespi: Girl at her toilet (Uffizi, Florence)",Manual Correction
+Villa Borghese,Q3558478,List of Plates,"b Pietro da Cortona: Marcello Sacchetti (Villa Borghese, Rome)",Exact Match
+Villa Pisani,Q514069,List of Plates,"44 Tiepolo: Glorification of the Pisani family (Villa Pisani, Stra)",Exact Match
+Virginia Museum of Fine Arts Williams Fund,Q4013975,List of Plates,"23 a Michelangelo Cerquozzi: Women’s Bath (Incisa della Rocchetta, Rome) b Salvator Rosa: The Death of Regulus (Virginia Museum of Fine Arts Williams Fund)",Substring Match (virginia museum of fine arts)
+Wallraf-Richartz Museum,Q700959,List of Plates,"54 Piazzetta: Idyll (Wallraf-Richartz Museum, Cologne)",Exact Match
+Widmann palace,Q21198018,Index,Location: Venice,Substitution Match
