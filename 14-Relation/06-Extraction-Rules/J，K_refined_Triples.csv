@@ -1,0 +1,18 @@
+﻿Subject,Subject QID,Predicate,Object,Object QID,Source_Raw
+Jesuits,/,sponsored,characteristics of their art,/,5
+Jesuits,/,located_in,Rome,/,6
+Jesuits,/,located_in,Venice,/,7
+Jesuits,/,located_in,Venice,/,8
+Jesuits,/,sponsored,hostility of Gesuati,/,8
+"Johann Wilhelm, Elector Palatinate",/,collaborated_on,Pellegrini,/,11
+"Johann Wilhelm, Elector Palatinate",/,sponsored,Flemish,/,12
+"Johann Wilhelm, Elector Palatinate",/,sponsored,Dutch,/,12
+"Johann Wilhelm, Elector Palatinate",/,sponsored,Italian old masters in collection,/,12
+"Johann Wilhelm, Elector Palatinate",/,sponsored,patronage of Dutch artists,/,13
+"Johann Wilhelm, Elector Palatinate",/,sponsored,patronage of Italian artists,/,14
+"Johann Wilhelm, Elector Palatinate",/,sponsored,taste in painting,/,15
+"Johann Wilhelm, Elector Palatinate",/,sponsored,Van Dyck and Rubens paintings in collection,/,16
+as artistic director in Turin,/,located_in,Turin,/,25
+"Juvarra, Filippo",/,sponsored,as artistic director in Turin,/,25
+scheme for decorating Royal Palace in Madrid,/,located_in,Madrid,/,26
+"Juvarra, Filippo",/,sponsored,scheme for decorating Royal Palace in Madrid,/,26

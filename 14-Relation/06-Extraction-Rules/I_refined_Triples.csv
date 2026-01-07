@@ -1,0 +1,8 @@
+﻿Subject,Subject QID,Predicate,Object,Object QID,Source_Raw
+Illustrated books,/,located_in,Venice,/,2
+Illustrated books,/,sponsored,published in 18th century,/,2
+Indecency in art,/,sponsored,attempts to suppress in reign of Pope Innocent XI,/,6
+"Innocent X, Pope",/,refer_to,"Pamfili, Giambattista",/,7
+"Innocent XI, Pope",/,refer_to,"Odescalchi, Benedetto",/,8
+"Innocent XII, Pope",/,refer_to,"Pignatelli, Antonio",/,9
+"Innocent XIII, Pope",/,refer_to,"Conti, Michelangelo",/,10

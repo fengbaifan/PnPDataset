@@ -1,0 +1,106 @@
+Plate_ID,Sub_ID,Artist,Artist_QID,Title_Description,Title_QID,Location,Location_QID
+1,,Valentin,Q1337275,Allegory of Rome,Q108758158,"Finnish Institute, Rome",
+2,a,Caravaggio,Q42207,Maffeo Barberini,Q16596970,"Private Collection, Florence",
+2,b,Bernini,Q712397,Maffeo Barberini as Pope Urban VIII,,"Palazzo dei Conservatori, Rome",Q64103
+3,a,Ottavio Leoni,Q389768,Cardinal Francesco Barberini,Q2662344,,
+3,b,Carlo Maratta,Q538998,Cardinal Antonio Barberini,,"Duke of Northumberland, Alnwick Castle",
+4,a,Van Dyck,Q150679,Cardinal Bentivoglio,,"Pitti, Florence",
+4,b,Pietro da Cortona,Q333323,Marcello Sacchetti,Q6087600,"Villa Borghese, Rome",Q3558478
+5,,Bernini,Q712397,Cardinal Scipione Borghese,,"Villa Borghese, Rome",Q3558478
+6,,Guglielmo Baur,Q3119268,View ofVilla Borghese in 1630,,"Villa Borghese, Rome",Q3558478
+7,,Domenichino,Q320118,Hunt of Diana,,"Villa Borghese, Rome",Q3558478
+8,,Matteo Castelli,Q1909346,"Barberini Chapel in S. Andrea della Valle, Rome",,,
+9,,Guido Abbatini,Q282810,"Frontispiece of Girolamo Teti: Aedes Barberinae ad Quirinalem, Rome 1642, with view of Palazzo Barberini",,,
+10,a,Pietro da Cortona,Q333323,Rape of the Sabines,,"Pinacoteca Capitolina, Rome",
+10,b,Pietro da Cortona,Q333323,Rape of Helen,,"Ufficio dell’Assessore Comunale alle Belle Arti, Rome",Q109927986
+11,a,Gio. Maria Bottalla,Q10289899,Meeting of Esau and Jacob,,"Pinacoteca Capitolina, Rome",
+11,b,Pietro Testa,Q2155480,Joseph Sold by his Brothers,Q59710099,"Pinacoteca Capitolina, Rome",
+12,,Andrea Sacchi,Q495008,Allegory of Divine Wisdom,Q111821593,"Palazzo Barberini, Rome",Q1136614
+13,,Pietro da Cortona,Q333323,Glorification of the Reign of Urban VIII,,"Palazzo Barberini, Rome",Q1136614
+14,,Giovanni Battista Gaulli,Q520573,Triumph of The Name of Jesus,Q54647365,"Gesù, Rome",
+15,,Andrea Pozzo,Q380103,"Modello for fresco on vault of S. Ignazio, Rome",,"Galleria Nazionale, Rome",Q772890
+16,,Bernini,Q712397,"Interior of S. Andrea al Quirinale, Rome",,,
+17,a,Bernini,Q712397,Caricature of Cassiano dal Pozzo,,"Museum Boy mans—van 104 Beuningen, Rotterdam",
+17,b,Claude Mellan,Q1274026,Vincenzo Giustiniani,Q4013311,,
+17,c,Ottavio Leoni,Q389768,"Paolo Giordano Orsini, Duke of Bracciano",,,
+18,a,Pietro Testa,Q2155480,Rest on the Flight into Egypt,Q60469737,,
+18,b,Poussin,Q41554,Marriage,Q26511045,"Duke of Rutland, Belvoir Castle",
+19,a,Poussin,Q41554,Moses trampling on Pharaoh’s crown,,Louvre,Q908517
+19,b,Claude,Q1274026,View of Delphi with,Q20274952,,
+20,,Velasquez,Q297,Camillo Massimi,Q1081418,"Ralph Bankes, Kingston Lacy",
+21,a,Sassoferrato,Q124886,Madonna of the Rosary with Saints Dominic and Catherine,,"S. Sabina, Rome",
+21,b,Sassoferrato,Q124886,Madonna and Child,Q106868029,"Galleria Nazionale, Rome",Q772890
+22,a,Michelangelo Cerquozzi,Q979862,The artist with a group of friends,Q171861,"Kassel, Kunstsammlungen",
+22,b,Michelangelo Cerquozzi,Q979862,The Revolt of Masaniello,,"Galleria Spada, Rome",Q3757699
+23,a,Michelangelo Cerquozzi,Q979862,Women’s Bath,,"Incisa della Rocchetta, Rome",
+23,b,Salvator Rosa,Q359421,The Death of Regulus,Q77877582,Virginia Museum of Fine Arts Williams Fund,Q4013975
+24,,Salvator Rosa,Q359421,Fortune,Q20087469,Duke of Beaufort,Q7585516
+25,,Orazio Gentileschi,Q367360,Public Felicity triumphant over Dangers,Q18572437,Louvre,Q908517
+26,a,Nanteuil,Q1356084,Cardinal Mazarin in his Gallery,,,
+26,b,Romanelli,Q2983846,Romulus and Remus. Detail from ceiling of gallery in Bibliothèque Nationale,,formerly Palais Mazarin,
+27,a,Francesco Fanelli,Q3749954,Charles I,Q36174,"Miss Daphne Ionides, London",
+27,b,Bernini,Q712397,Louis XIV,Q5502515,Versailles,Q2946
+28,a,Guido Cagnacci,Q2449649,Death of Cleopatra,Q135892996,"Kunsthistorisches Museum, Vienna",Q95569
+28,b,Burnacini,Q3836364,"The Elysian Fields from the opera La Monarchia Latina Trionfante, Vienna",,,
+29,,Antonio Verrio,Q2305594,Fresco on staircase of Hampton Court Palace 200,,reproduced by gracious permission of Her Majesty the Queen,
+30,a,Massimo Stanzione,Q982384,Jerome Bankes,Q76240509,"Ralph Bankes, Kingston Lacy",
+30,b,Carlo Dolci,Q503322,Sir Thomas Baines,Q96091169,"Fitzwilliam Museum, Cambridge",
+31,a,Carlo Maratta,Q538998,Charles Fox,Q477723,The Earl of Ilchester,
+31,b,Carlo Maratta,Q538998,"Sir Thomas Isham (Sir Gyles Isham, Bt, Lamport Hall) .",,,
+32,a,Ribera,Q297838,The drunken Silenus,Q17652393,"Museo di Capodimonte, Naples'",Q290549
+32,b,Paolo de Matteis,Q1851224,The choice of Hercules,Q118993578,"Temple Newsam, Leeds'",
+33,a,Solimena,Q736065,Dido and Aeneas,Q28093447,"formerly Palazzo Buonaccorsi, Macerata",
+34,,Velasquez,Q297,Juan de Pareja,Q1352058,"Metropolitan Museum, New York",Q160236
+35,a,Rembrandt,Q5598,Aristotle contemplating the bust of Homer,,"Metropolitan Museum of Art, New York. Purchase, various funds and donors, 1961",
+35,b,Rubens,Q5599,The Feast of Herod,Q27955591,National Gallery of Scotland,Q214867
+36,a,Francesco Petrucci,Q27507162,Grand Prince Ferdinand of Tuscany,,,
+36,b,G. M. Crespi,Q528620,Girl at her toilet,Q18177817,"Uffizi, Florence",
+37,a,G. M. Crespi,Q528620,The Painter’s Family,Q23935763,"Uffizi, Florence",
+37,b,G. M. Crespi,Q528620,Detail from Fair at Poggio,,,
+37,c,Baldassare Franceschini,Q2403504,‘La Burla del Piovano Arlotto’,,"Uffizi, Florence",
+38,a,Sebastiano Ricci,Q26878812,Rape of Europa,Q18002417,"Palazzo Pitti, Florence",
+38,b,Sebastiano Ricci,Q26878812,Pan and Syrinx,Q55412120,"Palazzo Pitti, Florence",
+39,,Sebastiano Ricci,Q26878812,Venus and Adonis,Q603703,"Palazzo Pitti, Florence",
+40,a,A. D. Gabbiani,Q1083096,A Group of Musicians,,"Palazzo Pitti, Florence",
+40,b,GiannAntonio Fumiani,Q1432600,"The stoning of Zechariah (Uffizi, Florence) ,",,,
+42,a,Tiepolo,Q186202,Neptune paying homage to Venice,Q47012750,"Palazzo Ducale, Venice",
+42,b,Niccolo Bambini,Q1111424,Allegory of Venice,Q50947952,"Ca’ Pesaro, Venice",
+43,,Tiepolo,Q186202,Marriage Allegory of the Rezzonico family,,"Ca Rezzonico, Venice",
+44,,Tiepolo,Q186202,Glorification of the Pisani family,,"Villa Pisani, Stra",Q514069
+45,,Pompeo Batoni,Q505613,The Triumph of Venice,Q121493619,"Collection os the North 264 Carolina Museum of Art, Raleigh. Samuel H. Kress Collection",
+46,,Pellegrini,Q1358364,Pierre Motteux and his family,,British Museum,Q6373
+47,,Marco Ricci,Q930162,An Operatic Rehearsal,,"Sir Watkin Williams-Wynn, Bt, St Asaph",
+48,a,Marco Pitteri,Q48879573,Flaminio Corner,Q3746370,from Giuseppe Angeli,Q378182
+48,b,Gian Antonio Faldoni,Q27493848,Zaccaria Sagredo (from B. Nazari),,"Museo Correr, Venice",
+48,c,Alessandro Longhi,Q1855242,Carlo Lodoli,Q601642,"Museo Correr, Venice",
+48,d,Anonymous,,Francesco Algarotti,Q439081,"Museo Correr, Venice",
+49,a,Pellegrini,Q1358364,Allegory of the Education of the Crown Prince of the Palatinate,,"Bayerischen Staatsgemaldesammlungen, Munich",
+49,b,Amigoni,Q380897,Jupiter and Io,Q119637439,Moor Park,Q3862780
+50,,Tiepolo,Q186202,"Detail from fresco on ceiling of staircase in Residenz, Wurzburg",,,
+51,,Canaletto,Q182664,"View from Badminton, 1748",,Duke of Beaufort,Q7585516
+52,a,P. Van Bleek,Q2079286,Owen McSwiny,Q5102690,National Portrait Gallery,Q238587
+52,b,"Canaletto, Cimaroli and Pittoni",Q182664,Allegorical Tomb to the memory of Archbishop Tillotson,,"Peter Moores, Liverpool",
+53,a,Piazzetta,Q10510932,Marshal Schulenburg,,"Castello Sforzesco, Milan",Q3662375
+53,b,Amigoni,Q380897,Sigismund Streit,Q90687,"Gymnasium zu Grauen Kloster, Berlin",Q328971
+54,,Piazzetta,Q10510932,Idyll,Q17324901,"Wallraf-Richartz Museum, Cologne",Q700959
+55,a,Canaletto,Q182664,Dedicatory frontispiece to Etchings,,,
+55,b,Marco Ricci (engraved Bartolozzi),Q930162,Village Scene,Q27897774,,
+56,,Marieschi,Q2501578,"Picture Exhibition at Church of S. Rocco, Venice",,,
+57,a,Piazzetta,Q10510932,"Final plate of Illustrations to Gerusalemme Liber ata, published by Albrizzi 1745, with portraits of Piazzetta and Albrizzi",,,
+57,b,Pietro Antonio Novelli,Q1718478,"Frontispiece to Vol. 2 of Goldoni: Opere, published by Pasquali,",,,
+58,a,Giuseppe Zocchi,Q1528741,A. M. Zanetti the Elder with Marchese Gerini,,"Museo Correr, Venice",
+58,b,Alessandro Longhi,Q1855242,G. M. Sasso,,"Museo Correr, Venice",
+59,a,Canova,Q5547,Amadeo Swajer,Q3613921,"Museo Correr, Venice",
+59,b,Bernardino Castelli,Q3638702,Teodoro Correr,Q2403974,"Museo Correr, Venice",
+60,,G. Volpato,Q3107516,Mourners at Tomb of Francesco Algarotti in Pisa,,,
+61,a,Tiepolo,Q186202,Banquet of Anthony and Cleopatra,,"Musée Cognacq-Jay, 360 Paris",
+61,b,Tiepolo,Q186202,Banquet of Anthony and Cleopatra,,"National Gallery of Victoria, Felton Bequest, Melbourne",
+62,,Canaletto,Q182664,"Prato della Valle, Padua",Q2636862,,
+63,,Domenico Cerato,Q3712960,Original proposals for reclaiming Prato della Valle,,,
+64,,Francesco Guardi,Q318769,"View ofjohn Strange’s villa at Paese near Treviso [Private Collection, London)",,,
+65,a,Mola and Simonelli,Q1192715,Joint caricature of Simonelli and Mola 400 [formerly Vitale Bloch collection),,,
+65,b,Agostino Masucci,Q395680,"Mola painting the portrait of Pope Alexander VII [National Museum, Stockholm)",,,
+66,,Baldassare Franceschini,Q2403504,Fame carrying the name of Louis XIV to the Temple of Immortality [Versailles),,,
+67,,G. M. Crespi,Q528620,"Jupiter handed over by Cybele to the Corybantes to be fed [Staatsgalerie, Stuttgart)",,,
+68,a,Francesco Maggiotto,Q3080993,Three portraits of Doges [Private Collections),,,
+68,b,Tiepolo (engraved Leonardis),Q186202,Maecenas presenting the Arts to Augustus,Q12123145,,

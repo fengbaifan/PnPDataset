@@ -1,0 +1,152 @@
+﻿Subject,Subject QID,Predicate,Object,Object QID,Source_Raw
+Accademia Albrizziana,/,located_in,Venice,/,1
+Accademia degli Umoristi,/,located_in,Rome,/,2
+Accademia dei Lincei,/,located_in,Rome,/,3
+Accademia del Disegno,/,located_in,Florence,/,4
+Accademia di Pittura e Scultura,/,located_in,Venice,/,5
+Accademia di Pittura e Scultura,/,located_in,Venice,/,6
+Accademia di Pittura e Scultura,/,sponsored,art exhibitions,/,6
+Accademia di S. Luca,/,located_in,Rome,/,7
+Accademia di S. Luca,/,located_in,Rome,/,8
+Cardinal Francesco Barberini,/,sponsored,Accademia di S. Luca,/,8
+Accademia di S. Luca,/,located_in,Rome,/,9
+Accademia di S. Luca,/,sponsored,powers of taxation,/,9
+"Adam, Robert",/,collaborated_on,G. Albrizzi,/,13
+"Adami, Luigi",/,sponsored,collection of portraits of distinguished men,/,15
+"Albani, Gianfrancesco",/,is,Pope Clement XI,/,22
+"Albrizzi, Giambattista",/,sponsored,edition of works of Bossuet,/,26
+"Albrizzi, Giambattista",/,sponsored,employment of Piazzetta,/,27
+"Albrizzi, Giambattista",/,sponsored,Il Forestiere Illuminato,/,28
+"Albrizzi, Giambattista",/,sponsored,private collection,/,29
+publication of gems in A. M. Zanetti's collection,/,located_in,A. M. Zanetti,/,30
+"Albrizzi, Giambattista",/,sponsored,publication of gems in A. M. Zanetti's collection,/,30
+"Aldobrandini, Ippolito",/,is,Pope Clement VIII,/,31
+"Aldobrandini, Cardinal Pietro",/,is,nephew of Pope Clement VIII,/,32
+"Aldobrandini, Cardinal Pietro",/,is,nephew of Pope Clement VIII,/,33
+"Aldobrandini, Cardinal Pietro",/,sponsored,Titian Bacchanal and Worship of Venus,/,33
+Alexander VII,/,refer_to,"Chigi, Fabio",/,34
+Alexander VIII,/,refer_to,"Ottoboni, Pietro",/,35
+"Algardi, Alessandro",/,created,bust of Donna Olimpia Maidalchini,/,37
+"Algardi, Alessandro",/,created,bust of Pope Innocent X,/,38
+"Algardi, Alessandro",/,sponsored,Hercules,/,39
+"Algardi, Alessandro",/,sponsored,Mazarin invitation to Paris,/,40
+"Algardi, Alessandro",/,created,villa for Prince Camillo Pamfili,/,41
+villa for Prince Camillo Pamfili,/,intended_for,Prince Camillo Pamfili,/,41
+"Algarotti, Francesco",/,sponsored,allowance from Filippo Farsetti,/,44
+"Algarotti, Francesco",/,collaborated_on,Canaletto,/,45
+"Algarotti, Francesco",/,collaborated_on,Canaletto,/,46
+"Algarotti, Francesco",/,sponsored,commission of views of Grand Canal as Palladio might have designed it,/,46
+"Algarotti, Francesco",/,collaborated_on,Count Br¨¹hl,/,47
+"Algarotti, Francesco",/,collaborated_on,Antonio Conti,/,48
+"Algarotti, Francesco",/,collaborated_on,Frederick the Great,/,49
+"Algarotti, Francesco",/,collaborated_on,Carlo Lodoli,/,50
+"Algarotti, Francesco",/,collaborated_on,neo-Palladianism,/,51
+"Algarotti, Francesco",/,sponsored,attitude to Palladian architecture,/,52
+"Algarotti, Francesco",/,collaborated_on,Piazzetta,/,53
+"Algarotti, Francesco",/,collaborated_on,Tiepolo,/,54
+"Algarotti, Francesco",/,collaborated_on,Tiepolo,/,55
+"Algarotti, Francesco",/,sponsored,influence on Tiepolo,/,55
+"Algarotti, Francesco",/,sponsored,Tiepolo's influence on,/,55
+"Algarotti, Francesco",/,collaborated_on,Tiepolo,/,56
+"Algarotti, Francesco",/,sponsored,personal commissions to Tiepolo,/,56
+"Algarotti, Francesco",/,collaborated_on,Tiepolo,/,57
+"Algarotti, Francesco",/,sponsored,unfinished Tiepolo portrait of,/,57
+"Algarotti, Francesco",/,sponsored,appraisal of Venetian artists,/,58
+"Algarotti, Francesco",/,sponsored,bequest to Elder Pitt,/,59
+"Algarotti, Francesco",/,sponsored,commissioning of architectural fantasies from P. Pesci,/,60
+"Algarotti, Francesco",/,sponsored,commissioning of architectural fantasies from M. Tesi,/,60
+"Algarotti, Francesco",/,sponsored,conflict between his taste for fantasy,/,61
+"Algarotti, Francesco",/,sponsored,conflict between his taste for neo-classicism,/,61
+"Algarotti, Francesco",/,sponsored,dispersal of own collection,/,62
+"Algarotti, Francesco",/,sponsored,early tastes in painting,/,63
+"Algarotti, Francesco",/,sponsored,eclectic tastes,/,64
+encouragement of foreign artists to study in Italy,/,located_in,Italy,/,65
+"Algarotti, Francesco",/,sponsored,encouragement of foreign artists to study in Italy,/,65
+"Algarotti, Francesco",/,sponsored,family collection of pictures,/,66
+in Berlin and Potsdam,/,located_in,Berlin,/,67
+in Berlin and Potsdam,/,located_in,Potsdam,/,67
+"Algarotti, Francesco",/,sponsored,in Berlin and Potsdam,/,67
+in Bologna,/,located_in,Bologna,/,68
+"Algarotti, Francesco",/,sponsored,in Bologna,/,68
+interest in Newton's discoveries as applied to painting,/,located_in,Newton,/,69
+"Algarotti, Francesco",/,sponsored,interest in Newton's discoveries as applied to painting,/,69
+"Algarotti, Francesco",/,sponsored,letters from Rome,/,70
+"Algarotti, Francesco",/,created,monument erected by Frederick the Great,/,71
+"Algarotti, Francesco",/,sponsored,Newtonianismo per le Dame,/,72
+"Algarotti, Francesco",/,sponsored,plan for extending Dresden gallery,/,73
+"Algarotti, Francesco",/,sponsored,plan for extending Dresden gallery,/,74
+"Algarotti, Francesco",/,sponsored,commissioning of works by living artists,/,74
+"Algarotti, Francesco",/,created,purchases of pictures for Augustus III,/,75
+purchases of pictures for Augustus III,/,intended_for,Augustus III,/,75
+"Algarotti, Francesco",/,sponsored,Saggio sopra la Pittura,/,76
+"Algarotti, Francesco",/,sponsored,scholarly approach to art,/,77
+"Algarotti, Francesco",/,sponsored,taste for the picturesque,/,78
+"Algarotti, Francesco",/,sponsored,temperament,/,79
+"Algarotti, Francesco",/,sponsored,temperament,/,80
+"Algarotti, Francesco",/,sponsored,homosexual tendencies,/,80
+"Algarotti, Francesco",/,created,views on the arts,/,81
+"Algarotti, Francesco",/,sponsored,visits to Paris,/,82
+"Algarotti, Francesco",/,sponsored,visits to London,/,82
+"Algarotti, Francesco",/,sponsored,visits to Venice,/,83
+"Algarotti, Francesco",/,sponsored,visits to Venice,/,84
+"Algarotti, Francesco",/,sponsored,1743-5,/,84
+"Algarotti, Francesco",/,sponsored,visits to Venice,/,85
+"Algarotti, Francesco",/,sponsored,1753,/,85
+Alticchiero,/,is,Querini villa,/,88
+"Altieri, Emilio",/,is,Pope Clement X,/,89
+"Altieri, Emilio",/,is,Pope Clement X,/,90
+"Altieri, Emilio",/,sponsored,financial difficulties,/,90
+Altieri palace,/,located_in,Rome,/,92
+"Ameyden, Dirk",/,sponsored,Relatione della citt¨¤ di Roma 1642,/,95
+"Amigoni, Jacopo",/,sponsored,Bathsheba,/,97
+"Amigoni, Jacopo",/,sponsored,Jupiter,/,98
+"Amigoni, Jacopo",/,sponsored,Io,/,98
+"Amigoni, Jacopo",/,sponsored,Lot and his Daughters,/,99
+"Amigoni, Jacopo",/,sponsored,'Portrait of Farinelli',/,100
+"Amigoni, Jacopo",/,created,portrait of Sigismund Streit,/,101
+"Amigoni, Jacopo",/,sponsored,Sacrifice of Isaac,/,102
+"Amigoni, Jacopo",/,sponsored,Solomon adoring the Idols,/,103
+work in England,/,located_in,England,/,104
+"Amigoni, Jacopo",/,created,work in England,/,104
+"Andreosi, Francesco",/,created,statue of Antenor for Pr¨¤ della Valle,/,106
+statue of Antenor for Pr¨¤ della Valle,/,intended_for,Pr,/,106
+"Angeli, Filippo d'",/,is,Napoletano,/,107
+"Arcadia, Society of",/,located_in,Rome,/,116
+Ariosto,/,sponsored,Orlando Furioso,/,119
+"Arrighi-Landini, Orazio",/,sponsored,Tempio della Filosofia,/,125
+Art dealers,/,located_in,Rome,/,127
+Art dealers,/,located_in,Venice,/,128
+Art exhibitions,/,located_in,Florence,/,129
+Art exhibitions,/,located_in,Florence,/,130
+Art exhibitions,/,sponsored,Grand Prince Ferdinand de' Medici and,/,130
+Art exhibitions,/,located_in,Rome,/,131
+Art exhibitions,/,located_in,Rome,/,132
+Art exhibitions,/,sponsored,influence on trends of painting in the 17th century,/,132
+Art exhibitions,/,located_in,Rome,/,133
+Art exhibitions,/,sponsored,Pantheon,/,133
+Art exhibitions,/,located_in,Rome,/,134
+Art exhibitions,/,sponsored,S. Bartolommeo,/,134
+Art exhibitions,/,located_in,Rome,/,135
+Art exhibitions,/,sponsored,San Giovanni Decollato,/,135
+Art exhibitions,/,located_in,Rome,/,136
+San Salvatore in Lauro,/,located_in,Lauro,/,136
+Art exhibitions,/,sponsored,San Salvatore in Lauro,/,136
+Art exhibitions,/,located_in,Venice,/,137
+Art exhibitions,/,located_in,Venice,/,138
+Art exhibitions,/,sponsored,Academy,/,138
+Art exhibitions,/,located_in,Venice,/,139
+Art exhibitions,/,sponsored,Piazza S. Marco,/,139
+Art exhibitions,/,located_in,Venice,/,140
+Art exhibitions,/,sponsored,Scuola di San Rocco,/,140
+Augustus II of Poland,/,is,"Frederick Augustus I, Elector of Saxony",/,148
+Augustus II of Poland,/,is,"Frederick Augustus I, Elector of Saxony",/,149
+Augustus II of Poland,/,sponsored,patronage of Venetian artists,/,149
+Augustus III of Poland,/,is,"Frederick Augustus II, Elector of Saxony",/,150
+Augustus III of Poland,/,is,"Frederick Augustus II, Elector of Saxony",/,151
+Augustus III of Poland,/,sponsored,F. Algarotti and,/,151
+Augustus III of Poland,/,is,"Frederick Augustus II, Elector of Saxony",/,152
+Augustus III of Poland,/,collaborated_on,Rosalba Carriera,/,152
+Augustus III of Poland,/,is,"Frederick Augustus II, Elector of Saxony",/,153
+Augustus III of Poland,/,sponsored,Dresden Gallery,/,153
+Augustus III of Poland,/,is,"Frederick Augustus II, Elector of Saxony",/,154
+Augustus III of Poland,/,created,pictures from collections of Dukes of Modena,/,154

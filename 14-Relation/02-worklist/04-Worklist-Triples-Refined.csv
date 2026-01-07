@@ -1,0 +1,302 @@
+﻿序号,主体 (Subject),主体 QID,谓语 (Predicate),客体 (Object),客体 QID,Source_Row
+1,Allegory of Rome,Q108758158,created,Valentin,Q1337275,2
+2,Allegory of Rome,Q108758158,is located in,Finnish Institute,/,2
+3,Finnish Institute,/,is located in,Rome,/,2
+4,Maffeo Barberini,Q16596970,created,Caravaggio,Q42207,3
+5,Maffeo Barberini,Q16596970,is located in,Private Collection,/,3
+6,Private Collection,/,is located in,Florence,/,3
+7,Maffeo Barberini as Pope Urban VIII,/,created,Bernini,Q712397,4
+8,Maffeo Barberini as Pope Urban VIII,/,is located in,Palazzo dei Conservatori,Q64103,4
+9,Palazzo dei Conservatori,/,is located in,Rome,/,4
+10,Cardinal Francesco Barberini,Q2662344,created,Ottavio Leoni,Q389768,5
+11,Cardinal Antonio Barberini,/,created,Carlo Maratta,Q538998,6
+12,Cardinal Antonio Barberini,/,is located in,Duke of Northumberland,/,6
+13,Duke of Northumberland,/,is located in,Alnwick Castle,/,6
+14,Cardinal Bentivoglio,/,created,Van Dyck,Q150679,7
+15,Cardinal Bentivoglio,/,is located in,Pitti,/,7
+16,Pitti,/,is located in,Florence,/,7
+17,Marcello Sacchetti,Q6087600,created,Pietro da Cortona,Q333323,8
+18,Marcello Sacchetti,Q6087600,is located in,Villa Borghese,Q3558478,8
+19,Villa Borghese,/,is located in,Rome,/,8
+20,Cardinal Scipione Borghese,/,created,Bernini,Q712397,9
+21,Cardinal Scipione Borghese,/,is located in,Villa Borghese,Q3558478,9
+22,Villa Borghese,/,is located in,Rome,/,9
+23,View ofVilla Borghese in 1630,/,created,Guglielmo Baur,Q3119268,10
+24,View ofVilla Borghese in 1630,/,is located in,Villa Borghese,Q3558478,10
+25,Villa Borghese,/,is located in,Rome,/,10
+26,Hunt of Diana,/,created,Domenichino,Q320118,11
+27,Hunt of Diana,/,is located in,Villa Borghese,Q3558478,11
+28,Villa Borghese,/,is located in,Rome,/,11
+29,Barberini Chapel in S. Andrea della Valle,/,is located in,Rome,/,12
+30,Barberini Chapel,/,created,Matteo Castelli,Q1909346,12
+31,Barberini Chapel,/,is located in,S. Andrea della Valle,/,12
+32,Barberini Chapel,/,depicts,Barberini Chapel in S. Andrea della Valle,/,12
+33,Barberini Chapel in S. Andrea della Valle,/,is located in,S. Andrea della Valle,/,12
+34,Barberini Chapel,/,has title role,Rome,/,12
+35,Frontispiece of Girolamo Teti: Aedes Barberinae,/,is located in,Rome,/,13
+36,Frontispiece of Girolamo Teti: Aedes Barberinae,/,published in,1642,/,13
+37,Frontispiece of Girolamo Teti: Aedes Barberinae,/,is located in,Quirinalem,/,13
+38,Frontispiece of Girolamo Teti: Aedes Barberinae,/,created,Guido Abbatini,Q282810,13
+39,Frontispiece of Girolamo Teti: Aedes Barberinae,/,depicts,Palazzo Barberini,/,13
+40,Frontispiece of Girolamo Teti: Aedes Barberinae,/,is part of,Aedes Barberinae,/,13
+41,Aedes Barberinae,/,created,Girolamo Teti,/,13
+42,Aedes Barberinae,/,is located in,Rome,/,13
+43,Aedes Barberinae,/,published in,1642,/,13
+44,Aedes Barberinae,/,is located in,Quirinalem,/,13
+45,Rape of the Sabines,/,created,Pietro da Cortona,Q333323,14
+46,Rape of the Sabines,/,is located in,Pinacoteca Capitolina,/,14
+47,Pinacoteca Capitolina,/,is located in,Rome,/,14
+48,Rape of Helen,/,created,Pietro da Cortona,Q333323,15
+49,Rape of Helen,/,is located in,Ufficio dell’Assessore Comunale alle Belle Arti,Q109927986,15
+50,Ufficio dell’Assessore Comunale alle Belle Arti,/,is located in,Rome,/,15
+51,Meeting of Esau and Jacob,/,created,Gio. Maria Bottalla,Q10289899,16
+52,Meeting of Esau and Jacob,/,is located in,Pinacoteca Capitolina,/,16
+53,Pinacoteca Capitolina,/,is located in,Rome,/,16
+54,Joseph Sold by his Brothers,Q59710099,created,Pietro Testa,Q2155480,17
+55,Joseph Sold by his Brothers,Q59710099,is located in,Pinacoteca Capitolina,/,17
+56,Pinacoteca Capitolina,/,is located in,Rome,/,17
+57,Allegory of Divine Wisdom,Q111821593,created,Andrea Sacchi,Q495008,18
+58,Allegory of Divine Wisdom,Q111821593,is located in,Palazzo Barberini,Q1136614,18
+59,Palazzo Barberini,/,is located in,Rome,/,18
+60,Glorification of the Reign of Urban VIII,/,created,Pietro da Cortona,Q333323,19
+61,Glorification of the Reign of Urban VIII,/,is located in,Palazzo Barberini,Q1136614,19
+62,Palazzo Barberini,/,is located in,Rome,/,19
+63,Triumph of The Name of Jesus,Q54647365,created,Giovanni Battista Gaulli,Q520573,20
+64,Triumph of The Name of Jesus,Q54647365,is located in,Gesù,/,20
+65,Gesù,/,is located in,Rome,/,20
+66,Modello for fresco on vault of S. Ignazio,/,is located in,Rome,/,21
+67,Modello for fresco on vault of S. Ignazio,/,created,Andrea Pozzo,Q380103,21
+68,Modello for fresco on vault of S. Ignazio,/,is located in,Galleria Nazionale,Q772890,21
+69,Galleria Nazionale,/,is located in,Rome,/,21
+70,Modello for fresco on vault of S. Ignazio,/,is preparatory for,fresco on vault of S. Ignazio,/,21
+71,fresco on vault of S. Ignazio,/,is located in,Rome,/,21
+72,fresco on vault of S. Ignazio,/,is located in,vault of S. Ignazio,/,21
+73,Interior of S. Andrea al Quirinale,/,is located in,Rome,/,22
+74,Interior of S. Andrea,/,created,Bernini,Q712397,22
+75,Interior of S. Andrea,/,is located in,Quirinale,/,22
+76,Interior of S. Andrea,/,depicts,S. Andrea al Quirinale,/,22
+77,S. Andrea al Quirinale,/,is located in,Rome,/,22
+78,S. Andrea al Quirinale,/,is located in,Quirinale,/,22
+79,Caricature of Cassiano dal Pozzo,/,created,Bernini,Q712397,23
+80,Caricature of Cassiano dal Pozzo,/,is located in,Museum Boy mans—van 104 Beuningen,/,23
+81,Museum Boy mans—van 104 Beuningen,/,is located in,Rotterdam,/,23
+82,Vincenzo Giustiniani,Q4013311,created,Claude Mellan,Q1274026,24
+83,"Paolo Giordano Orsini, Duke of Bracciano",/,created,Ottavio Leoni,Q389768,25
+84,"Paolo Giordano Orsini, Duke of Bracciano",/,depicts,Paolo Giordano Orsini,/,25
+85,"Paolo Giordano Orsini, Duke of Bracciano",/,has title role,Duke of Bracciano,/,25
+86,Rest,Q60469737,created,Pietro Testa,Q2155480,26
+87,Rest,Q60469737,is located in,the Flight into Egypt,/,26
+88,Marriage,Q26511045,created,Poussin,Q41554,27
+89,Marriage,Q26511045,is located in,Duke of Rutland,/,27
+90,Duke of Rutland,/,is located in,Belvoir Castle,/,27
+91,Moses trampling,/,created,Poussin,Q41554,28
+92,Moses trampling,/,is located in,Pharaoh’s crown,/,28
+93,View of Delphi with,Q20274952,created,Claude,Q1274026,29
+94,View of Delphi with,Q20274952,depicts,Delphi with,/,29
+95,Camillo Massimi,Q1081418,created,Velasquez,Q297,30
+96,Camillo Massimi,Q1081418,is located in,Ralph Bankes,/,30
+97,Ralph Bankes,/,is located in,Kingston Lacy,/,30
+98,Madonna of the Rosary with Saints Dominic and Catherine,/,created,Sassoferrato,Q124886,31
+99,Madonna of the Rosary with Saints Dominic and Catherine,/,is located in,S. Sabina,/,31
+100,S. Sabina,/,is located in,Rome,/,31
+101,Madonna and Child,Q106868029,created,Sassoferrato,Q124886,32
+102,Madonna and Child,Q106868029,is located in,Galleria Nazionale,Q772890,32
+103,Galleria Nazionale,/,is located in,Rome,/,32
+104,The artist with a group of friends,Q171861,created,Michelangelo Cerquozzi,Q979862,33
+105,The artist with a group of friends,Q171861,is located in,Kassel,/,33
+106,Kassel,/,is located in,Kunstsammlungen,/,33
+107,The Revolt of Masaniello,/,created,Michelangelo Cerquozzi,Q979862,34
+108,The Revolt of Masaniello,/,is located in,Galleria Spada,Q3757699,34
+109,Galleria Spada,/,is located in,Rome,/,34
+110,Women’s Bath,/,created,Michelangelo Cerquozzi,Q979862,35
+111,Women’s Bath,/,is located in,Incisa della Rocchetta,/,35
+112,Incisa della Rocchetta,/,is located in,Rome,/,35
+113,The Death of Regulus,Q77877582,created,Salvator Rosa,Q359421,36
+114,Fortune,Q20087469,created,Salvator Rosa,Q359421,37
+115,Public Felicity triumphant over Dangers,Q18572437,created,Orazio Gentileschi,Q367360,38
+116,Cardinal Mazarin,/,created,Nanteuil,Q1356084,39
+117,Cardinal Mazarin,/,is located in,his Gallery,/,39
+118,Romulus and Remus. Detail from ceiling of gallery,/,created,Romanelli,Q2983846,40
+119,Romulus and Remus. Detail from ceiling of gallery,/,is located in,Bibliothèque Nationale,/,40
+120,Charles I,Q36174,created,Francesco Fanelli,Q3749954,41
+121,Charles I,Q36174,is located in,Miss Daphne Ionides,/,41
+122,Miss Daphne Ionides,/,is located in,London,/,41
+123,Louis XIV,Q5502515,created,Bernini,Q712397,42
+124,Death of Cleopatra,Q135892996,created,Guido Cagnacci,Q2449649,43
+125,Death of Cleopatra,Q135892996,is located in,Kunsthistorisches Museum,Q95569,43
+126,Kunsthistorisches Museum,/,is located in,Vienna,/,43
+127,The Elysian Fields,/,created,Burnacini,Q3836364,44
+128,The Elysian Fields,/,is part of,La Monarchia Latina Trionfante,/,44
+129,La Monarchia Latina Trionfante,/,is located in,Vienna,/,44
+130,Fresco,/,created,Antonio Verrio,Q2305594,45
+131,Fresco,/,is located in,staircase of Hampton Court Palace 200,/,45
+132,Jerome Bankes,Q76240509,created,Massimo Stanzione,Q982384,46
+133,Jerome Bankes,Q76240509,is located in,Ralph Bankes,/,46
+134,Ralph Bankes,/,is located in,Kingston Lacy,/,46
+135,Sir Thomas Baines,Q96091169,created,Carlo Dolci,Q503322,47
+136,Sir Thomas Baines,Q96091169,is located in,Fitzwilliam Museum,/,47
+137,Fitzwilliam Museum,/,is located in,Cambridge,/,47
+138,Charles Fox,Q477723,created,Carlo Maratta,Q538998,48
+139,"Sir Thomas Isham (Sir Gyles Isham, Bt, Lamport Hall) .",/,created,Carlo Maratta,Q538998,49
+140,The drunken Silenus,Q17652393,created,Ribera,Q297838,50
+141,The drunken Silenus,Q17652393,is located in,Museo di Capodimonte,Q290549,50
+142,Museo di Capodimonte,/,is located in,Naples',/,50
+143,The choice of Hercules,Q118993578,created,Paolo de Matteis,Q1851224,51
+144,The choice of Hercules,Q118993578,is located in,Temple Newsam,/,51
+145,Temple Newsam,/,is located in,Leeds',/,51
+146,Dido and Aeneas,Q28093447,created,Solimena,Q736065,52
+147,Dido and Aeneas,Q28093447,is located in,formerly Palazzo Buonaccorsi,/,52
+148,formerly Palazzo Buonaccorsi,/,is located in,Macerata,/,52
+149,Juan de Pareja,Q1352058,created,Velasquez,Q297,53
+150,Juan de Pareja,Q1352058,is located in,Metropolitan Museum,Q160236,53
+151,Metropolitan Museum,/,is located in,New York,/,53
+152,Aristotle contemplating the bust of Homer,/,created,Rembrandt,Q5598,54
+153,Aristotle contemplating the bust of Homer,/,is located in,Metropolitan Museum of Art,/,54
+154,Metropolitan Museum of Art,/,is located in,New York. Purchase,/,54
+155,New York. Purchase,/,is located in,various funds and donors,/,54
+156,various funds and donors,/,is located in,1961,/,54
+157,The Feast of Herod,Q27955591,created,Rubens,Q5599,55
+158,Grand Prince Ferdinand of Tuscany,/,created,Francesco Petrucci,Q27507162,56
+159,Girl,Q18177817,created,G. M. Crespi,Q528620,57
+160,Girl,Q18177817,is located in,her toilet,/,57
+161,Girl,Q18177817,is located in,Uffizi,/,57
+162,Uffizi,/,is located in,Florence,/,57
+163,The Painter’s Family,Q23935763,created,G. M. Crespi,Q528620,58
+164,The Painter’s Family,Q23935763,is located in,Uffizi,/,58
+165,Uffizi,/,is located in,Florence,/,58
+166,Detail from Fair,/,created,G. M. Crespi,Q528620,59
+167,Detail from Fair,/,is located in,Poggio,/,59
+168,‘La Burla del Piovano Arlotto’,/,created,Baldassare Franceschini,Q2403504,60
+169,‘La Burla del Piovano Arlotto’,/,is located in,Uffizi,/,60
+170,Uffizi,/,is located in,Florence,/,60
+171,Rape of Europa,Q18002417,created,Sebastiano Ricci,Q26878812,61
+172,Rape of Europa,Q18002417,is located in,Palazzo Pitti,/,61
+173,Palazzo Pitti,/,is located in,Florence,/,61
+174,Pan and Syrinx,Q55412120,created,Sebastiano Ricci,Q26878812,62
+175,Pan and Syrinx,Q55412120,is located in,Palazzo Pitti,/,62
+176,Palazzo Pitti,/,is located in,Florence,/,62
+177,Venus and Adonis,Q603703,created,Sebastiano Ricci,Q26878812,63
+178,Venus and Adonis,Q603703,is located in,Palazzo Pitti,/,63
+179,Palazzo Pitti,/,is located in,Florence,/,63
+180,A Group of Musicians,/,created,A. D. Gabbiani,Q1083096,64
+181,A Group of Musicians,/,is located in,Palazzo Pitti,/,64
+182,Palazzo Pitti,/,is located in,Florence,/,64
+183,"The stoning of Zechariah (Uffizi, Florence) ,",/,created,GiannAntonio Fumiani,Q1432600,65
+184,Neptune paying homage to Venice,Q47012750,created,Tiepolo,Q186202,66
+185,Neptune paying homage to Venice,Q47012750,is located in,Palazzo Ducale,/,66
+186,Palazzo Ducale,/,is located in,Venice,/,66
+187,Allegory of Venice,Q50947952,created,Niccolo Bambini,Q1111424,67
+188,Allegory of Venice,Q50947952,is located in,Ca’ Pesaro,/,67
+189,Ca’ Pesaro,/,is located in,Venice,/,67
+190,Marriage Allegory of the Rezzonico family,/,created,Tiepolo,Q186202,68
+191,Marriage Allegory of the Rezzonico family,/,is located in,Ca Rezzonico,/,68
+192,Ca Rezzonico,/,is located in,Venice,/,68
+193,Glorification of the Pisani family,/,created,Tiepolo,Q186202,69
+194,Glorification of the Pisani family,/,is located in,Villa Pisani,Q514069,69
+195,Villa Pisani,/,is located in,Stra,/,69
+196,The Triumph of Venice,Q121493619,created,Pompeo Batoni,Q505613,70
+197,The Triumph of Venice,Q121493619,is located in,Collection os the North 264 Carolina Museum of Art,/,70
+198,Collection os the North 264 Carolina Museum of Art,/,is located in,Raleigh. Samuel H. Kress Collection,/,70
+199,Pierre Motteux and his family,/,created,Pellegrini,Q1358364,71
+200,An Operatic Rehearsal,/,created,Marco Ricci,Q930162,72
+201,An Operatic Rehearsal,/,is located in,Sir Watkin Williams-Wynn,/,72
+202,Sir Watkin Williams-Wynn,/,is located in,Bt,/,72
+203,Bt,/,is located in,St Asaph,/,72
+204,Flaminio Corner,Q3746370,created,Marco Pitteri,Q48879573,73
+205,Zaccaria Sagredo,/,created,Gian Antonio Faldoni,Q27493848,74
+206,Zaccaria Sagredo,/,owned by,from B. Nazari,/,74
+207,Zaccaria Sagredo,/,is located in,Museo Correr,/,74
+208,Museo Correr,/,is located in,Venice,/,74
+209,Carlo Lodoli,Q601642,created,Alessandro Longhi,Q1855242,75
+210,Carlo Lodoli,Q601642,is located in,Museo Correr,/,75
+211,Museo Correr,/,is located in,Venice,/,75
+212,Francesco Algarotti,Q439081,created,Anonymous,/,76
+213,Francesco Algarotti,Q439081,is located in,Museo Correr,/,76
+214,Museo Correr,/,is located in,Venice,/,76
+215,Allegory of the Education of the Crown Prince of the Palatinate,/,created,Pellegrini,Q1358364,77
+216,Allegory of the Education of the Crown Prince of the Palatinate,/,is located in,Bayerischen Staatsgemaldesammlungen,/,77
+217,Bayerischen Staatsgemaldesammlungen,/,is located in,Munich,/,77
+218,Jupiter and Io,Q119637439,created,Amigoni,Q380897,78
+219,Detail from fresco on ceiling of staircase in Residenz,/,is located in,Wurzburg,/,79
+220,Detail from fresco on ceiling of staircase,/,created,Tiepolo,Q186202,79
+221,Detail from fresco on ceiling of staircase,/,is located in,Residenz,/,79
+222,Detail from fresco on ceiling of staircase,/,depicts,Detail from fresco on ceiling of staircase in Residenz,/,79
+223,Detail from fresco on ceiling of staircase in Residenz,/,is located in,Residenz,/,79
+224,Detail from fresco on ceiling of staircase,/,has title role,Wurzburg,/,79
+225,"View from Badminton, 1748",/,created,Canaletto,Q182664,80
+226,"View from Badminton, 1748",/,depicts,View from Badminton,/,80
+227,"View from Badminton, 1748",/,has title role,1748,/,80
+228,Owen McSwiny,Q5102690,created,P. Van Bleek,Q2079286,81
+229,Allegorical Tomb to the memory of Archbishop Tillotson,/,created,"Canaletto, Cimaroli and Pittoni",Q182664,82
+230,Allegorical Tomb to the memory of Archbishop Tillotson,/,is located in,Peter Moores,/,82
+231,Peter Moores,/,is located in,Liverpool,/,82
+232,Marshal Schulenburg,/,created,Piazzetta,Q10510932,83
+233,Marshal Schulenburg,/,is located in,Castello Sforzesco,Q3662375,83
+234,Castello Sforzesco,/,is located in,Milan,/,83
+235,Sigismund Streit,Q90687,created,Amigoni,Q380897,84
+236,Sigismund Streit,Q90687,is located in,Gymnasium zu Grauen Kloster,Q328971,84
+237,Gymnasium zu Grauen Kloster,/,is located in,Berlin,/,84
+238,Idyll,Q17324901,created,Piazzetta,Q10510932,85
+239,Idyll,Q17324901,is located in,Wallraf-Richartz Museum,Q700959,85
+240,Wallraf-Richartz Museum,/,is located in,Cologne,/,85
+241,Dedicatory frontispiece to Etchings,/,created,Canaletto,Q182664,86
+242,Village Scene,Q27897774,created,Marco Ricci (engraved Bartolozzi),Q930162,87
+243,Picture Exhibition at Church of S. Rocco,/,is located in,Venice,/,88
+244,Picture Exhibition,/,created,Marieschi,Q2501578,88
+245,Picture Exhibition,/,is located in,Church of S. Rocco,/,88
+246,Picture Exhibition,/,depicts,Picture Exhibition at Church of S. Rocco,/,88
+247,Picture Exhibition at Church of S. Rocco,/,is located in,Church of S. Rocco,/,88
+248,Picture Exhibition,/,has title role,Venice,/,88
+249,Final plate of Illustrations to Gerusalemme Liber ata,/,created,Piazzetta,Q10510932,89
+250,Final plate of Illustrations to Gerusalemme Liber ata,/,depicts,Piazzetta,/,89
+251,Final plate of Illustrations to Gerusalemme Liber ata,/,depicts,Albrizzi,/,89
+252,Final plate of Illustrations to Gerusalemme Liber ata,/,published by,Albrizzi 1745,/,89
+253,Final plate of Illustrations to Gerusalemme Liber ata,/,is part of,Illustrations to Gerusalemme Liber ata,/,89
+254,Frontispiece to Vol. 2 of Goldoni: Opere,/,created,Pietro Antonio Novelli,Q1718478,90
+255,Frontispiece to Vol. 2 of Goldoni: Opere,/,published by,"Pasquali,",/,90
+256,A. M. Zanetti the Elder with Marchese Gerini,/,created,Giuseppe Zocchi,Q1528741,91
+257,A. M. Zanetti the Elder with Marchese Gerini,/,is located in,Museo Correr,/,91
+258,Museo Correr,/,is located in,Venice,/,91
+259,G. M. Sasso,/,created,Alessandro Longhi,Q1855242,92
+260,G. M. Sasso,/,is located in,Museo Correr,/,92
+261,Museo Correr,/,is located in,Venice,/,92
+262,Amadeo Swajer,Q3613921,created,Canova,Q5547,93
+263,Amadeo Swajer,Q3613921,is located in,Museo Correr,/,93
+264,Museo Correr,/,is located in,Venice,/,93
+265,Teodoro Correr,Q2403974,created,Bernardino Castelli,Q3638702,94
+266,Teodoro Correr,Q2403974,is located in,Museo Correr,/,94
+267,Museo Correr,/,is located in,Venice,/,94
+268,Mourners at Tomb of Francesco Algarotti,/,created,G. Volpato,Q3107516,95
+269,Mourners at Tomb of Francesco Algarotti,/,is located in,Pisa,/,95
+270,Banquet of Anthony and Cleopatra,/,created,Tiepolo,Q186202,96
+271,Banquet of Anthony and Cleopatra,/,is located in,Musée Cognacq-Jay,/,96
+272,Musée Cognacq-Jay,/,is located in,360 Paris,/,96
+273,Banquet of Anthony and Cleopatra,/,created,Tiepolo,Q186202,97
+274,Banquet of Anthony and Cleopatra,/,is located in,National Gallery of Victoria,/,97
+275,National Gallery of Victoria,/,is located in,Felton Bequest,/,97
+276,Felton Bequest,/,is located in,Melbourne,/,97
+277,Prato della Valle,Q2636862,is located in,Padua,/,98
+278,Prato della Valle,Q2636862,created,Canaletto,Q182664,98
+279,Prato della Valle,Q2636862,depicts,Prato della Valle,/,98
+280,Prato della Valle,Q2636862,has title role,Padua,/,98
+281,Original proposals for reclaiming Prato della Valle,/,created,Domenico Cerato,Q3712960,99
+282,View ofjohn Strange’s villa at Paese,/,created,Francesco Guardi,Q318769,100
+283,View ofjohn Strange’s villa at Paese,/,owned by,Private Collection,/,100
+284,View ofjohn Strange’s villa at Paese,/,current location is,London,/,100
+285,Private Collection,/,is located in,London,/,100
+286,View ofjohn Strange’s villa at Paese,/,is located in,Treviso,/,100
+287,Joint caricature of Simonelli and Mola 400,/,created,Mola and Simonelli,Q1192715,101
+288,Joint caricature of Simonelli and Mola 400,/,owned by,formerly Vitale Bloch collection,/,101
+289,Mola painting the portrait of Pope Alexander VII,/,created,Agostino Masucci,Q395680,102
+290,Mola painting the portrait of Pope Alexander VII,/,owned by,National Museum,/,102
+291,Mola painting the portrait of Pope Alexander VII,/,current location is,Stockholm,/,102
+292,National Museum,/,is located in,Stockholm,/,102
+293,Fame carrying the name of Louis XIV to the Temple of Immortality,/,created,Baldassare Franceschini,Q2403504,103
+294,Fame carrying the name of Louis XIV to the Temple of Immortality,/,owned by,Versailles,/,103
+295,Jupiter handed over by Cybele to the Corybantes to be fed,/,created,G. M. Crespi,Q528620,104
+296,Jupiter handed over by Cybele to the Corybantes to be fed,/,owned by,Staatsgalerie,/,104
+297,Jupiter handed over by Cybele to the Corybantes to be fed,/,current location is,Stuttgart,/,104
+298,Staatsgalerie,/,is located in,Stuttgart,/,104
+299,Three portraits of Doges,/,created,Francesco Maggiotto,Q3080993,105
+300,Three portraits of Doges,/,owned by,Private Collections,/,105
+301,Maecenas presenting the Arts to Augustus,Q12123145,created,Tiepolo (engraved Leonardis),Q186202,106
